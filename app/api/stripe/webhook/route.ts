@@ -10,17 +10,24 @@ export async function POST(request: Request) {
 
   const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!);
   const body = await request.text();
-  const signature = (await headers()).get('stripe-signature');
+  const signature = headers().get('stripe-signature');
 
   if (!signature) {
     return new Response('Missing stripe-signature header.', { status: 400 });
   }
 
   let event: Stripe.Event;
+
   try {
-    event = stripe.webhooks.constructEvent(body, signature, process.env.STRIPE_WEBHOOK_SECRET);
+    event = stripe.webhooks.constructEvent(
+      body,
+      signature,
+      process.env.STRIPE_WEBHOOK_SECRET
+    );
   } catch (error) {
-    return new Response(`Webhook signature verification failed: ${String(error)}`, { status: 400 });
+    return new Response(`Webhook signature verification failed: ${String(error)}`, {
+      status: 400,
+    });
   }
 
   const admin = createAdminClient();
@@ -31,55 +38,62 @@ export async function POST(request: Request) {
     const plan = session.metadata?.plan === 'complete' ? 'complete' : 'basic';
 
     if (userId) {
-      await admin.from('subscriptions').upsert({
-        user_id: userId,
-        plan,
-        status: 'active',
-        provider: 'stripe',
-        provider_customer_id: typeof session.customer === 'string' ? session.customer : null,
-        provider_subscription_id: typeof session.subscription === 'string' ? session.subscription : null,
-        amount_cents: session.amount_total ?? 0,
-        current_period_end: null
-      }, { onConflict: 'user_id' });
+      await admin.from('subscriptions').upsert(
+        {
+          user_id: userId,
+          plan,
+          status: 'active',
+          provider: 'stripe',
+          provider_customer_id:
+            typeof session.customer === 'string' ? session.customer : null,
+          provider_subscription_id:
+            typeof session.subscription === 'string' ? session.subscription : null,
+          amount_cents: session.amount_total ?? 0,
+          current_period_end: null,
+        },
+        { onConflict: 'user_id' }
+      );
 
       await admin.from('payment_events').insert({
         user_id: userId,
         provider: 'stripe',
         event_name: event.type,
-        raw_payload: event as unknown as Record<string, unknown>
+        raw_payload: event as unknown as Record<string, unknown>,
       });
     }
   }
 
-  if (event.type === 'customer.subscription.updated' || event.type === 'customer.subscription.deleted') {
+  if (
+    event.type === 'customer.subscription.updated' ||
+    event.type === 'customer.subscription.deleted'
+  ) {
     const subscription = event.data.object as Stripe.Subscription;
     const subscriptionId = subscription.id;
 
-    const statusMap: Record<string, 'trialing' | 'active' | 'past_due' | 'canceled'> = {
+    const statusMap: Record<
+      string,
+      'trialing' | 'active' | 'past_due' | 'canceled'
+    > = {
       trialing: 'trialing',
       active: 'active',
       past_due: 'past_due',
       canceled: 'canceled',
       unpaid: 'past_due',
       incomplete: 'past_due',
-      incomplete_expired: 'canceled'
+      incomplete_expired: 'canceled',
     };
+
+    const currentPeriodEnd =
+      subscription.items.data[0]?.current_period_end ?? null;
 
     await admin
       .from('subscriptions')
       .update({
         status: statusMap[subscription.status] ?? 'past_due',
-        const firstItem = subscription.items.data[0];
-    const currentPeriodEnd = firstItem?.current_period_end ?? null;
-    
-    await supabase
-      .from("subscriptions")
-      .update({
-        status: statusMap[subscription.status] ?? "past_due",
         current_period_end: currentPeriodEnd
           ? new Date(currentPeriodEnd * 1000).toISOString()
           : null,
-      });
+      })
       .eq('provider_subscription_id', subscriptionId);
   }
 
