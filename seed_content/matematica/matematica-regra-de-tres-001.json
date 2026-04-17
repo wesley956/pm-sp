@@ -1,0 +1,182 @@
+{
+  "id": "matematica-regra-de-tres-001",
+  "name": "Regra de três",
+  "topico": "Regra de três",
+  "resumo": "Regra de três é um método para resolver problemas com grandezas proporcionais. Pode ser simples ou composta, direta ou inversa. A VUNESP cobra muito interpretação da relação entre grandezas e montagem correta da proporção.",
+  "teoria": "Regra de três é uma técnica usada para descobrir um valor desconhecido quando há relação proporcional entre grandezas. A regra de três simples envolve duas grandezas; a composta, mais de duas.\n\nNa regra de três simples direta, quando uma grandeza aumenta e a outra também aumenta na mesma tendência, monta-se uma proporção direta. Exemplo: 2 cadernos custam R$ 10; 5 cadernos custam x. Quanto mais cadernos, maior o custo.\n\nNa regra de três simples inversa, quando uma grandeza aumenta e a outra diminui, a relação é inversa. Exemplo: 6 trabalhadores fazem um serviço em 10 dias. Se aumentarmos o número de trabalhadores, o número de dias tende a diminuir.\n\nNa regra de três composta, analisam-se todas as grandezas envolvidas em relação à grandeza que contém a incógnita. É essencial identificar se cada relação é direta ou inversa.\n\nO maior erro em prova não é a conta: é montar a relação errada. Por isso, antes de multiplicar, o candidato precisa decidir se as grandezas variam juntas ou em sentido oposto. A VUNESP gosta muito dessa análise.\n\nUm bom caminho é montar tabela, alinhar os dados e usar setas para ver o comportamento das grandezas. Se a incógnita estiver em dias e os trabalhadores aumentarem, os dias diminuem: relação inversa. Se horas de estudo aumentarem e questões resolvidas também aumentarem, a relação é direta.\n\nEm resumo, a regra de três depende de interpretação. Descobrir se a relação é direta ou inversa é o passo principal para acertar.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Regra de três resolve problemas com grandezas proporcionais e valor desconhecido."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Na direta, as grandezas variam no mesmo sentido. Na inversa, variam em sentidos contrários. Na composta, é preciso analisar cada grandeza em relação à incógnita."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra muito interpretação da proporcionalidade, com situações de trabalho, tempo, produção, consumo, velocidade e custo."
+    }
+  ],
+  "pontos_chave": [
+    "Regra de três simples envolve duas grandezas.",
+    "Direta: aumentou uma, aumenta a outra.",
+    "Inversa: aumentou uma, diminui a outra.",
+    "Na composta, analisa-se uma grandeza de cada vez.",
+    "Montagem correta vale mais que cálculo rápido."
+  ],
+  "dicas_prova": [
+    "Faça tabela para organizar os dados.",
+    "Use setas para decidir se a relação é direta ou inversa.",
+    "Só monte a proporção depois de entender o comportamento das grandezas.",
+    "Pegadinhas clássicas da VUNESP: tratar grandeza inversa como direta."
+  ],
+  "exemplos": [
+    "3 canetas custam R$ 9; 5 canetas custam R$ 15.",
+    "4 pessoas fazem um serviço em 12 dias; 8 pessoas fariam em 6 dias.",
+    "Se 2 máquinas produzem 100 peças, 4 máquinas produzem 200, no mesmo tempo."
+  ],
+  "erros_comuns": [
+    "Montar relação direta quando é inversa.",
+    "Misturar grandezas sem alinhar corretamente a tabela.",
+    "Resolver na pressa sem interpretar o enunciado."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quando a regra de três é direta?",
+      "resposta": "Quando as grandezas variam no mesmo sentido."
+    },
+    {
+      "pergunta": "Quando a regra de três é inversa?",
+      "resposta": "Quando as grandezas variam em sentidos opostos."
+    },
+    {
+      "pergunta": "O que a regra de três composta exige?",
+      "resposta": "Análise individual de cada grandeza em relação à incógnita."
+    },
+    {
+      "pergunta": "Qual é o maior risco nesse tema?",
+      "resposta": "Montar a relação errada."
+    },
+    {
+      "pergunta": "Como organizar melhor o problema?",
+      "resposta": "Fazendo tabela."
+    },
+    {
+      "pergunta": "O que a VUNESP cobra muito?",
+      "resposta": "Trabalho, tempo, produção e consumo."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Se 3 cadernos custam R$ 18, 5 cadernos custam:",
+      "alternativas": [
+        "R$ 24",
+        "R$ 28",
+        "R$ 30",
+        "R$ 32"
+      ],
+      "correta": 2,
+      "explicacao": "Grandezas diretamente proporcionais. Cada caderno custa 6 reais. 5 x 6 = 30."
+    },
+    {
+      "enunciado": "Se 4 trabalhadores realizam uma obra em 15 dias, 6 trabalhadores, com mesmo ritmo, a farão em:",
+      "alternativas": [
+        "10 dias",
+        "12 dias",
+        "18 dias",
+        "22 dias"
+      ],
+      "correta": 0,
+      "explicacao": "Relação inversa: mais trabalhadores, menos dias. 4 x 15 = 6 x x, então x = 10."
+    },
+    {
+      "enunciado": "Uma máquina produz 120 peças em 4 horas. Em 6 horas, produzirá:",
+      "alternativas": [
+        "160",
+        "180",
+        "200",
+        "240"
+      ],
+      "correta": 1,
+      "explicacao": "Direta: mais horas, mais peças. 120/4 = 30 por hora. Em 6 horas: 180."
+    },
+    {
+      "enunciado": "Se 8 pessoas consomem um estoque em 12 dias, 6 pessoas consumirão o mesmo estoque em:",
+      "alternativas": [
+        "9 dias",
+        "12 dias",
+        "16 dias",
+        "18 dias"
+      ],
+      "correta": 2,
+      "explicacao": "Inversa: menos pessoas, mais dias. 8 x 12 = 6 x x, então x = 16."
+    },
+    {
+      "enunciado": "A regra de três simples é usada quando há:",
+      "alternativas": [
+        "uma única grandeza",
+        "duas grandezas",
+        "três incógnitas",
+        "somente porcentagem"
+      ],
+      "correta": 1,
+      "explicacao": "Regra de três simples trabalha com duas grandezas."
+    },
+    {
+      "enunciado": "Em problemas de trabalhadores e dias, normalmente a relação é:",
+      "alternativas": [
+        "direta",
+        "inversa",
+        "nula",
+        "aleatória"
+      ],
+      "correta": 1,
+      "explicacao": "Mais trabalhadores tendem a reduzir os dias, portanto é inversa."
+    },
+    {
+      "enunciado": "Se 2 litros de tinta pintam 30 m², 5 litros pintam:",
+      "alternativas": [
+        "60 m²",
+        "70 m²",
+        "75 m²",
+        "80 m²"
+      ],
+      "correta": 2,
+      "explicacao": "Direta: 2 para 30, 5 para x. x = 75."
+    },
+    {
+      "enunciado": "O passo mais importante antes da conta é:",
+      "alternativas": [
+        "multiplicar cruzado imediatamente",
+        "identificar se a relação é direta ou inversa",
+        "arredondar números",
+        "eliminar unidades"
+      ],
+      "correta": 1,
+      "explicacao": "Sem isso, a montagem pode ficar errada."
+    },
+    {
+      "enunciado": "Se 12 operários constroem um muro em 5 dias, 3 operários levarão:",
+      "alternativas": [
+        "10 dias",
+        "15 dias",
+        "20 dias",
+        "25 dias"
+      ],
+      "correta": 2,
+      "explicacao": "Inversa: 12 x 5 = 3 x x, então x = 20."
+    },
+    {
+      "enunciado": "Grandezas diretamente proporcionais:",
+      "alternativas": [
+        "aumentam uma quando a outra diminui",
+        "variam no mesmo sentido",
+        "não se relacionam",
+        "sempre envolvem divisão"
+      ],
+      "correta": 1,
+      "explicacao": "Direta significa mesma tendência de variação."
+    }
+  ]
+}

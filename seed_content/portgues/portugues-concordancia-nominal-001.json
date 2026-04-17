@@ -1,0 +1,182 @@
+{
+  "id": "portugues-concordancia-nominal-001",
+  "name": "Concordância nominal",
+  "topico": "Concordância nominal",
+  "resumo": "Concordância nominal é a relação entre o substantivo e as palavras que o acompanham, como artigo, adjetivo, numeral e pronome. Em regra, os termos determinantes e caracterizadores concordam em gênero e número com o substantivo. A VUNESP cobra muito adjetivo posposto a dois substantivos, palavras invariáveis e expressões como anexo, mesmo, quite, bastante e meio.",
+  "teoria": "Concordância nominal é a adequação de palavras que se relacionam com o substantivo. Artigos, adjetivos, numerais e pronomes devem concordar com ele em gênero e número. Exemplo: \"As alunas dedicadas chegaram.\" O artigo 'as' e o adjetivo 'dedicadas' concordam com 'alunas'.\n\nQuando um adjetivo se refere a mais de um substantivo, a concordância varia conforme a posição e o sentido. Se o adjetivo vier depois de dois substantivos de gêneros diferentes, pode concordar com o mais próximo ou ir para o masculino plural: \"amor e amizade verdadeira\" ou \"amor e amizade verdadeiros\". Em prova, o contexto ajuda a perceber a forma mais adequada.\n\nSe o adjetivo vier antes de dois substantivos, geralmente concorda com o mais próximo: \"boa disciplina e comportamento\". Expressões com 'é proibido', 'é necessário', 'é bom' podem variar ou não, dependendo da presença de artigo. Exemplo: 'É proibida a entrada' / 'É proibido entrada'.\n\nAlgumas palavras geram muitas dúvidas. 'Anexo', 'incluso', 'obrigado', 'mesmo', 'quite' e 'leso' variam. Exemplo: 'Seguem anexos os documentos'; 'Elas mesmas resolveram'; 'Estamos quites'. Já 'alerta', em muitos usos, pode ser invariável: 'Os soldados estavam alerta'.\n\n'Bastante' pode ser advérbio ou pronome/adjetivo. Como advérbio, é invariável: 'Estudaram bastante'. Como pronome/adjetivo, varia: 'Havia bastantes questões'. 'Meio' também exige atenção: como advérbio, é invariável: 'Ela ficou meio nervosa'; como numeral/adjetivo, varia: 'Tomou meia garrafa'.\n\nEm resumo, a concordância nominal exige perceber quais palavras se ligam ao substantivo e qual função elas exercem. A VUNESP explora justamente as palavras de uso duvidoso e as estruturas com mais de um núcleo nominal.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Concordância nominal é a relação de gênero e número entre o substantivo e seus determinantes ou caracterizadores."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Artigo, adjetivo, numeral e pronome concordam com o substantivo. Adjetivo ligado a mais de um substantivo pode variar conforme posição. Palavras como 'bastante', 'meio', 'anexo', 'mesmo' e 'quite' exigem atenção ao valor morfológico."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma cobrar palavras variáveis e invariáveis, adjetivos ligados a dois substantivos e expressões cristalizadas como 'é proibido' e 'é necessário'."
+    }
+  ],
+  "pontos_chave": [
+    "A concordância nominal se dá entre o nome e seus acompanhantes.",
+    "Bastante e meio mudam de comportamento conforme a função.",
+    "Anexo, mesmo, quite e incluso costumam variar.",
+    "Expressões como 'é proibido' dependem da presença de artigo.",
+    "A posição do adjetivo influencia a concordância."
+  ],
+  "dicas_prova": [
+    "Descubra primeiro a que substantivo o termo está ligado.",
+    "Verifique se a palavra é advérbio ou adjetivo/pronome.",
+    "Nas palavras duvidosas, teste se elas modificam verbo ou nome.",
+    "Pegadinhas clássicas da VUNESP: bastante, meio, anexo, quite e adjetivo com dois substantivos."
+  ],
+  "exemplos": [
+    "As questões difíceis foram resolvidas.",
+    "Elas ficaram meio cansadas. (advérbio invariável)",
+    "Seguem anexos os documentos."
+  ],
+  "erros_comuns": [
+    "Flexionar advérbio como se fosse adjetivo.",
+    "Usar 'anexo' invariável em contexto que exige concordância.",
+    "Ignorar o artigo em expressões como 'é proibido'."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é concordância nominal?",
+      "resposta": "É a adequação em gênero e número entre o substantivo e seus acompanhantes."
+    },
+    {
+      "pergunta": "Quando 'bastante' varia?",
+      "resposta": "Quando funciona como pronome ou adjetivo."
+    },
+    {
+      "pergunta": "Quando 'bastante' não varia?",
+      "resposta": "Quando funciona como advérbio."
+    },
+    {
+      "pergunta": "Quando 'meio' é invariável?",
+      "resposta": "Quando funciona como advérbio, com sentido de 'um pouco'."
+    },
+    {
+      "pergunta": "A palavra 'anexo' varia?",
+      "resposta": "Sim, normalmente concorda com o substantivo."
+    },
+    {
+      "pergunta": "Qual é a chave desse tema?",
+      "resposta": "Descobrir a função da palavra na frase."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a alternativa correta quanto à concordância nominal.",
+      "alternativas": [
+        "Seguem anexo os documentos.",
+        "Seguem anexos os documentos.",
+        "Segue anexos os documentos.",
+        "Seguem anexa os documentos."
+      ],
+      "correta": 1,
+      "explicacao": "'Anexos' concorda com 'documentos'."
+    },
+    {
+      "enunciado": "Em 'Elas ficaram meio preocupadas', a palavra 'meio' é:",
+      "alternativas": [
+        "adjetivo variável",
+        "advérbio invariável",
+        "substantivo",
+        "pronome"
+      ],
+      "correta": 1,
+      "explicacao": "Tem valor de advérbio, equivalente a 'um pouco', por isso é invariável."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        "Havia bastante alunos na sala.",
+        "Havia bastantes alunos na sala.",
+        "Havia bastantes aluno na sala.",
+        "Havia bastante alunas e bastante meninos."
+      ],
+      "correta": 1,
+      "explicacao": "Como acompanha substantivo plural, 'bastantes' funciona como pronome/adjetivo e varia."
+    },
+    {
+      "enunciado": "Na expressão 'É proibida a entrada', a concordância ocorre porque:",
+      "alternativas": [
+        "há artigo determinando o substantivo",
+        "o verbo é transitivo",
+        "entrada é verbo",
+        "não existe concordância"
+      ],
+      "correta": 0,
+      "explicacao": "A presença do artigo 'a' leva a concordância com 'entrada'."
+    },
+    {
+      "enunciado": "Assinale a frase correta.",
+      "alternativas": [
+        "Elas mesma resolveram o problema.",
+        "Elas mesmas resolveram o problema.",
+        "Elas mesmo resolveram o problema.",
+        "Elas mesm as resolveram o problema."
+      ],
+      "correta": 1,
+      "explicacao": "'Mesmas' concorda com o pronome 'elas'."
+    },
+    {
+      "enunciado": "Em 'Estamos quites com a tesouraria', a palavra 'quites' está:",
+      "alternativas": [
+        "inadequada",
+        "correta, concordando com sujeito plural",
+        "errada porque deveria ser 'quite'",
+        "sem função"
+      ],
+      "correta": 1,
+      "explicacao": "'Quite' varia em número: 'quites' está correto com sujeito plural."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta quanto a 'meio'.",
+      "alternativas": [
+        "Ela tomou meio garrafa.",
+        "Ela tomou meia garrafa.",
+        "Ela tomou meio garrafas.",
+        "Ela tomou meias garrafa."
+      ],
+      "correta": 1,
+      "explicacao": "Aqui 'meia' é numeral/adjetivo, por isso concorda com 'garrafa'."
+    },
+    {
+      "enunciado": "Quando o adjetivo se refere a dois substantivos de gêneros diferentes e vem depois deles, pode:",
+      "alternativas": [
+        "ficar sempre no singular feminino",
+        "concordar com o mais próximo ou ir para o masculino plural",
+        "ficar sempre invariável",
+        "concordar só com o primeiro"
+      ],
+      "correta": 1,
+      "explicacao": "Essa é a regra geral para esse tipo de estrutura."
+    },
+    {
+      "enunciado": "A palavra 'alerta' em 'Os guardas estavam alerta' é geralmente:",
+      "alternativas": [
+        "variável obrigatória",
+        "invariável",
+        "artigo",
+        "pronome"
+      ],
+      "correta": 1,
+      "explicacao": "Nesse uso, 'alerta' costuma ser invariável."
+    },
+    {
+      "enunciado": "A melhor forma de resolver concordância nominal é:",
+      "alternativas": [
+        "decorar listas sem contexto",
+        "identificar o substantivo e a função das palavras ligadas a ele",
+        "olhar só a última palavra da frase",
+        "ignorar a classe gramatical"
+      ],
+      "correta": 1,
+      "explicacao": "A concordância depende da relação sintática entre os termos."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "matematica-sistema-de-equacoes-001",
+  "name": "Sistema de equações",
+  "topico": "Sistema de equações",
+  "resumo": "Sistema de equações é um conjunto de equações com mais de uma incógnita. A solução é o conjunto de valores que satisfaz todas as equações ao mesmo tempo. A VUNESP cobra muito sistemas simples de 2 incógnitas com problemas práticos.",
+  "teoria": "Sistema de equações do 1º grau com duas incógnitas costuma ter duas equações e dois valores desconhecidos. Resolver o sistema significa encontrar os valores que satisfazem simultaneamente ambas as equações.\n\nOs métodos mais usados são substituição e adição. Na substituição, isola-se uma incógnita em uma equação e substitui-se na outra. Na adição, somam-se ou subtraem-se as equações para eliminar uma incógnita.\n\nExemplo: x + y = 10 e x - y = 2. Somando as duas equações, obtemos 2x = 12, então x = 6. Substituindo em x + y = 10, temos y = 4.\n\nEm problemas, o sistema aparece quando duas informações diferentes relacionam as mesmas incógnitas. Exemplo: quantidade de notas e moedas, soma de idades, preço de produtos, total de itens.\n\nA VUNESP valoriza a montagem correta do sistema e a leitura atenta. Muitas vezes o cálculo é simples, mas o problema exige organizar bem as informações.\n\nEm resumo, sistema de equações é uma forma de resolver situações com duas incógnitas e duas relações entre elas.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Sistema de equações é um conjunto de equações que devem ser satisfeitas ao mesmo tempo."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Pode-se resolver por substituição ou adição. A solução final precisa servir para todas as equações do sistema."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra problemas com valores, quantidades, idades e preços que levam a um sistema simples de duas incógnitas."
+    }
+  ],
+  "pontos_chave": [
+    "Sistema envolve mais de uma equação.",
+    "A solução deve satisfazer todas.",
+    "Substituição e adição são métodos principais.",
+    "Problemas do cotidiano viram sistemas com facilidade.",
+    "Montagem correta é essencial."
+  ],
+  "dicas_prova": [
+    "Dê nome claro às incógnitas.",
+    "Organize as informações em frases matemáticas.",
+    "Após achar os valores, teste nas duas equações.",
+    "Pegadinhas clássicas da VUNESP: trocar as incógnitas no problema."
+  ],
+  "exemplos": [
+    "x + y = 10 e x - y = 2 dão x = 6 e y = 4.",
+    "2x + y = 11 e x + y = 7 dão x = 4 e y = 3.",
+    "Se a soma é 12 e a diferença é 4, os números são 8 e 4."
+  ],
+  "erros_comuns": [
+    "Resolver uma equação e esquecer de verificar a outra.",
+    "Montar sistema com dados trocados.",
+    "Errar sinais no método da adição."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é sistema de equações?",
+      "resposta": "É um conjunto de equações com incógnitas relacionadas."
+    },
+    {
+      "pergunta": "Quando a solução é válida?",
+      "resposta": "Quando satisfaz todas as equações."
+    },
+    {
+      "pergunta": "Quais métodos são mais usados?",
+      "resposta": "Substituição e adição."
+    },
+    {
+      "pergunta": "Qual é o maior risco?",
+      "resposta": "Montar o sistema errado."
+    },
+    {
+      "pergunta": "Como conferir a resposta?",
+      "resposta": "Substituindo os valores nas equações."
+    },
+    {
+      "pergunta": "Onde isso cai muito?",
+      "resposta": "Em problemas com preços, quantidades e idades."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "No sistema x + y = 10 e x - y = 2, o valor de x é:",
+      "alternativas": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correta": 2,
+      "explicacao": "Somando as equações: 2x = 12, então x = 6."
+    },
+    {
+      "enunciado": "No sistema x + y = 10 e x - y = 2, o valor de y é:",
+      "alternativas": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correta": 2,
+      "explicacao": "Com x = 6, temos y = 4."
+    },
+    {
+      "enunciado": "No sistema 2x + y = 11 e x + y = 7, o valor de x é:",
+      "alternativas": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correta": 2,
+      "explicacao": "Subtraindo a segunda da primeira: x = 4."
+    },
+    {
+      "enunciado": "No sistema 2x + y = 11 e x + y = 7, o valor de y é:",
+      "alternativas": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correta": 1,
+      "explicacao": "Se x = 4, então 4 + y = 7 e y = 3."
+    },
+    {
+      "enunciado": "A soma de dois números é 14 e a diferença é 2. O maior número é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 2,
+      "explicacao": "Sistema: x + y = 14 e x - y = 2. Somando: 2x = 16, então x = 8."
+    },
+    {
+      "enunciado": "Dois produtos custam juntos R$ 30. Um custa R$ 4 a mais que o outro. O mais caro custa:",
+      "alternativas": [
+        "R$ 15",
+        "R$ 16",
+        "R$ 17",
+        "R$ 18"
+      ],
+      "correta": 2,
+      "explicacao": "x + y = 30 e x - y = 4. Somando: 2x = 34, então x = 17."
+    },
+    {
+      "enunciado": "O sistema pode ser resolvido por:",
+      "alternativas": [
+        "substituição ou adição",
+        "apenas multiplicação",
+        "somente raiz quadrada",
+        "porcentagem apenas"
+      ],
+      "correta": 0,
+      "explicacao": "São os métodos mais usados para sistemas simples."
+    },
+    {
+      "enunciado": "A solução de um sistema deve:",
+      "alternativas": [
+        "servir só para a primeira equação",
+        "servir só para a segunda",
+        "servir para todas as equações",
+        "ser um número negativo sempre"
+      ],
+      "correta": 2,
+      "explicacao": "Essa é a definição de solução do sistema."
+    },
+    {
+      "enunciado": "Se x + y = 9 e x = 4, então y =",
+      "alternativas": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correta": 2,
+      "explicacao": "y = 9 - 4 = 5."
+    },
+    {
+      "enunciado": "O passo mais importante em problemas com sistema é:",
+      "alternativas": [
+        "montar corretamente as equações",
+        "decorar respostas",
+        "arredondar os números",
+        "eliminar o sinal de igual"
+      ],
+      "correta": 0,
+      "explicacao": "Sem modelagem correta, a solução não representa o problema."
+    }
+  ]
+}

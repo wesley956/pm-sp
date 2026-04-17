@@ -1,0 +1,182 @@
+{
+  "id": "portugues-classes-de-palavras-001",
+  "name": "Classes de palavras",
+  "topico": "Classes de palavras",
+  "resumo": "Classes de palavras são grupos em que as palavras se organizam conforme função e sentido. As principais cobradas são substantivo, adjetivo, artigo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição. A VUNESP costuma cobrar identificação da classe, função no contexto e valor semântico de certas palavras.",
+  "teoria": "As classes de palavras, também chamadas classes gramaticais, ajudam a compreender como cada palavra funciona dentro da frase. Em concursos, esse tema é muito cobrado porque serve de base para concordância, regência, pontuação e interpretação.\n\nSubstantivo é a palavra que nomeia seres, objetos, sentimentos, lugares ou ideias: casa, aluno, alegria, justiça. Adjetivo é a palavra que caracteriza o substantivo: casa bonita, aluno dedicado. Artigo acompanha o substantivo, determinando-o ou indeterminando-o: o, a, os, as, um, uma.\n\nNumeral indica quantidade, ordem, multiplicação ou fração: dois, primeiro, dobro, meio. Pronome substitui, acompanha ou retoma o nome: eu, ela, este, meu, alguém. Verbo indica ação, estado, fenômeno ou processo: correr, ser, chover, crescer.\n\nAdvérbio modifica verbo, adjetivo ou outro advérbio, acrescentando ideia de tempo, modo, intensidade, lugar, afirmação, negação e outras circunstâncias: ontem, bem, muito, aqui, não. Preposição liga palavras, estabelecendo relação entre elas: de, em, por, para, com. Conjunção liga orações ou termos de mesma função: e, mas, porque, embora. Interjeição expressa emoção ou reação: ah!, ufa!, socorro!\n\nA VUNESP também pode cobrar locuções, como locução adjetiva, adverbial e prepositiva. Além disso, uma mesma palavra pode mudar de classe conforme o contexto. Exemplo: 'o caminhar' pode funcionar como substantivo; 'caminhar' isoladamente, como verbo. Por isso, o contexto é decisivo.\n\nEm resumo, dominar as classes de palavras é essencial para entender estrutura, sentido e relação entre os termos da oração.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Classes de palavras são categorias gramaticais que agrupam palavras conforme função, forma e significado dentro da língua."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Substantivo nomeia; adjetivo caracteriza; artigo determina; numeral quantifica; pronome substitui ou acompanha; verbo indica ação ou estado; advérbio modifica; preposição liga; conjunção conecta; interjeição expressa emoção. O contexto pode alterar a classificação funcional de uma palavra."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra reconhecimento de classes gramaticais, valor de pronomes, função de conjunções, noção de advérbio e mudanças de classe conforme o contexto."
+    }
+  ],
+  "pontos_chave": [
+    "Classes de palavras organizam o funcionamento das palavras na frase.",
+    "O contexto pode mudar a classe ou a função de uma palavra.",
+    "Verbo, pronome, advérbio e conjunção caem bastante na VUNESP.",
+    "Esse tema se conecta com concordância, regência e pontuação.",
+    "Identificar a classe ajuda a resolver várias outras matérias."
+  ],
+  "dicas_prova": [
+    "Não decore apenas nomes: observe a função da palavra na frase.",
+    "Analise o termo antes e depois da palavra para classificá-la.",
+    "Se a palavra liga, modifica ou nomeia, isso já dá boa pista.",
+    "Pegadinhas clássicas da VUNESP: palavra com aparência de uma classe funcionando como outra no contexto."
+  ],
+  "exemplos": [
+    "Substantivo: disciplina.",
+    "Adjetivo: disciplina rígida.",
+    "Advérbio: estudou muito."
+  ],
+  "erros_comuns": [
+    "Confundir adjetivo com advérbio.",
+    "Classificar palavra isoladamente sem olhar a frase.",
+    "Achar que toda palavra terminada em -mente é obrigatoriamente simples de interpretar sem contexto."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é substantivo?",
+      "resposta": "É a classe que nomeia seres, objetos, sentimentos, lugares e ideias."
+    },
+    {
+      "pergunta": "O que é adjetivo?",
+      "resposta": "É a classe que caracteriza o substantivo."
+    },
+    {
+      "pergunta": "O que é advérbio?",
+      "resposta": "É a palavra que modifica verbo, adjetivo ou outro advérbio."
+    },
+    {
+      "pergunta": "O que é preposição?",
+      "resposta": "É a palavra que liga termos e estabelece relação entre eles."
+    },
+    {
+      "pergunta": "O que é conjunção?",
+      "resposta": "É a palavra que conecta orações ou termos semelhantes."
+    },
+    {
+      "pergunta": "O contexto influencia a classe da palavra?",
+      "resposta": "Sim. A função no enunciado é decisiva."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Na frase 'O aluno dedicado estudou cedo', a palavra 'dedicado' é:",
+      "alternativas": [
+        "substantivo",
+        "adjetivo",
+        "advérbio",
+        "pronome"
+      ],
+      "correta": 1,
+      "explicacao": "Ela caracteriza o substantivo 'aluno', portanto é adjetivo."
+    },
+    {
+      "enunciado": "Na frase 'Ele chegou ontem', a palavra 'ontem' é:",
+      "alternativas": [
+        "substantivo",
+        "verbo",
+        "advérbio",
+        "conjunção"
+      ],
+      "correta": 2,
+      "explicacao": "Indica circunstância de tempo, logo é advérbio."
+    },
+    {
+      "enunciado": "A palavra que liga dois termos em 'livro de história' é classificada como:",
+      "alternativas": [
+        "advérbio",
+        "preposição",
+        "interjeição",
+        "artigo"
+      ],
+      "correta": 1,
+      "explicacao": "'De' estabelece relação entre os termos, funcionando como preposição."
+    },
+    {
+      "enunciado": "Em 'eu, tu, ele', temos exemplos de:",
+      "alternativas": [
+        "verbos",
+        "numerais",
+        "pronomes",
+        "artigos"
+      ],
+      "correta": 2,
+      "explicacao": "São pronomes pessoais."
+    },
+    {
+      "enunciado": "A classe que indica ação, estado ou fenômeno é:",
+      "alternativas": [
+        "verbo",
+        "substantivo",
+        "artigo",
+        "conjunção"
+      ],
+      "correta": 0,
+      "explicacao": "Essa definição corresponde ao verbo."
+    },
+    {
+      "enunciado": "Na frase 'Muito aluno faltou', a palavra 'muito' funciona como:",
+      "alternativas": [
+        "advérbio",
+        "pronome indefinido",
+        "preposição",
+        "interjeição"
+      ],
+      "correta": 1,
+      "explicacao": "Ela acompanha o substantivo 'aluno' com valor de quantidade indefinida."
+    },
+    {
+      "enunciado": "A palavra 'e' é normalmente classificada como:",
+      "alternativas": [
+        "preposição",
+        "conjunção",
+        "artigo",
+        "advérbio"
+      ],
+      "correta": 1,
+      "explicacao": "Ela liga termos ou orações, sendo conjunção."
+    },
+    {
+      "enunciado": "Em 'Que dia bonito!', a palavra 'que' pode atuar como:",
+      "alternativas": [
+        "interjeição/pronome exclamativo em contexto",
+        "verbo",
+        "artigo",
+        "substantivo"
+      ],
+      "correta": 0,
+      "explicacao": "Nesse contexto exclamativo, o termo expressa intensidade e introduz a exclamação."
+    },
+    {
+      "enunciado": "A VUNESP costuma exigir do candidato, nesse tema:",
+      "alternativas": [
+        "apenas decorar listas",
+        "reconhecer função no contexto",
+        "evitar leitura",
+        "ignorar a frase"
+      ],
+      "correta": 1,
+      "explicacao": "A classificação depende do uso contextual da palavra."
+    },
+    {
+      "enunciado": "Assinale a alternativa com artigo definido.",
+      "alternativas": [
+        "um",
+        "uma",
+        "o",
+        "algum"
+      ],
+      "correta": 2,
+      "explicacao": "'O' é artigo definido; 'um' e 'uma' são indefinidos."
+    }
+  ]
+}

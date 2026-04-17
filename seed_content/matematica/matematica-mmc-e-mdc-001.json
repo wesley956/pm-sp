@@ -1,0 +1,182 @@
+{
+  "id": "matematica-mmc-e-mdc-001",
+  "name": "MMC e MDC",
+  "topico": "MMC e MDC",
+  "resumo": "MMC é o mínimo múltiplo comum; MDC é o máximo divisor comum. O MMC é muito usado em frações e problemas de coincidência de eventos. O MDC é usado em divisões em partes iguais e simplificação. A VUNESP cobra ambos em situações práticas.",
+  "teoria": "MMC é o menor número, diferente de zero, que é múltiplo comum de dois ou mais números. Exemplo: múltiplos de 4 são 4, 8, 12, 16... múltiplos de 6 são 6, 12, 18... O menor múltiplo comum é 12.\n\nMDC é o maior número que divide dois ou mais números ao mesmo tempo. Exemplo: divisores de 12 são 1, 2, 3, 4, 6, 12; divisores de 18 são 1, 2, 3, 6, 9, 18. O maior divisor comum é 6.\n\nO cálculo pode ser feito por decomposição em fatores primos. Para o MMC, consideram-se todos os fatores primos com os maiores expoentes. Para o MDC, consideram-se apenas os fatores comuns com menores expoentes.\n\nNa prática, MMC aparece muito em problemas de coincidência cíclica, como semáforos, alarmes, ônibus, voltas de corredores e encontros periódicos. MDC aparece em problemas de dividir objetos em grupos iguais, montar pacotes idênticos e simplificar frações.\n\nA VUNESP costuma diferenciar os dois pelo contexto. Se a pergunta envolve 'de quanto em quanto tempo voltarão a coincidir?', a tendência é usar MMC. Se pergunta 'qual o maior tamanho ou quantidade para dividir sem sobrar?', a tendência é usar MDC.\n\nEm resumo, MMC junta ciclos; MDC divide em partes máximas iguais.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "MMC é o menor múltiplo comum; MDC é o maior divisor comum."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "O MMC usa todos os fatores primos necessários. O MDC usa apenas os fatores comuns. O contexto indica qual deles aplicar."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra coincidência de eventos, frações, agrupamentos e divisões exatas em partes iguais."
+    }
+  ],
+  "pontos_chave": [
+    "MMC serve para coincidência e denominador comum.",
+    "MDC serve para divisão em partes iguais máximas.",
+    "Decomposição em primos facilita o cálculo.",
+    "O enunciado geralmente indica qual conceito usar.",
+    "MMC e MDC aparecem muito em problemas práticos."
+  ],
+  "dicas_prova": [
+    "Leia a pergunta final antes de decidir o método.",
+    "Se a ideia for coincidir no tempo, pense em MMC.",
+    "Se a ideia for dividir sem sobrar, pense em MDC.",
+    "Pegadinhas clássicas da VUNESP: usar MMC no lugar de MDC e vice-versa."
+  ],
+  "exemplos": [
+    "MMC de 4 e 6 = 12.",
+    "MDC de 12 e 18 = 6.",
+    "Se dois alarmes tocam a cada 6 e 8 min, voltarão a tocar juntos em 24 min."
+  ],
+  "erros_comuns": [
+    "Confundir múltiplo com divisor.",
+    "Escolher MMC quando o problema pede a maior divisão exata.",
+    "Errar a decomposição em primos."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é MMC?",
+      "resposta": "É o menor múltiplo comum."
+    },
+    {
+      "pergunta": "O que é MDC?",
+      "resposta": "É o maior divisor comum."
+    },
+    {
+      "pergunta": "Quando usar MMC?",
+      "resposta": "Em coincidência de ciclos e denominador comum."
+    },
+    {
+      "pergunta": "Quando usar MDC?",
+      "resposta": "Em divisão em partes iguais máximas."
+    },
+    {
+      "pergunta": "Como calcular mais facilmente?",
+      "resposta": "Por decomposição em fatores primos."
+    },
+    {
+      "pergunta": "Qual é a maior pegadinha?",
+      "resposta": "Trocar MMC por MDC."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "O MMC de 4 e 6 é:",
+      "alternativas": [
+        "10",
+        "12",
+        "18",
+        "24"
+      ],
+      "correta": 1,
+      "explicacao": "12 é o menor múltiplo comum."
+    },
+    {
+      "enunciado": "O MDC de 12 e 18 é:",
+      "alternativas": [
+        "3",
+        "4",
+        "6",
+        "9"
+      ],
+      "correta": 2,
+      "explicacao": "6 é o maior divisor comum."
+    },
+    {
+      "enunciado": "Dois alarmes tocam de 8 em 8 minutos e de 12 em 12 minutos. Se tocaram juntos agora, tocarão juntos novamente em:",
+      "alternativas": [
+        "20 min",
+        "24 min",
+        "32 min",
+        "48 min"
+      ],
+      "correta": 1,
+      "explicacao": "MMC de 8 e 12 = 24."
+    },
+    {
+      "enunciado": "Para dividir 24 e 36 em partes iguais máximas, usa-se:",
+      "alternativas": [
+        "MMC",
+        "MDC",
+        "porcentagem",
+        "média"
+      ],
+      "correta": 1,
+      "explicacao": "Divisão em partes iguais máximas indica MDC."
+    },
+    {
+      "enunciado": "O MDC de 20 e 30 é:",
+      "alternativas": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correta": 1,
+      "explicacao": "Os divisores comuns máximos levam ao 10."
+    },
+    {
+      "enunciado": "O MMC de 5 e 7 é:",
+      "alternativas": [
+        "12",
+        "30",
+        "35",
+        "70"
+      ],
+      "correta": 2,
+      "explicacao": "Como são primos entre si, MMC = 5 x 7 = 35."
+    },
+    {
+      "enunciado": "Na soma de frações com denominadores diferentes, costuma-se usar:",
+      "alternativas": [
+        "MDC",
+        "MMC",
+        "média",
+        "raiz"
+      ],
+      "correta": 1,
+      "explicacao": "O MMC ajuda a obter denominador comum."
+    },
+    {
+      "enunciado": "Qual pergunta sugere MDC?",
+      "alternativas": [
+        "Quando coincidem de novo?",
+        "Qual o maior tamanho para dividir sem sobra?",
+        "Qual a média do grupo?",
+        "Qual o desconto percentual?"
+      ],
+      "correta": 1,
+      "explicacao": "Essa formulação indica maior divisor comum."
+    },
+    {
+      "enunciado": "O MMC de 3 e 9 é:",
+      "alternativas": [
+        "3",
+        "6",
+        "9",
+        "27"
+      ],
+      "correta": 2,
+      "explicacao": "9 já é múltiplo de 3 e de 9."
+    },
+    {
+      "enunciado": "A principal atenção nesse tema é:",
+      "alternativas": [
+        "descobrir se o problema pede múltiplo ou divisor",
+        "somar tudo",
+        "multiplicar sempre",
+        "evitar fatoração"
+      ],
+      "correta": 0,
+      "explicacao": "Interpretar corretamente o contexto é decisivo."
+    }
+  ]
+}

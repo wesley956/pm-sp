@@ -1,0 +1,182 @@
+{
+  "id": "historia-atualidades-historicas-001",
+  "name": "Atualidades históricas",
+  "topico": "Atualidades históricas",
+  "resumo": "Atualidades históricas relacionam fatos recentes com processos do passado. Em prova, a VUNESP pode cobrar temas contemporâneos ligados a democracia, direitos humanos, memória política, movimentos sociais, desigualdades e transformações do Estado brasileiro e do mundo.",
+  "teoria": "Atualidades históricas exigem a capacidade de perceber que o presente não surge do nada. Questões contemporâneas como desigualdade social, conflitos políticos, racismo, autoritarismo, direitos humanos e disputas por memória têm raízes históricas profundas.\n\nNo Brasil, debates sobre democracia, papel das instituições, violência do Estado, cidadania e participação popular podem ser compreendidos à luz da escravidão, do coronelismo, do autoritarismo e da ditadura militar. O mesmo vale para temas como desigualdade regional, concentração fundiária e exclusão social.\n\nNo cenário internacional, guerras, disputas geopolíticas, migrações, nacionalismos e tensões entre democracia e autoritarismo também possuem antecedentes históricos. A VUNESP pode cobrar a relação entre passado e presente, pedindo leitura interpretativa de acontecimentos recentes sob perspectiva histórica.\n\nUm ponto central nesse tema é a noção de memória. Sociedades discutem o passado para definir identidade, justiça e reparação. Por isso, temas como comissões da verdade, reconhecimento de violências históricas e preservação da memória coletiva podem aparecer.\n\nEm resumo, atualidades históricas são temas do presente analisados com base em processos históricos. A chave é conectar passado e presente sem simplificações.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Atualidades históricas são temas contemporâneos compreendidos à luz de processos históricos anteriores."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É preciso relacionar acontecimentos recentes a permanências e mudanças históricas, evitando análises isoladas do presente."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra leitura crítica de temas atuais associados a democracia, memória, direitos humanos, desigualdade e autoritarismo."
+    }
+  ],
+  "pontos_chave": [
+    "O presente se conecta ao passado.",
+    "Desigualdades atuais têm raízes históricas.",
+    "Democracia e autoritarismo são temas recorrentes.",
+    "Memória histórica influencia debates contemporâneos.",
+    "A prova pode pedir interpretação histórica de fatos recentes."
+  ],
+  "dicas_prova": [
+    "Relacione o tema atual a processos históricos conhecidos.",
+    "Evite respostas rasas e imediatistas.",
+    "Observe continuidade e ruptura entre passado e presente.",
+    "Pegadinhas clássicas da VUNESP: tratar evento recente como fenômeno sem antecedentes."
+  ],
+  "exemplos": [
+    "Debates sobre democracia no presente podem ser ligados à experiência da ditadura militar.",
+    "Desigualdade social atual pode ser relacionada à escravidão e à concentração histórica de riqueza.",
+    "Conflitos por terra no presente dialogam com a concentração fundiária histórica."
+  ],
+  "erros_comuns": [
+    "Analisar o presente sem contexto histórico.",
+    "Generalizar problemas complexos com explicações simplistas.",
+    "Separar totalmente história e atualidades."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que são atualidades históricas?",
+      "resposta": "São temas do presente entendidos a partir de processos do passado."
+    },
+    {
+      "pergunta": "Por que a memória histórica importa?",
+      "resposta": "Porque influencia identidade, justiça e debate público."
+    },
+    {
+      "pergunta": "Democracia e autoritarismo são temas de atualidades históricas?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Desigualdade atual pode ser estudada historicamente?",
+      "resposta": "Sim, por suas raízes profundas."
+    },
+    {
+      "pergunta": "Como a VUNESP pode cobrar isso?",
+      "resposta": "Por interpretação de temas recentes com base histórica."
+    },
+    {
+      "pergunta": "Qual é a chave do tema?",
+      "resposta": "Conectar passado e presente."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Atualidades históricas exigem do candidato:",
+      "alternativas": [
+        "decorar só datas antigas",
+        "ligar presente e passado",
+        "ignorar contexto",
+        "memorizar siglas apenas"
+      ],
+      "correta": 1,
+      "explicacao": "O núcleo desse tema é a conexão entre fatos atuais e processos históricos."
+    },
+    {
+      "enunciado": "Debates atuais sobre democracia no Brasil podem ser relacionados historicamente a:",
+      "alternativas": [
+        "somente ao período colonial",
+        "experiências autoritárias do passado",
+        "ausência de conflitos históricos",
+        "fenômenos sem antecedentes"
+      ],
+      "correta": 1,
+      "explicacao": "A história política brasileira inclui períodos autoritários que ajudam a compreender debates atuais."
+    },
+    {
+      "enunciado": "A noção de memória histórica está ligada a:",
+      "alternativas": [
+        "esquecimento coletivo obrigatório",
+        "disputa sobre o significado do passado",
+        "negação da história",
+        "eliminação do debate público"
+      ],
+      "correta": 1,
+      "explicacao": "A memória envolve interpretação, reconhecimento e disputa sobre fatos passados."
+    },
+    {
+      "enunciado": "Um tema atual com forte raiz histórica no Brasil é:",
+      "alternativas": [
+        "desigualdade social",
+        "ausência total de conflitos",
+        "fim de toda concentração de renda",
+        "neutralidade política completa"
+      ],
+      "correta": 0,
+      "explicacao": "A desigualdade contemporânea possui profundas raízes históricas."
+    },
+    {
+      "enunciado": "A VUNESP pode cobrar atualidades históricas por meio de:",
+      "alternativas": [
+        "leitura interpretativa",
+        "apenas contas algébricas",
+        "somente gramática",
+        "somente mapas físicos"
+      ],
+      "correta": 0,
+      "explicacao": "A cobrança tende a ser analítica e interpretativa."
+    },
+    {
+      "enunciado": "Relacionar autoritarismo atual ou recente a processos passados é um exemplo de:",
+      "alternativas": [
+        "matemática financeira",
+        "análise histórica",
+        "geometria",
+        "tipologia textual"
+      ],
+      "correta": 1,
+      "explicacao": "Isso exige compreensão histórica de permanências e recorrências."
+    },
+    {
+      "enunciado": "A interpretação histórica do presente ajuda a:",
+      "alternativas": [
+        "simplificar demais os temas",
+        "entender causas e permanências",
+        "eliminar conflitos sociais",
+        "dispensar estudo"
+      ],
+      "correta": 1,
+      "explicacao": "O olhar histórico permite compreender raízes, mudanças e continuidades."
+    },
+    {
+      "enunciado": "Um erro comum em atualidades históricas é:",
+      "alternativas": [
+        "relacionar fatos",
+        "estudar contexto",
+        "tratar fatos recentes como isolados",
+        "comparar passado e presente"
+      ],
+      "correta": 2,
+      "explicacao": "Esse erro impede a compreensão histórica dos problemas."
+    },
+    {
+      "enunciado": "Questões de memória e direitos humanos podem aparecer nesse tema porque:",
+      "alternativas": [
+        "não têm relação com história",
+        "envolvem interpretação do passado e seus efeitos",
+        "pertencem só à matemática",
+        "eliminam análise crítica"
+      ],
+      "correta": 1,
+      "explicacao": "Memória e direitos humanos se relacionam à forma como a sociedade lida com sua história."
+    },
+    {
+      "enunciado": "A principal habilidade exigida em atualidades históricas é:",
+      "alternativas": [
+        "ligar presente e passado com senso crítico",
+        "decorar nomes sem contexto",
+        "fazer contas rápidas",
+        "ignorar processos históricos"
+      ],
+      "correta": 0,
+      "explicacao": "A compreensão histórica do presente é o centro do tema."
+    }
+  ]
+}

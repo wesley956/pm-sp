@@ -1,0 +1,182 @@
+{
+  "id": "matematica-teorema-de-pitagoras-001",
+  "name": "Teorema de Pitágoras",
+  "topico": "Teorema de Pitágoras",
+  "resumo": "No triângulo retângulo, o quadrado da hipotenusa é igual à soma dos quadrados dos catetos. A VUNESP cobra aplicação direta do teorema, identificação da hipotenusa e reconhecimento de ternas pitagóricas simples.",
+  "teoria": "O Teorema de Pitágoras vale apenas para triângulos retângulos, isto é, aqueles que possuem um ângulo de 90°. Nesse triângulo, o lado oposto ao ângulo reto é a hipotenusa, que é sempre o maior lado.\n\nO teorema afirma: hipotenusa² = cateto² + cateto². Em símbolos, c² = a² + b².\n\nExemplo: se os catetos medem 3 e 4, então a hipotenusa mede 5, porque 3² + 4² = 9 + 16 = 25, e a raiz de 25 é 5. Essa é a terna pitagórica mais famosa: 3, 4 e 5.\n\nOutras ternas úteis são 5, 12 e 13; 8, 15 e 17. Em prova, reconhecer essas relações economiza tempo.\n\nA VUNESP pode cobrar triângulos, diagonais de retângulos e situações práticas, como escadas apoiadas em paredes. O passo principal é identificar corretamente a hipotenusa.\n\nEm resumo, Pitágoras é uma ferramenta para achar um lado de triângulo retângulo quando se conhecem os outros dois.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "O Teorema de Pitágoras relaciona os lados do triângulo retângulo."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Hipotenusa² = cateto² + cateto². Só vale em triângulo retângulo. A hipotenusa é o maior lado, oposto ao ângulo reto."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra cálculo da hipotenusa, de um cateto e aplicação em diagonais e problemas práticos."
+    }
+  ],
+  "pontos_chave": [
+    "Vale apenas para triângulo retângulo.",
+    "A hipotenusa é o maior lado.",
+    "c² = a² + b².",
+    "Ternas 3,4,5 e 5,12,13 ajudam muito.",
+    "Diagonais de retângulos podem usar Pitágoras."
+  ],
+  "dicas_prova": [
+    "Encontre primeiro o ângulo reto.",
+    "Depois localize a hipotenusa.",
+    "Faça os quadrados com calma antes de extrair a raiz.",
+    "Pegadinhas clássicas da VUNESP: usar Pitágoras em triângulo que não é retângulo."
+  ],
+  "exemplos": [
+    "Catetos 3 e 4 geram hipotenusa 5.",
+    "Catetos 5 e 12 geram hipotenusa 13.",
+    "Se hipotenusa é 10 e um cateto é 6, o outro é 8."
+  ],
+  "erros_comuns": [
+    "Não identificar a hipotenusa corretamente.",
+    "Aplicar o teorema em triângulo não retângulo.",
+    "Errar conta de quadrados e raízes."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quando vale o Teorema de Pitágoras?",
+      "resposta": "Apenas em triângulo retângulo."
+    },
+    {
+      "pergunta": "O que é hipotenusa?",
+      "resposta": "É o lado oposto ao ângulo reto."
+    },
+    {
+      "pergunta": "Qual a fórmula do teorema?",
+      "resposta": "c² = a² + b²."
+    },
+    {
+      "pergunta": "Qual a terna mais famosa?",
+      "resposta": "3, 4 e 5."
+    },
+    {
+      "pergunta": "A diagonal de retângulo pode usar Pitágoras?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Qual maior cuidado?",
+      "resposta": "Confirmar que o triângulo é retângulo."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Em um triângulo retângulo com catetos 3 e 4, a hipotenusa mede:",
+      "alternativas": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correta": 1,
+      "explicacao": "3² + 4² = 9 + 16 = 25. Hipotenusa = 5."
+    },
+    {
+      "enunciado": "Em um triângulo retângulo com catetos 5 e 12, a hipotenusa mede:",
+      "alternativas": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correta": 3,
+      "explicacao": "5² + 12² = 25 + 144 = 169. Raiz de 169 = 13."
+    },
+    {
+      "enunciado": "Se a hipotenusa mede 10 e um cateto mede 6, o outro mede:",
+      "alternativas": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correta": 2,
+      "explicacao": "10² - 6² = 100 - 36 = 64. Raiz de 64 = 8."
+    },
+    {
+      "enunciado": "O Teorema de Pitágoras vale para:",
+      "alternativas": [
+        "qualquer triângulo",
+        "triângulo retângulo",
+        "somente quadrado",
+        "somente círculo"
+      ],
+      "correta": 1,
+      "explicacao": "Ele só se aplica a triângulos retângulos."
+    },
+    {
+      "enunciado": "No triângulo retângulo, a hipotenusa é:",
+      "alternativas": [
+        "o menor lado",
+        "um cateto",
+        "o lado oposto ao ângulo reto",
+        "qualquer lado"
+      ],
+      "correta": 2,
+      "explicacao": "Definição de hipotenusa."
+    },
+    {
+      "enunciado": "A diagonal de um retângulo de lados 6 e 8 mede:",
+      "alternativas": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correta": 1,
+      "explicacao": "6² + 8² = 36 + 64 = 100. Diagonal = 10."
+    },
+    {
+      "enunciado": "Qual das seguintes é uma terna pitagórica?",
+      "alternativas": [
+        "2, 3, 4",
+        "3, 4, 5",
+        "4, 5, 6",
+        "6, 7, 8"
+      ],
+      "correta": 1,
+      "explicacao": "3² + 4² = 5²."
+    },
+    {
+      "enunciado": "Se os catetos medem 8 e 15, a hipotenusa mede:",
+      "alternativas": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "correta": 1,
+      "explicacao": "8² + 15² = 64 + 225 = 289. Raiz = 17."
+    },
+    {
+      "enunciado": "O principal passo antes de aplicar Pitágoras é:",
+      "alternativas": [
+        "somar os lados",
+        "confirmar o ângulo reto",
+        "multiplicar por 2",
+        "dividir por 3"
+      ],
+      "correta": 1,
+      "explicacao": "Sem triângulo retângulo, o teorema não vale."
+    },
+    {
+      "enunciado": "A maior pegadinha nesse tema é:",
+      "alternativas": [
+        "esquecer a unidade",
+        "usar em triângulo não retângulo",
+        "somar antes de ler",
+        "confundir com média"
+      ],
+      "correta": 1,
+      "explicacao": "Esse é o erro conceitual mais comum."
+    }
+  ]
+}

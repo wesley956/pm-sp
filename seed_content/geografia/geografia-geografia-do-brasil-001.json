@@ -1,0 +1,182 @@
+{
+  "id": "geografia-geografia-do-brasil-001",
+  "name": "Geografia do Brasil",
+  "topico": "Geografia do Brasil",
+  "resumo": "A Geografia do Brasil estuda o território brasileiro em seus aspectos físicos, econômicos, populacionais e regionais. A VUNESP cobra relevo, clima, vegetação, hidrografia, distribuição populacional, atividades econômicas e desigualdades regionais.",
+  "teoria": "A Geografia do Brasil envolve o estudo do espaço brasileiro em suas dimensões naturais e humanas. O território nacional é extenso, diverso e marcado por profundas diferenças regionais.\n\nNo aspecto físico, destacam-se relevo, clima, vegetação, hidrografia e solos. O relevo brasileiro é predominantemente de planaltos, planícies e depressões. O clima varia entre equatorial, tropical, semiárido, tropical de altitude e subtropical. A vegetação inclui Amazônia, Cerrado, Caatinga, Mata Atlântica, Pantanal e Pampa.\n\nNo aspecto humano, o Brasil apresenta grande concentração populacional no litoral e no Sudeste, urbanização intensa e desigualdades socioeconômicas. A economia é diversificada, com agropecuária, indústria, comércio e serviços, mas há disparidades regionais marcantes.\n\nA VUNESP costuma cobrar a relação entre natureza e ocupação do território, além das diferenças econômicas e sociais entre regiões. A leitura geográfica do Brasil exige observar tanto os elementos naturais quanto a ação humana sobre o espaço.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Geografia do Brasil estuda o território brasileiro em seus aspectos naturais e humanos."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É importante compreender relevo, clima, vegetação, hidrografia, população, economia e desigualdades regionais."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra características do território, distribuição de atividades econômicas, concentração populacional e problemas ambientais."
+    }
+  ],
+  "pontos_chave": [
+    "O território brasileiro é muito diverso.",
+    "A população se concentra mais em certas áreas, especialmente no litoral e Sudeste.",
+    "O país possui diferentes tipos de clima e vegetação.",
+    "As desigualdades regionais são marcantes.",
+    "Natureza e ocupação humana estão interligadas."
+  ],
+  "dicas_prova": [
+    "Associe cada região a características naturais e econômicas.",
+    "Observe a ligação entre ambiente e atividade humana.",
+    "Revise vegetações, climas e concentração populacional.",
+    "Pegadinhas clássicas da VUNESP: generalizar o país inteiro com base em uma região."
+  ],
+  "exemplos": [
+    "A Amazônia se destaca pela floresta equatorial.",
+    "O Semiárido nordestino enfrenta escassez hídrica.",
+    "O Sudeste concentra grande parte da atividade industrial."
+  ],
+  "erros_comuns": [
+    "Confundir biomas e regiões.",
+    "Ignorar a desigualdade regional.",
+    "Estudar geografia física sem relacionar com ocupação humana."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que a Geografia do Brasil estuda?",
+      "resposta": "O território brasileiro em seus aspectos naturais e humanos."
+    },
+    {
+      "pergunta": "Onde há grande concentração populacional?",
+      "resposta": "No litoral e em áreas mais urbanizadas, especialmente no Sudeste."
+    },
+    {
+      "pergunta": "Quais elementos físicos são importantes?",
+      "resposta": "Relevo, clima, vegetação e hidrografia."
+    },
+    {
+      "pergunta": "A economia brasileira é igual em todas as regiões?",
+      "resposta": "Não, há desigualdades regionais importantes."
+    },
+    {
+      "pergunta": "A VUNESP cobra relação entre natureza e sociedade?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Qual um tema central na geografia brasileira?",
+      "resposta": "A diversidade regional."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A Geografia do Brasil estuda:",
+      "alternativas": [
+        "somente rios",
+        "somente clima",
+        "aspectos naturais e humanos do território",
+        "apenas política externa"
+      ],
+      "correta": 2,
+      "explicacao": "A análise geográfica envolve natureza, população, economia e organização do espaço."
+    },
+    {
+      "enunciado": "Uma característica importante do espaço brasileiro é:",
+      "alternativas": [
+        "homogeneidade total",
+        "diversidade regional",
+        "ausência de vegetação",
+        "clima único"
+      ],
+      "correta": 1,
+      "explicacao": "O Brasil apresenta grande diversidade física, econômica e social."
+    },
+    {
+      "enunciado": "A concentração populacional brasileira é maior em:",
+      "alternativas": [
+        "áreas totalmente desabitadas",
+        "litoral e regiões urbanizadas",
+        "somente na Amazônia",
+        "somente no Pantanal"
+      ],
+      "correta": 1,
+      "explicacao": "A população se concentra em áreas urbanizadas e próximas ao litoral, com destaque para o Sudeste."
+    },
+    {
+      "enunciado": "A Geografia do Brasil cobra relação entre:",
+      "alternativas": [
+        "ambiente e ocupação humana",
+        "mitologia e física",
+        "gramática e álgebra",
+        "somente literatura"
+      ],
+      "correta": 0,
+      "explicacao": "A organização do espaço brasileiro depende dessa relação."
+    },
+    {
+      "enunciado": "Uma marca da geografia brasileira é:",
+      "alternativas": [
+        "igualdade regional completa",
+        "desigualdade regional",
+        "ausência de indústria",
+        "falta de rios"
+      ],
+      "correta": 1,
+      "explicacao": "As diferenças regionais são centrais para entender o país."
+    },
+    {
+      "enunciado": "O estudo do clima, relevo e vegetação pertence à dimensão:",
+      "alternativas": [
+        "física",
+        "somente econômica",
+        "somente diplomática",
+        "literária"
+      ],
+      "correta": 0,
+      "explicacao": "Esses são elementos da geografia física."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar geografia com foco em:",
+      "alternativas": [
+        "decoração sem contexto",
+        "território, sociedade e economia",
+        "apenas datas históricas",
+        "somente poesia"
+      ],
+      "correta": 1,
+      "explicacao": "A banca prefere leitura integrada do espaço."
+    },
+    {
+      "enunciado": "Um erro comum ao estudar Geografia do Brasil é:",
+      "alternativas": [
+        "perceber diferenças regionais",
+        "generalizar o país inteiro",
+        "relacionar natureza e economia",
+        "analisar população"
+      ],
+      "correta": 1,
+      "explicacao": "O Brasil é muito diverso, e generalizações costumam levar a erro."
+    },
+    {
+      "enunciado": "O espaço geográfico brasileiro resulta da interação entre:",
+      "alternativas": [
+        "somente natureza",
+        "somente ação humana",
+        "natureza e sociedade",
+        "somente indústria"
+      ],
+      "correta": 2,
+      "explicacao": "O espaço geográfico é resultado da relação entre elementos naturais e ação humana."
+    },
+    {
+      "enunciado": "A principal habilidade exigida nesse tema é:",
+      "alternativas": [
+        "visão integrada do território",
+        "apenas memorização de siglas",
+        "cálculo algébrico",
+        "semântica verbal"
+      ],
+      "correta": 0,
+      "explicacao": "A geografia exige compreensão do território como conjunto articulado."
+    }
+  ]
+}

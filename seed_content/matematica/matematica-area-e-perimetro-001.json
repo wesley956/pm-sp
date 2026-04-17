@@ -1,0 +1,182 @@
+{
+  "id": "matematica-area-e-perimetro-001",
+  "name": "Área e perímetro",
+  "topico": "Área e perímetro",
+  "resumo": "Perímetro é a medida do contorno de uma figura; área é a medida de sua superfície. A VUNESP cobra fórmulas de quadrado, retângulo, triângulo e círculo, além de interpretação correta do que a questão pede.",
+  "teoria": "Perímetro é a soma de todos os lados de uma figura. Área é a medida da região interna da figura. Essa diferença é central: perímetro mede contorno; área mede superfície.\n\nNo quadrado de lado l, o perímetro é 4l e a área é l². No retângulo de base b e altura h, o perímetro é 2(b + h) e a área é b x h. No triângulo, a área é base x altura ÷ 2. No círculo, o comprimento da circunferência é 2πr e a área é πr².\n\nA VUNESP gosta de trocar perímetro por área no enunciado para testar atenção. Também pode apresentar figuras compostas ou malhas quadriculadas. Nesses casos, o candidato deve organizar os dados e identificar corretamente a medida pedida.\n\nEm resumo, antes de aplicar fórmula, é preciso saber se a questão quer contorno ou superfície.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Perímetro mede contorno; área mede superfície."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Quadrado: P = 4l e A = l². Retângulo: P = 2(b + h) e A = b x h. Triângulo: A = b x h / 2. Círculo: A = πr²."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra aplicação direta de fórmulas, interpretação do enunciado e diferença entre área e perímetro."
+    }
+  ],
+  "pontos_chave": [
+    "Perímetro é soma dos lados.",
+    "Área é medida da região interna.",
+    "Quadrado: A = lado².",
+    "Retângulo: A = base x altura.",
+    "O enunciado define qual fórmula usar."
+  ],
+  "dicas_prova": [
+    "Leia se a questão pede contorno ou superfície.",
+    "Anote a fórmula antes de substituir valores.",
+    "Cuidado com unidades quadradas na área.",
+    "Pegadinhas clássicas da VUNESP: usar fórmula de perímetro no lugar da área."
+  ],
+  "exemplos": [
+    "Quadrado de lado 5: perímetro 20, área 25.",
+    "Retângulo 4 x 6: área 24.",
+    "Triângulo de base 8 e altura 5: área 20."
+  ],
+  "erros_comuns": [
+    "Confundir área com perímetro.",
+    "Esquecer de dividir por 2 na área do triângulo.",
+    "Não usar unidade quadrada na área."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é perímetro?",
+      "resposta": "É a soma dos lados de uma figura."
+    },
+    {
+      "pergunta": "O que é área?",
+      "resposta": "É a medida da superfície interna da figura."
+    },
+    {
+      "pergunta": "Qual a área do quadrado?",
+      "resposta": "Lado ao quadrado."
+    },
+    {
+      "pergunta": "Qual a área do retângulo?",
+      "resposta": "Base vezes altura."
+    },
+    {
+      "pergunta": "Qual a área do triângulo?",
+      "resposta": "Base vezes altura dividido por 2."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Saber se a questão quer área ou perímetro."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "O perímetro de um quadrado de lado 6 cm é:",
+      "alternativas": [
+        "12 cm",
+        "18 cm",
+        "24 cm",
+        "36 cm"
+      ],
+      "correta": 2,
+      "explicacao": "Perímetro = 4 x 6 = 24 cm."
+    },
+    {
+      "enunciado": "A área de um quadrado de lado 6 cm é:",
+      "alternativas": [
+        "12 cm²",
+        "24 cm²",
+        "30 cm²",
+        "36 cm²"
+      ],
+      "correta": 3,
+      "explicacao": "Área = 6² = 36 cm²."
+    },
+    {
+      "enunciado": "A área de um retângulo de base 8 cm e altura 5 cm é:",
+      "alternativas": [
+        "13 cm²",
+        "26 cm²",
+        "40 cm²",
+        "80 cm²"
+      ],
+      "correta": 2,
+      "explicacao": "Área = 8 x 5 = 40 cm²."
+    },
+    {
+      "enunciado": "O perímetro de um retângulo com lados 4 cm e 7 cm é:",
+      "alternativas": [
+        "11 cm",
+        "18 cm",
+        "22 cm",
+        "28 cm"
+      ],
+      "correta": 2,
+      "explicacao": "Perímetro = 2(4 + 7) = 22 cm."
+    },
+    {
+      "enunciado": "A área de um triângulo de base 10 cm e altura 4 cm é:",
+      "alternativas": [
+        "14 cm²",
+        "20 cm²",
+        "40 cm²",
+        "80 cm²"
+      ],
+      "correta": 1,
+      "explicacao": "Área = 10 x 4 ÷ 2 = 20 cm²."
+    },
+    {
+      "enunciado": "Qual medida representa o contorno de uma figura?",
+      "alternativas": [
+        "área",
+        "volume",
+        "perímetro",
+        "altura"
+      ],
+      "correta": 2,
+      "explicacao": "Contorno é o perímetro."
+    },
+    {
+      "enunciado": "Qual medida representa a superfície interna de uma figura plana?",
+      "alternativas": [
+        "perímetro",
+        "área",
+        "volume",
+        "diâmetro"
+      ],
+      "correta": 1,
+      "explicacao": "Superfície interna é a área."
+    },
+    {
+      "enunciado": "Se um quadrado tem área 49 cm², seu lado mede:",
+      "alternativas": [
+        "5 cm",
+        "6 cm",
+        "7 cm",
+        "8 cm"
+      ],
+      "correta": 2,
+      "explicacao": "Lado² = 49, então lado = 7 cm."
+    },
+    {
+      "enunciado": "A unidade correta para área é:",
+      "alternativas": [
+        "cm",
+        "cm²",
+        "cm³",
+        "m/s"
+      ],
+      "correta": 1,
+      "explicacao": "Área é medida em unidades quadradas."
+    },
+    {
+      "enunciado": "O maior cuidado nesse tema é:",
+      "alternativas": [
+        "esquecer o título",
+        "confundir área com perímetro",
+        "multiplicar por 100",
+        "fazer regra de três"
+      ],
+      "correta": 1,
+      "explicacao": "Essa é a troca mais comum em prova."
+    }
+  ]
+}

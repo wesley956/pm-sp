@@ -1,0 +1,182 @@
+{
+  "id": "matematica-medidas-001",
+  "name": "Medidas (tempo, massa, etc.)",
+  "topico": "Medidas (tempo, massa, etc.)",
+  "resumo": "Medidas aparecem em comprimento, massa, capacidade, tempo, área e volume. A VUNESP cobra muito conversão entre unidades, problemas do cotidiano e interpretação correta da relação entre unidades maiores e menores.",
+  "teoria": "As grandezas medidas no dia a dia exigem domínio das unidades e de suas conversões. No sistema métrico decimal, comprimento usa metro, massa usa grama, capacidade usa litro. Entre unidades vizinhas, a conversão costuma seguir múltiplos de 10, 100 ou 1000, conforme a grandeza.\n\nEm comprimento: km, hm, dam, m, dm, cm, mm. Ao descer na escala, multiplica-se por 10 a cada passo; ao subir, divide-se por 10. Em massa: kg, hg, dag, g, dg, cg, mg. Em capacidade: kL, hL, daL, L, dL, cL, mL.\n\nTempo exige atenção especial porque nem tudo é decimal. 1 hora = 60 minutos; 1 minuto = 60 segundos; 1 dia = 24 horas. Em problemas com relógio, viagens e duração, a banca costuma explorar essa diferença.\n\nTambém aparecem conversões simples como 1 kg = 1000 g, 1 L = 1000 mL, 1 m = 100 cm. Em problemas práticos, a leitura correta da unidade é tão importante quanto a conta.\n\nA VUNESP cobra muito situações de rotina: receitas, consumo, percursos, duração, peso e capacidade. A organização das unidades é o passo principal para evitar erro.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Medidas quantificam grandezas como comprimento, massa, capacidade e tempo."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "No sistema métrico, as conversões seguem escala decimal. Tempo usa base 60 em hora, minuto e segundo."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra conversões simples, problemas do cotidiano e comparação de unidades."
+    }
+  ],
+  "pontos_chave": [
+    "1 m = 100 cm.",
+    "1 kg = 1000 g.",
+    "1 L = 1000 mL.",
+    "1 h = 60 min.",
+    "Tempo não segue escala decimal simples."
+  ],
+  "dicas_prova": [
+    "Converta tudo para a mesma unidade antes de calcular.",
+    "No tempo, lembre-se de que hora e minuto seguem base 60.",
+    "Escreva a unidade em cada etapa.",
+    "Pegadinhas clássicas da VUNESP: misturar unidades sem converter."
+  ],
+  "exemplos": [
+    "2,5 kg = 2500 g.",
+    "3 m = 300 cm.",
+    "2 h 30 min = 150 min."
+  ],
+  "erros_comuns": [
+    "Tratar hora como se fosse base 10.",
+    "Somar unidades diferentes sem converter.",
+    "Esquecer fator 1000 em kg e L."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quanto vale 1 kg em gramas?",
+      "resposta": "1000 g."
+    },
+    {
+      "pergunta": "Quanto vale 1 L em mL?",
+      "resposta": "1000 mL."
+    },
+    {
+      "pergunta": "Quanto vale 1 metro em centímetros?",
+      "resposta": "100 cm."
+    },
+    {
+      "pergunta": "Quanto vale 1 hora em minutos?",
+      "resposta": "60 min."
+    },
+    {
+      "pergunta": "Qual o maior cuidado em tempo?",
+      "resposta": "Lembrar da base 60."
+    },
+    {
+      "pergunta": "Qual o primeiro passo em problemas com medidas?",
+      "resposta": "Colocar tudo na mesma unidade."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "3 kg correspondem a:",
+      "alternativas": [
+        "30 g",
+        "300 g",
+        "3000 g",
+        "30000 g"
+      ],
+      "correta": 2,
+      "explicacao": "1 kg = 1000 g, então 3 kg = 3000 g."
+    },
+    {
+      "enunciado": "250 cm correspondem a:",
+      "alternativas": [
+        "2,5 m",
+        "25 m",
+        "0,25 m",
+        "2500 m"
+      ],
+      "correta": 0,
+      "explicacao": "250 cm ÷ 100 = 2,5 m."
+    },
+    {
+      "enunciado": "2 litros equivalem a:",
+      "alternativas": [
+        "20 mL",
+        "200 mL",
+        "2000 mL",
+        "20000 mL"
+      ],
+      "correta": 2,
+      "explicacao": "1 L = 1000 mL, então 2 L = 2000 mL."
+    },
+    {
+      "enunciado": "1 hora e 20 minutos correspondem a:",
+      "alternativas": [
+        "80 min",
+        "100 min",
+        "120 min",
+        "140 min"
+      ],
+      "correta": 0,
+      "explicacao": "1 hora = 60 min. 60 + 20 = 80 min."
+    },
+    {
+      "enunciado": "Qual unidade mede massa?",
+      "alternativas": [
+        "litro",
+        "metro",
+        "grama",
+        "segundo"
+      ],
+      "correta": 2,
+      "explicacao": "Grama é unidade de massa."
+    },
+    {
+      "enunciado": "5 m correspondem a:",
+      "alternativas": [
+        "50 cm",
+        "500 cm",
+        "5000 cm",
+        "0,5 cm"
+      ],
+      "correta": 1,
+      "explicacao": "1 m = 100 cm. 5 m = 500 cm."
+    },
+    {
+      "enunciado": "90 minutos equivalem a:",
+      "alternativas": [
+        "1 h 10 min",
+        "1 h 20 min",
+        "1 h 30 min",
+        "2 h"
+      ],
+      "correta": 2,
+      "explicacao": "60 min = 1 h, restando 30 min."
+    },
+    {
+      "enunciado": "0,5 kg equivalem a:",
+      "alternativas": [
+        "50 g",
+        "500 g",
+        "5000 g",
+        "5 g"
+      ],
+      "correta": 1,
+      "explicacao": "0,5 kg = 500 g."
+    },
+    {
+      "enunciado": "Antes de somar 2 m e 35 cm, deve-se:",
+      "alternativas": [
+        "somar diretamente",
+        "converter para mesma unidade",
+        "multiplicar por 10",
+        "subtrair"
+      ],
+      "correta": 1,
+      "explicacao": "Unidades diferentes devem ser convertidas antes."
+    },
+    {
+      "enunciado": "A maior pegadinha em medidas é:",
+      "alternativas": [
+        "usar base 60 no metro",
+        "misturar unidades sem converter",
+        "escrever a unidade",
+        "usar regra de três"
+      ],
+      "correta": 1,
+      "explicacao": "Muitos erros surgem por falta de padronização da unidade."
+    }
+  ]
+}

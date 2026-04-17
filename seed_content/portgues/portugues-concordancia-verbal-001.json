@@ -1,0 +1,182 @@
+{
+  "id": "portugues-concordancia-verbal-001",
+  "name": "Concordância verbal",
+  "topico": "Concordância verbal",
+  "resumo": "Concordância verbal é a relação entre o verbo e seu sujeito. Em regra, o verbo concorda em número e pessoa com o núcleo do sujeito. A VUNESP cobra muito sujeito simples, sujeito composto, expressões partitivas, porcentagem, pronomes de tratamento, verbo haver, verbo fazer indicando tempo e casos com se.",
+  "teoria": "Concordância verbal é a adequação do verbo ao sujeito da oração. Regra geral: o verbo concorda com o núcleo do sujeito em número e pessoa. Exemplo: \"O aluno chegou.\" / \"Os alunos chegaram.\" Parece simples, mas as provas exploram estruturas mais complexas.\n\nCom sujeito simples, o verbo concorda com o núcleo: \"A maioria dos candidatos chegou cedo.\" Em regra, o verbo fica no singular porque o núcleo é \"maioria\". Em alguns casos, admite-se concordância ideológica com o termo plural, dependendo da construção, mas a banca costuma preferir a forma mais normativa.\n\nCom sujeito composto antes do verbo, este vai para o plural: \"O professor e os alunos chegaram.\" Se o sujeito composto vier depois do verbo, pode haver concordância com o núcleo mais próximo ou com o conjunto, dependendo do caso: \"Chegou o professor e os alunos\" / \"Chegaram o professor e os alunos\".\n\nO verbo haver, no sentido de existir, é impessoal e fica sempre no singular: \"Havia muitos candidatos.\" O mesmo vale para haver indicando tempo decorrido: \"Há dois anos estudo.\" O verbo fazer, indicando tempo ou fenômeno natural, também é impessoal: \"Faz três meses que estudo.\" / \"Fez dias frios naquele inverno.\"\n\nExpressões partitivas como 'a maioria de', 'grande parte de', 'metade de' geralmente levam o verbo ao singular, concordando com o núcleo partitivo. Expressões de porcentagem exigem atenção: \"Dez por cento faltaram\" ou \"Dez por cento da turma faltou\". O contexto define a concordância mais adequada.\n\nCom pronome de tratamento, o verbo vai para a terceira pessoa: \"Vossa Senhoria informou o horário.\" Com o pronome relativo 'que', o verbo concorda com o antecedente do pronome. Com 'quem', geralmente fica na terceira pessoa do singular, embora haja construções de concordância com o antecedente em certos contextos.\n\nNos casos com 'se', é preciso diferenciar índice de indeterminação do sujeito e partícula apassivadora. Em 'Precisa-se de funcionários', o sujeito é indeterminado; o verbo fica no singular. Em 'Vendem-se casas', há voz passiva sintética, e o verbo concorda com 'casas'.\n\nEm resumo, a concordância verbal depende da correta identificação do sujeito, do núcleo e do valor do verbo. A VUNESP costuma explorar exatamente os pontos em que o candidato se confunde com estrutura e interpretação.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Concordância verbal é a relação de adequação entre o verbo e o sujeito da oração, considerando número e pessoa."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "O verbo concorda com o núcleo do sujeito. Com sujeito composto, vai ao plural em regra. 'Haver' no sentido de existir e 'fazer' indicando tempo são impessoais e ficam no singular. Com partícula 'se', é preciso verificar se há indeterminação do sujeito ou voz passiva sintética."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra muito identificação do sujeito, casos com 'haver', 'fazer', expressões partitivas, porcentagem, sujeito composto e estruturas com 'se'."
+    }
+  ],
+  "pontos_chave": [
+    "O verbo concorda com o núcleo do sujeito.",
+    "Haver com sentido de existir fica no singular.",
+    "Fazer indicando tempo também fica no singular.",
+    "Em 'vendem-se casas', o verbo concorda com 'casas'.",
+    "Identificar o sujeito corretamente é metade da questão."
+  ],
+  "dicas_prova": [
+    "Localize o sujeito antes de olhar o verbo.",
+    "Desconfie sempre dos verbos haver e fazer.",
+    "Analise com cuidado estruturas com 'se'.",
+    "Pegadinhas clássicas da VUNESP: maioria de, porcentagem, sujeito posposto e voz passiva sintética."
+  ],
+  "exemplos": [
+    "Havia muitos alunos na sala.",
+    "Faz dois anos que estudo.",
+    "Vendem-se apartamentos no centro."
+  ],
+  "erros_comuns": [
+    "Colocar 'haviam' no sentido de existir.",
+    "Flexionar 'fazer' quando indica tempo decorrido.",
+    "Não perceber que o verbo com 'se' pode concordar com o sujeito paciente."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Com quem o verbo concorda?",
+      "resposta": "Com o núcleo do sujeito, em regra."
+    },
+    {
+      "pergunta": "O verbo haver no sentido de existir varia?",
+      "resposta": "Não. Fica sempre no singular."
+    },
+    {
+      "pergunta": "O verbo fazer indicando tempo varia?",
+      "resposta": "Não. Também fica no singular."
+    },
+    {
+      "pergunta": "Em 'vendem-se casas', o verbo concorda com quem?",
+      "resposta": "Com 'casas'."
+    },
+    {
+      "pergunta": "Em 'precisa-se de funcionários', o verbo fica como?",
+      "resposta": "No singular, porque o sujeito é indeterminado."
+    },
+    {
+      "pergunta": "Qual a chave para acertar concordância verbal?",
+      "resposta": "Identificar corretamente o sujeito e seu núcleo."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a alternativa correta quanto à concordância verbal.",
+      "alternativas": [
+        "Haviam muitos candidatos na fila.",
+        "Havia muitos candidatos na fila.",
+        "Houveram muitas dúvidas na prova.",
+        "Existiu muitos erros no texto."
+      ],
+      "correta": 1,
+      "explicacao": "O verbo haver, com sentido de existir, é impessoal e fica no singular."
+    },
+    {
+      "enunciado": "Em 'Faz três anos que ele estuda', o verbo está:",
+      "alternativas": [
+        "incorreto, porque deveria ir para o plural",
+        "correto, porque indica tempo decorrido",
+        "errado, porque falta sujeito",
+        "correto só na linguagem informal"
+      ],
+      "correta": 1,
+      "explicacao": "O verbo fazer, indicando tempo decorrido, é impessoal e permanece no singular."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        "Vende-se casas novas.",
+        "Vendem-se casas novas.",
+        "Vendia-se casas novas.",
+        "Venderam-se de casas novas."
+      ],
+      "correta": 1,
+      "explicacao": "Há voz passiva sintética; o verbo concorda com o sujeito paciente 'casas novas'."
+    },
+    {
+      "enunciado": "Em 'Precisa-se de funcionários', o verbo fica no singular porque:",
+      "alternativas": [
+        "concorda com 'funcionários'",
+        "o sujeito é oculto plural",
+        "há índice de indeterminação do sujeito",
+        "há voz passiva sintética"
+      ],
+      "correta": 2,
+      "explicacao": "A preposição impede a voz passiva; trata-se de índice de indeterminação do sujeito."
+    },
+    {
+      "enunciado": "Na frase 'A maioria dos alunos chegou cedo', o verbo concorda com:",
+      "alternativas": [
+        "alunos",
+        "cedo",
+        "maioria",
+        "dos"
+      ],
+      "correta": 2,
+      "explicacao": "O núcleo do sujeito é 'maioria', por isso a forma singular é a mais normativa."
+    },
+    {
+      "enunciado": "Assinale a frase correta.",
+      "alternativas": [
+        "Faziam dois meses da última prova.",
+        "Fazia dois meses da última prova.",
+        "Fizeram dois meses da última prova.",
+        "Fazem dois meses da última prova."
+      ],
+      "correta": 1,
+      "explicacao": "Fazer, indicando tempo decorrido, é impessoal e fica no singular."
+    },
+    {
+      "enunciado": "Com sujeito composto antes do verbo, a concordância correta é:",
+      "alternativas": [
+        "O diretor e os alunos chegou.",
+        "O diretor e os alunos chegaram.",
+        "O diretor e os alunos chegara.",
+        "O diretor e os alunos chegaria."
+      ],
+      "correta": 1,
+      "explicacao": "Sujeito composto antes do verbo exige plural."
+    },
+    {
+      "enunciado": "Em 'Vossa Excelência decidiu o caso', o verbo está na:",
+      "alternativas": [
+        "primeira pessoa",
+        "segunda pessoa",
+        "terceira pessoa",
+        "forma nominal"
+      ],
+      "correta": 2,
+      "explicacao": "Pronomes de tratamento exigem verbo na terceira pessoa."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta quanto ao verbo com porcentagem.",
+      "alternativas": [
+        "Dez por cento da turma faltaram.",
+        "Dez por cento da turma faltou.",
+        "Dez por cento da turma faltarão ontem.",
+        "Dez por cento da turma faltarem."
+      ],
+      "correta": 1,
+      "explicacao": "Com 'da turma', o verbo pode concordar com o termo no singular, sendo essa a forma esperada aqui."
+    },
+    {
+      "enunciado": "A melhor estratégia para resolver concordância verbal é:",
+      "alternativas": [
+        "olhar só a terminação do verbo",
+        "procurar o sujeito e seu núcleo",
+        "decorar frases soltas",
+        "ignorar a estrutura"
+      ],
+      "correta": 1,
+      "explicacao": "O acerto depende de localizar o sujeito e analisar sua estrutura."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "portugues-sinonimos-e-antonimos-001",
+  "name": "Sinônimos e antônimos",
+  "topico": "Sinônimos e antônimos",
+  "resumo": "Sinônimos são palavras de sentido semelhante; antônimos são palavras de sentido oposto. Em prova, o mais importante é lembrar que quase nunca existe sinonímia perfeita fora de contexto. A VUNESP cobra muito equivalência de sentido dentro do texto, substituição vocabular e oposição semântica.",
+  "teoria": "Sinônimos são palavras ou expressões com sentidos próximos. Exemplo: feliz e contente; começar e iniciar; belo e bonito. Antônimos são palavras com sentidos contrários, como claro e escuro; entrar e sair; aumentar e diminuir. Apesar dessas definições parecerem simples, a prova costuma exigir atenção ao contexto.\n\nIsso acontece porque uma palavra pode ter mais de um significado, e o sinônimo adequado muda conforme a frase. Exemplo: a palavra \"banco\" pode significar instituição financeira ou assento. O sinônimo só pode ser escolhido depois que o contexto define o sentido. Da mesma forma, um antônimo só funciona se respeitar o valor que a palavra assume no trecho.\n\nA VUNESP gosta de perguntar qual palavra pode substituir outra sem prejuízo de sentido. Nessa situação, a troca precisa manter o significado e, de preferência, a adequação do registro. Nem sempre duas palavras são equivalentes em qualquer contexto. Às vezes são apenas aproximadas. Por isso, a banca explora nuances semânticas.\n\nOutro ponto importante é perceber quando o antônimo é direto e quando é contextual. O contrário de \"alto\" pode ser \"baixo\" em relação à altura, mas pode ser \"baixo\" ou \"fraco\" em relação ao som, dependendo do contexto.\n\nEm resumo, sinônimo e antônimo não devem ser decorados isoladamente. É preciso observar o sentido da palavra no texto, a intenção do autor e o efeito da substituição.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Sinônimos são palavras de sentido semelhante; antônimos são palavras de sentido oposto. O contexto define qual relação semântica é válida em cada caso."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Não existe sinonímia absoluta em todos os contextos. A substituição correta deve manter o sentido do texto. O antônimo também depende do valor semântico da palavra no enunciado."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra substituição sem prejuízo de sentido, interpretação de vocabulário e identificação de opostos contextuais. A banca também explora polissemia, isto é, palavras com mais de um significado."
+    }
+  ],
+  "pontos_chave": [
+    "Sinônimo é aproximação de sentido, não igualdade absoluta.",
+    "O contexto define o melhor sinônimo ou antônimo.",
+    "Uma palavra pode ter significados diferentes em contextos diferentes.",
+    "A VUNESP cobra muito substituição vocabular sem alterar o sentido.",
+    "Antônimo pode variar conforme o valor semântico da palavra."
+  ],
+  "dicas_prova": [
+    "Leia a frase inteira antes de escolher o sinônimo.",
+    "Troque a palavra e veja se a frase mantém exatamente o sentido.",
+    "Desconfie de alternativas parecidas, mas com tom ou uso inadequado.",
+    "Pegadinhas clássicas da VUNESP: palavras polissêmicas e sinônimos fora de contexto."
+  ],
+  "exemplos": [
+    "Iniciar é sinônimo de começar em muitos contextos.",
+    "Escuro é antônimo de claro.",
+    "Banco pode significar assento ou instituição financeira, dependendo do contexto."
+  ],
+  "erros_comuns": [
+    "Escolher sinônimo pelo dicionário mental sem olhar a frase.",
+    "Ignorar que a palavra pode ter mais de um sentido.",
+    "Marcar antônimo genérico que não combina com o contexto."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é sinônimo?",
+      "resposta": "Palavra de sentido semelhante a outra."
+    },
+    {
+      "pergunta": "O que é antônimo?",
+      "resposta": "Palavra de sentido oposto a outra."
+    },
+    {
+      "pergunta": "Existe sinônimo perfeito em qualquer contexto?",
+      "resposta": "Não. O contexto sempre interfere."
+    },
+    {
+      "pergunta": "O que é polissemia?",
+      "resposta": "É a existência de vários sentidos para uma mesma palavra."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra esse tema?",
+      "resposta": "Com substituição vocabular e análise de sentido contextual."
+    },
+    {
+      "pergunta": "Qual cuidado principal nesse assunto?",
+      "resposta": "Não separar palavra e contexto."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Na frase 'O aluno iniciou o curso', um sinônimo adequado para 'iniciou' é:",
+      "alternativas": [
+        "encerrou",
+        "começou",
+        "interrompeu",
+        "escondeu"
+      ],
+      "correta": 1,
+      "explicacao": "No contexto, 'começou' preserva o sentido de 'iniciou'."
+    },
+    {
+      "enunciado": "O antônimo de 'claro', no contexto de luminosidade, é:",
+      "alternativas": [
+        "largo",
+        "fraco",
+        "escuro",
+        "vazio"
+      ],
+      "correta": 2,
+      "explicacao": "No campo semântico da luz, o oposto de claro é escuro."
+    },
+    {
+      "enunciado": "Em prova, o melhor critério para escolher sinônimo é:",
+      "alternativas": [
+        "tamanho da palavra",
+        "contexto em que aparece",
+        "ordem alfabética",
+        "sonoridade"
+      ],
+      "correta": 1,
+      "explicacao": "O contexto define qual equivalente semântico é aceitável."
+    },
+    {
+      "enunciado": "A palavra 'banco' exige atenção porque:",
+      "alternativas": [
+        "não tem plural",
+        "é verbo apenas",
+        "pode ter mais de um sentido",
+        "não aceita sinônimos"
+      ],
+      "correta": 2,
+      "explicacao": "É palavra polissêmica: pode designar assento ou instituição financeira."
+    },
+    {
+      "enunciado": "Assinale a dupla de antônimos.",
+      "alternativas": [
+        "feliz e contente",
+        "bonito e belo",
+        "entrar e sair",
+        "começar e iniciar"
+      ],
+      "correta": 2,
+      "explicacao": "Entrar e sair exprimem sentidos opostos."
+    },
+    {
+      "enunciado": "Na frase 'A sala estava vazia', um sinônimo de 'vazia' é:",
+      "alternativas": [
+        "cheia",
+        "desocupada",
+        "barulhenta",
+        "escura"
+      ],
+      "correta": 1,
+      "explicacao": "Desocupada mantém a ideia de ausência de pessoas ou objetos no contexto."
+    },
+    {
+      "enunciado": "Em 'falou baixo', o antônimo mais adequado de 'baixo' é:",
+      "alternativas": [
+        "alto",
+        "grande",
+        "largo",
+        "profundo"
+      ],
+      "correta": 0,
+      "explicacao": "No contexto de volume de voz, o oposto de 'baixo' é 'alto'."
+    },
+    {
+      "enunciado": "A VUNESP costuma usar palavras semelhantes para:",
+      "alternativas": [
+        "facilitar a resposta",
+        "confundir o candidato sem motivo",
+        "testar nuances de sentido",
+        "eliminar o contexto"
+      ],
+      "correta": 2,
+      "explicacao": "A banca explora diferenças finas de significado."
+    },
+    {
+      "enunciado": "Uma substituição vocabular correta é aquela que:",
+      "alternativas": [
+        "muda a ideia central",
+        "mantém o sentido do trecho",
+        "troca a classe gramatical obrigatoriamente",
+        "deixa a frase mais longa"
+      ],
+      "correta": 1,
+      "explicacao": "A substituição deve preservar o significado."
+    },
+    {
+      "enunciado": "Assinale a dupla de sinônimos em contexto adequado.",
+      "alternativas": [
+        "subir e descer",
+        "triste e abatido",
+        "falar e calar",
+        "abrir e fechar"
+      ],
+      "correta": 1,
+      "explicacao": "Triste e abatido podem ser equivalentes em muitos contextos emocionais."
+    }
+  ]
+}

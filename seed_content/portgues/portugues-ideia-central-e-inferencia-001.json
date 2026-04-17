@@ -1,0 +1,182 @@
+{
+  "id": "portugues-ideia-central-e-inferencia-001",
+  "name": "Ideia central e inferência",
+  "topico": "Ideia central e inferência",
+  "resumo": "Ideia central é a mensagem principal do texto; inferência é a conclusão que o leitor tira a partir de pistas do texto, mesmo quando a informação não está escrita de forma direta. A VUNESP cobra muito a distinção entre o que está explícito e o que está implícito. Para acertar, o candidato precisa localizar o núcleo do texto, observar o objetivo do autor e evitar extrapolações.",
+  "teoria": "Ideia central é o núcleo do texto, ou seja, aquilo que o autor realmente quer comunicar como mensagem principal. Não é um detalhe, nem um exemplo isolado, nem uma informação secundária. Em textos curtos, a ideia central costuma estar mais concentrada; em textos longos, ela se mantém como fio condutor de todos os parágrafos. Já a inferência é a capacidade de concluir algo com base em pistas oferecidas pelo texto. Inferir não é inventar: é interpretar de forma lógica e fundamentada.\n\nNa VUNESP, a ideia central costuma aparecer em perguntas como: \"O texto trata principalmente de...\", \"A ideia principal do texto é...\", \"O objetivo do autor é...\". Nessas situações, o erro mais comum é escolher uma alternativa que corresponde apenas a um detalhe verdadeiro, mas que não resume o texto como um todo.\n\nPara encontrar a ideia central, é preciso observar título, introdução, repetições de palavras, argumentos predominantes, conclusão e oposição entre ideias. Também ajuda perguntar: se eu tivesse de resumir o texto em uma frase, qual seria? Essa frase deve abranger o conjunto do texto, não apenas um trecho.\n\nA inferência, por sua vez, aparece quando a banca pergunta o que se pode concluir, depreender, entender ou subentender do texto. Nesses casos, a resposta correta não precisa estar escrita literalmente, mas deve ser consequência lógica do que está escrito. Exemplo: se o texto informa que alguém saiu de casa com guarda-chuva, casaco e pressa, é possível inferir que chovia ou que havia previsão de chuva. Isso não foi dito diretamente, mas decorre do contexto.\n\nA VUNESP costuma explorar muito a diferença entre informação explícita e implícita. Explícita é a informação claramente escrita. Implícita é a que precisa ser percebida pelo leitor. Outro cuidado importante é evitar a extrapolação. Extrapolar é ir além do texto, acrescentando opinião pessoal, conhecimento de mundo sem base textual ou conclusão exagerada.\n\nEm resumo, ideia central responde ao que o texto diz como mensagem principal; inferência responde ao que o texto permite concluir. Quem lê com atenção ao conjunto e respeita os limites do texto resolve bem esse tipo de questão.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Ideia central é a mensagem principal do texto. Inferência é a conclusão tirada a partir de pistas textuais. A primeira resume o núcleo do texto; a segunda exige leitura interpretativa baseada em elementos explícitos e implícitos."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "A ideia central deve abranger o texto inteiro, não apenas partes isoladas. A inferência precisa estar apoiada em pistas do texto. Não se pode confundir inferência com opinião pessoal nem escolher alternativas que extrapolem o conteúdo."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra identificação do tema principal, da tese, do objetivo do autor e de conclusões implícitas. As pegadinhas geralmente trazem alternativas com detalhes do texto, generalizações exageradas ou informações plausíveis, mas não autorizadas pelo texto."
+    }
+  ],
+  "pontos_chave": [
+    "Ideia central é diferente de detalhe secundário.",
+    "Inferir é concluir com base em pistas, não inventar.",
+    "Informação explícita está escrita; implícita precisa ser deduzida.",
+    "A alternativa correta deve respeitar os limites do texto.",
+    "A VUNESP costuma trocar a ideia principal por exemplos ou detalhes verdadeiros."
+  ],
+  "dicas_prova": [
+    "Leia o título e o primeiro e o último parágrafo com atenção redobrada.",
+    "Teste se a alternativa resume o texto todo ou apenas uma parte.",
+    "Em inferência, procure pistas concretas no texto antes de marcar.",
+    "Pegadinhas clássicas da VUNESP: extrapolação, detalhe secundário e generalização excessiva."
+  ],
+  "exemplos": [
+    "Se o texto inteiro discute os efeitos do celular na concentração, essa é a ideia central, não apenas um exemplo dado em um parágrafo.",
+    "Se o texto diz que o personagem fechou a janela, vestiu casaco e pegou guarda-chuva, pode-se inferir que fazia frio ou iria chover.",
+    "Se o autor critica o consumo excessivo, não se pode concluir que ele é contra todo tipo de consumo."
+  ],
+  "erros_comuns": [
+    "Confundir título chamativo com ideia central sem verificar o restante do texto.",
+    "Marcar alternativa com detalhe verdadeiro, mas secundário.",
+    "Fazer inferência baseada em opinião pessoal, e não em pistas do texto."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é ideia central?",
+      "resposta": "É a mensagem principal do texto, aquilo que ele comunica de forma global."
+    },
+    {
+      "pergunta": "O que é inferência?",
+      "resposta": "É a conclusão lógica tirada a partir de pistas dadas pelo texto."
+    },
+    {
+      "pergunta": "Inferir é inventar?",
+      "resposta": "Não. Inferir é concluir com base no texto."
+    },
+    {
+      "pergunta": "O que é informação implícita?",
+      "resposta": "É a informação não dita diretamente, mas sugerida pelo texto."
+    },
+    {
+      "pergunta": "Qual erro comum em ideia central?",
+      "resposta": "Confundir exemplo ou detalhe com a mensagem principal."
+    },
+    {
+      "pergunta": "Como a VUNESP costuma enganar?",
+      "resposta": "Oferecendo alternativas plausíveis, mas que extrapolam ou reduzem o texto."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Em uma questão sobre ideia central, a alternativa correta deve:",
+      "alternativas": [
+        "reproduzir um detalhe do primeiro parágrafo",
+        "resumir a mensagem global do texto",
+        "apresentar a opinião do leitor",
+        "trazer informação externa ao texto"
+      ],
+      "correta": 1,
+      "explicacao": "A ideia central resume o texto como um todo. Detalhes isolados e opiniões externas não cumprem esse papel."
+    },
+    {
+      "enunciado": "Inferir uma informação significa:",
+      "alternativas": [
+        "copiar uma frase do texto",
+        "inventar uma hipótese livre",
+        "tirar uma conclusão com base em pistas textuais",
+        "discordar do autor"
+      ],
+      "correta": 2,
+      "explicacao": "Inferência é conclusão lógica baseada em elementos do próprio texto."
+    },
+    {
+      "enunciado": "Assinale a alternativa que apresenta informação implícita.",
+      "alternativas": [
+        "A que está escrita palavra por palavra",
+        "A que depende de interpretação com base em pistas",
+        "A que contradiz o texto",
+        "A que está no título apenas"
+      ],
+      "correta": 1,
+      "explicacao": "Informação implícita não está dita diretamente; ela é percebida pelo leitor a partir de indícios."
+    },
+    {
+      "enunciado": "A VUNESP costuma trocar a ideia central por:",
+      "alternativas": [
+        "um detalhe secundário verdadeiro",
+        "uma tese bem resumida",
+        "a conclusão correta do texto",
+        "o objetivo do autor"
+      ],
+      "correta": 0,
+      "explicacao": "Uma pegadinha clássica é apresentar um detalhe verdadeiro, mas que não resume o texto inteiro."
+    },
+    {
+      "enunciado": "Quando o enunciado pergunta o que se pode concluir do texto, ele cobra principalmente:",
+      "alternativas": [
+        "ortografia",
+        "inferência",
+        "pontuação",
+        "tipologia textual"
+      ],
+      "correta": 1,
+      "explicacao": "Expressões como 'concluir', 'depreender' e 'subentender' apontam para questão de inferência."
+    },
+    {
+      "enunciado": "Assinale o erro de leitura mais comum em questões de inferência.",
+      "alternativas": [
+        "basear-se em pistas do texto",
+        "comparar alternativas",
+        "extrapolar o que o texto permite",
+        "observar o contexto"
+      ],
+      "correta": 2,
+      "explicacao": "O erro mais comum é ir além do que o texto autoriza."
+    },
+    {
+      "enunciado": "A informação explícita é aquela que:",
+      "alternativas": [
+        "precisa ser deduzida",
+        "não aparece no texto",
+        "está escrita de forma direta",
+        "depende de opinião pessoal"
+      ],
+      "correta": 2,
+      "explicacao": "Informação explícita é a que aparece claramente no texto."
+    },
+    {
+      "enunciado": "Para achar a ideia central, é útil perguntar:",
+      "alternativas": [
+        "qual palavra é mais difícil",
+        "qual frase resume o texto todo",
+        "qual opinião eu tenho sobre o tema",
+        "qual detalhe mais me chamou atenção"
+      ],
+      "correta": 1,
+      "explicacao": "A ideia central pode ser encontrada ao resumir o texto em uma única frase abrangente."
+    },
+    {
+      "enunciado": "Se uma alternativa parece possível, mas não pode ser comprovada pelo texto, ela deve ser:",
+      "alternativas": [
+        "marcada",
+        "considerada correta por lógica externa",
+        "descartada",
+        "usada como inferência livre"
+      ],
+      "correta": 2,
+      "explicacao": "Na interpretação, a resposta deve estar autorizada pelo texto; o que não pode ser comprovado deve ser descartado."
+    },
+    {
+      "enunciado": "Em questões de ideia central, a melhor estratégia é:",
+      "alternativas": [
+        "focar apenas no primeiro parágrafo",
+        "somar os detalhes mais curiosos",
+        "observar o conjunto do texto",
+        "ignorar o título"
+      ],
+      "correta": 2,
+      "explicacao": "A ideia central depende da leitura global, não da análise isolada de um trecho."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "portugues-colocacao-pronominal-001",
+  "name": "Colocação pronominal",
+  "topico": "Colocação pronominal",
+  "resumo": "Colocação pronominal é a posição do pronome oblíquo átono em relação ao verbo. Existem três posições: próclise (antes do verbo), ênclise (depois do verbo) e mesóclise (no meio do verbo). Na VUNESP, o ponto central é reconhecer quando existe palavra atrativa que obriga a próclise, quando a ênclise é a forma adequada e quando a mesóclise aparece como forma culta com verbos no futuro do presente e no futuro do pretérito. O segredo é identificar o que vem antes do verbo e verificar se há fator de atração.",
+  "teoria": "Colocação pronominal é o estudo da posição dos pronomes oblíquos átonos em relação ao verbo. Esses pronomes são: me, te, se, o, a, os, as, lhe, lhes, nos e vos. Em língua portuguesa, eles podem aparecer antes do verbo, depois do verbo ou, em casos específicos, no meio da forma verbal. Essas três posições recebem nomes que a banca cobra bastante: próclise, ênclise e mesóclise.\n\nA próclise ocorre quando o pronome vem antes do verbo. Exemplo: \"Não me diga isso.\" Ela costuma ser usada quando há uma palavra que atrai o pronome. Essas palavras ou expressões atrativas são o ponto mais importante para resolver questões. Entre os principais fatores de próclise estão: palavras de sentido negativo (não, nunca, jamais, ninguém, nada), pronomes relativos (que, quem, cujo), pronomes indefinidos (alguém, tudo, todos, qualquer), pronomes demonstrativos em certos contextos (isso, aquilo, esta, esse), conjunções subordinativas (quando, se, porque, embora, conforme), advérbios antepostos ao verbo e frases exclamativas, interrogativas e optativas.\n\nExemplos: \"Nunca me avisaram.\" / \"Quem te contou isso?\" / \"Quando se iniciou a prova, houve silêncio.\" / \"Tudo se resolveu rapidamente.\" Nesses casos, o pronome antes do verbo não é mera escolha estilística: é consequência da atração exercida pelo termo anterior.\n\nA ênclise ocorre quando o pronome aparece depois do verbo. Exemplo: \"Disseram-me a verdade.\" A ênclise é comum quando o verbo inicia a oração e não há palavra atrativa antes dele. Também é muito usada em verbos no imperativo afirmativo: \"Ajude-me\", \"Traga-me os documentos\". Outro ponto importante: não se inicia oração, em regra, com pronome oblíquo átono. Por isso, em vez de \"Me avisaram cedo\", a norma-padrão prefere \"Avisaram-me cedo\", salvo em usos mais informais ou estilísticos, que podem aparecer na fala, mas não são o padrão exigido em prova objetiva.\n\nA mesóclise ocorre quando o pronome é colocado no meio do verbo. Exemplo: \"Dir-lhe-ei a verdade\" ou \"Far-se-ia o possível\". Ela aparece com verbos no futuro do presente e no futuro do pretérito, desde que não haja palavra atrativa exigindo próclise. É uma construção típica da linguagem formal e da norma-padrão. Em concursos, a VUNESP costuma cobrar mais o reconhecimento da possibilidade e da correção da estrutura do que o uso frequente em textos cotidianos.\n\nSe houver palavra atrativa antes de um verbo no futuro, a mesóclise cai e a próclise passa a ser exigida. Exemplo: \"Não lhe direi a verdade\". Aqui o advérbio negativo \"não\" atrai o pronome. Seria inadequado usar \"Não dir-lhe-ei\". Esse contraste é clássico em prova.\n\nUm tema muito importante é a colocação pronominal nas locuções verbais. Quando há verbo auxiliar + infinitivo, gerúndio ou particípio, o pronome pode aparecer em posições diferentes, a depender da estrutura e da presença de palavra atrativa. Exemplo: \"Quero lhe dizer a verdade\" e \"Quero dizer-lhe a verdade\" são formas aceitas em muitos contextos. Com palavra atrativa, a próclise costuma recair sobre o verbo auxiliar: \"Não lhe quero dizer isso\". Em construções com particípio, evita-se o pronome depois do particípio: diz-se \"tinha-me contado\", e não \"tinha contado-me\".\n\nOutro ponto cobrado é a diferença entre norma culta escrita e uso coloquial. No português falado do Brasil, é comum ouvir frases como \"Me empresta sua caneta\". No entanto, em prova de norma-padrão, a preferência é por \"Empreste-me sua caneta\" ou outra construção equivalente, dependendo do contexto. A banca costuma explorar exatamente essa diferença entre o uso corrente e o uso gramaticalmente recomendado.\n\nHá ainda casos em que a próclise é facultativa, como quando há certos advérbios sem pausa forte. Exemplo: \"Aqui se trabalha\" e \"Aqui trabalha-se\" podem ser aceitáveis, dependendo da estrutura e da entonação. Porém, em questões objetivas, a VUNESP geralmente trabalha com situações mais claras, focando os casos obrigatórios e os claramente inadequados.\n\nÉ essencial dominar os fatores de atração. São eles que resolvem a maior parte das questões: palavras negativas, pronomes relativos, pronomes indefinidos, conjunções subordinativas, advérbios, frases interrogativas, exclamativas e optativas. Se algum desses elementos aparece antes do verbo, a tendência é a próclise. Se o verbo inicia a oração e não há atrativo, tende-se à ênclise. Se o verbo está no futuro e não há atrativo, a mesóclise pode ocorrer na linguagem formal.\n\nTambém é importante lembrar que o particípio não aceita pronome enclítico na norma-padrão. Por isso, formas como \"havia contado-me\" e \"tinha entregue-lhe\" são rejeitadas. O adequado é deslocar o pronome para antes do auxiliar: \"havia-me contado\", \"tinha-lhe entregue\".\n\nNa VUNESP, as questões podem pedir a frase correta, a substituição de um termo por pronome, a reescrita mantendo o sentido ou a análise da norma-padrão. Muitas vezes a banca coloca alternativas muito parecidas, mudando apenas a posição do pronome. Nessas horas, a atenção aos atrativos faz toda a diferença.\n\nEm resumo: próclise é pronome antes do verbo; ênclise é pronome depois do verbo; mesóclise é pronome no meio do verbo. A escolha depende do contexto sintático. Quem memoriza os fatores de atração e reconhece a estrutura verbal consegue acertar a maioria das questões de colocação pronominal.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Colocação pronominal é a posição dos pronomes oblíquos átonos em relação ao verbo. Existem três possibilidades: próclise, quando o pronome vem antes do verbo (\"não me diga\"); ênclise, quando vem depois do verbo (\"diga-me\"); e mesóclise, quando aparece no meio do verbo (\"dir-lhe-ei\"). A posição correta depende da estrutura da frase, da presença de palavras atrativas e do tempo verbal empregado."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Usa-se próclise quando há fator de atração, como palavras negativas (não, nunca), pronomes relativos (que, quem), pronomes indefinidos (alguém, tudo), conjunções subordinativas (quando, se, embora), advérbios antepostos, frases interrogativas, exclamativas e optativas. Usa-se ênclise quando o verbo inicia a oração e não há palavra atrativa, além do imperativo afirmativo. Usa-se mesóclise com verbos no futuro do presente ou no futuro do pretérito, desde que não haja fator de próclise. Em locuções verbais, a colocação varia conforme o auxiliar, o verbo principal e a presença de atrativo. Com particípio, evita-se a ênclise ao particípio: o pronome deve aparecer antes do auxiliar."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma cobrar colocação pronominal em reescrita de frases, escolha da alternativa correta e substituição de termos por pronomes oblíquos. A banca explora especialmente: presença de palavra atrativa, verbo no início da oração, imperativo afirmativo, futuro do presente/futuro do pretérito e locuções verbais. Também gosta de apresentar alternativas muito semelhantes, nas quais só uma respeita a norma-padrão. Saber identificar rapidamente o fator de atração é a melhor estratégia."
+    }
+  ],
+  "pontos_chave": [
+    "Próclise ocorre quando o pronome vem antes do verbo, geralmente por causa de palavra atrativa.",
+    "Ênclise ocorre quando o pronome vem depois do verbo, sobretudo quando o verbo inicia a oração ou está no imperativo afirmativo.",
+    "Mesóclise ocorre com futuro do presente e futuro do pretérito, sem palavra atrativa antes do verbo.",
+    "Palavras negativas, pronomes relativos, indefinidos, conjunções subordinativas e advérbios antepostos atraem próclise.",
+    "Em locuções verbais com particípio, o pronome não deve ficar depois do particípio."
+  ],
+  "dicas_prova": [
+    "Antes de analisar a posição do pronome, procure palavra negativa, pronome relativo, conjunção ou advérbio antes do verbo.",
+    "Se o verbo iniciar a oração, desconfie da próclise e teste a ênclise como forma padrão.",
+    "Verbo no futuro sem palavra atrativa pode admitir mesóclise na linguagem formal.",
+    "Pegadinhas clássicas da VUNESP: início de oração com pronome, futuro com palavra atrativa e pronome mal colocado em locução verbal."
+  ],
+  "exemplos": [
+    "Não me contaram toda a verdade. (Próclise por causa da palavra negativa \"não\".)",
+    "Entregaram-me o resultado ontem. (Ênclise, pois o verbo inicia a oração.)",
+    "Dir-lhe-ei o que aconteceu mais tarde. (Mesóclise com futuro do presente sem fator de atração.)"
+  ],
+  "erros_comuns": [
+    "Iniciar oração formal com pronome oblíquo átono sem justificativa: \"Me avisaram cedo\" em vez de \"Avisaram-me cedo\".",
+    "Usar mesóclise quando existe palavra atrativa: \"Não dir-lhe-ei\" em vez de \"Não lhe direi\".",
+    "Colocar pronome depois de particípio: \"tinha contado-me\" em vez de \"tinha-me contado\"."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é próclise?",
+      "resposta": "É a colocação do pronome oblíquo átono antes do verbo."
+    },
+    {
+      "pergunta": "Quando a ênclise é comum na norma-padrão?",
+      "resposta": "Quando o verbo inicia a oração e não há palavra atrativa, ou no imperativo afirmativo."
+    },
+    {
+      "pergunta": "Quando ocorre mesóclise?",
+      "resposta": "Com verbos no futuro do presente ou no futuro do pretérito, sem fator de próclise."
+    },
+    {
+      "pergunta": "Qual é uma palavra clássica de atração pronominal?",
+      "resposta": "\"Não\" é um dos fatores mais fortes de próclise."
+    },
+    {
+      "pergunta": "Pode haver pronome depois do particípio na norma-padrão?",
+      "resposta": "Não. O pronome deve aparecer antes do verbo auxiliar."
+    },
+    {
+      "pergunta": "Como lembrar a lógica geral da colocação pronominal?",
+      "resposta": "Procure atrativo antes do verbo; se houver, próclise. Sem atrativo, tende-se à ênclise. No futuro formal, pode haver mesóclise."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a alternativa correta quanto à colocação pronominal, de acordo com a norma-padrão.",
+      "alternativas": [
+        "Me disseram que a prova será difícil.",
+        "Disseram-me que a prova será difícil.",
+        "Disseram que me a prova será difícil.",
+        "Me disseram que a prova difícil será."
+      ],
+      "correta": 1,
+      "explicacao": "A alternativa correta é \"Disseram-me que a prova será difícil\". Como o verbo inicia a oração e não há palavra atrativa antes dele, a norma-padrão prefere a ênclise. A forma \"Me disseram\" é muito comum na fala, mas não é a preferida em contexto formal de prova."
+    },
+    {
+      "enunciado": "Em qual alternativa a próclise é obrigatória?",
+      "alternativas": [
+        "Entregarei-lhe o material amanhã.",
+        "Não lhe entregarei o material amanhã.",
+        "Entregar-lhe-ei o material amanhã.",
+        "Entreguei-lhe o material ontem."
+      ],
+      "correta": 1,
+      "explicacao": "A palavra negativa \"não\" atrai o pronome, tornando obrigatória a próclise: \"Não lhe entregarei...\". Nas demais alternativas, não há fator de atração que imponha próclise."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que a mesóclise foi empregada corretamente.",
+      "alternativas": [
+        "Não dir-lhe-ei a verdade.",
+        "Dir-lhe-ei a verdade amanhã.",
+        "Me direi a verdade amanhã.",
+        "Direi-lhe a verdade amanhã, porque não posso omiti-la."
+      ],
+      "correta": 1,
+      "explicacao": "A mesóclise está correta em \"Dir-lhe-ei a verdade amanhã\", pois o verbo está no futuro do presente e não há palavra atrativa antes dele. Em A, a palavra negativa \"não\" exige próclise: \"Não lhe direi\". Em C, a frase está inadequada. Em D, a ênclise não é a forma mais recomendada com esse futuro na norma mais tradicional."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta de acordo com a norma-padrão.",
+      "alternativas": [
+        "Quem avisou-me sobre a mudança?",
+        "Quem me avisou sobre a mudança?",
+        "Quem avisou me sobre a mudança?",
+        "Quem sobre a mudança me avisou?"
+      ],
+      "correta": 1,
+      "explicacao": "O pronome relativo/interrogativo \"quem\" atrai o pronome oblíquo, exigindo próclise: \"Quem me avisou...?\". As demais alternativas não respeitam a regra da atração."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta quanto à colocação pronominal em locução verbal.",
+      "alternativas": [
+        "Tinha contado-me o segredo antes da reunião.",
+        "Tinha-me contado o segredo antes da reunião.",
+        "Tinha contado o segredo-me antes da reunião.",
+        "Me tinha contado o segredo antes da reunião, sendo essa a única forma correta."
+      ],
+      "correta": 1,
+      "explicacao": "Com particípio, o pronome não deve ficar depois do particípio. O correto é colocá-lo antes do auxiliar: \"Tinha-me contado...\". A próclise ao auxiliar também é a solução normativa adequada nesse caso."
+    },
+    {
+      "enunciado": "Em qual alternativa o imperativo afirmativo está corretamente construído?",
+      "alternativas": [
+        "Me entregue o relatório agora.",
+        "Entregue-me o relatório agora.",
+        "Não entregue-me o relatório agora.",
+        "Entregue o me relatório agora."
+      ],
+      "correta": 1,
+      "explicacao": "No imperativo afirmativo, a norma-padrão recomenda a ênclise: \"Entregue-me o relatório agora.\" A alternativa C está errada porque, com a palavra negativa \"não\", o correto seria \"Não me entregue...\"."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que a colocação pronominal está inadequada.",
+      "alternativas": [
+        "Quando me chamarem, irei imediatamente.",
+        "Nada se resolveu até agora.",
+        "Far-lhe-ia um favor, se pudesse.",
+        "Jamais direi-lhe isso."
+      ],
+      "correta": 3,
+      "explicacao": "A alternativa inadequada é \"Jamais direi-lhe isso\". A palavra negativa \"jamais\" atrai o pronome, exigindo próclise: \"Jamais lhe direi isso\". As demais estão de acordo com a norma-padrão."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        "Se contaram-me a verdade, não sei.",
+        "Se me contaram a verdade, não sei.",
+        "Se contaram me a verdade, não sei.",
+        "Se a verdade me contaram, não sei, sendo essa a forma obrigatória."
+      ],
+      "correta": 1,
+      "explicacao": "A conjunção subordinativa \"se\" atrai o pronome, exigindo próclise: \"Se me contaram a verdade, não sei.\" As outras formas não seguem a norma-padrão."
+    },
+    {
+      "enunciado": "Em qual alternativa a colocação pronominal está correta segundo a norma-padrão?",
+      "alternativas": [
+        "Aqui trabalha-se com disciplina.",
+        "Aqui se trabalha com disciplina.",
+        "Se trabalha aqui com disciplina, sendo esta a única forma aceita.",
+        "Aqui trabalha se com disciplina."
+      ],
+      "correta": 1,
+      "explicacao": "Com o advérbio \"aqui\" anteposto ao verbo, a próclise é forma plenamente aceitável: \"Aqui se trabalha com disciplina.\" A alternativa A pode aparecer em alguns contextos, mas a banca costuma privilegiar a próclise diante do advérbio atrativo."
+    },
+    {
+      "enunciado": "Assinale a alternativa que reescreve corretamente a frase \"Entregarei o documento a ele\" com pronome oblíquo, de acordo com a norma-padrão.",
+      "alternativas": [
+        "Lhe entregarei o documento.",
+        "Entregar-lhe-ei o documento.",
+        "Entregarei-lhe o documento.",
+        "Me entregarei o documento."
+      ],
+      "correta": 1,
+      "explicacao": "Como o verbo está no futuro do presente e não há palavra atrativa antes dele, a forma mais tradicional da norma-padrão é a mesóclise: \"Entregar-lhe-ei o documento\". A alternativa A pode surgir em uso corrente, mas a banca costuma valorizar a construção clássica formal."
+    }
+  ]
+}

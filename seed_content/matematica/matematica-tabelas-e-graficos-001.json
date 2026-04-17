@@ -1,0 +1,182 @@
+{
+  "id": "matematica-tabelas-e-graficos-001",
+  "name": "Tabelas e gráficos",
+  "topico": "Tabelas e gráficos",
+  "resumo": "Tabelas e gráficos organizam dados e facilitam comparação, leitura e interpretação. A VUNESP cobra muito leitura de valores, comparação entre categorias, porcentagens, médias e análise de tendências em gráficos de barras, linhas e setores.",
+  "teoria": "Tabelas organizam dados em linhas e colunas. Gráficos representam visualmente esses dados. Em concursos, saber interpretar é mais importante do que decorar nomes.\n\nGráfico de barras compara quantidades entre categorias. Gráfico de linhas mostra evolução ao longo do tempo. Gráfico de setores, ou pizza, mostra participação proporcional no total. Tabelas permitem leitura detalhada de valores e cruzamento de informações.\n\nA VUNESP costuma exigir leitura exata dos números, comparação entre maior e menor valor, diferença entre categorias, soma de dados, porcentagem e média. Muitas vezes a pergunta não pede cálculo complexo, mas atenção ao enunciado.\n\nÉ essencial observar título, legenda, eixos, unidades e período analisado. Um mesmo número pode representar pessoas, reais, porcentagem ou toneladas, e isso muda a interpretação.\n\nEm resumo, esse tema mistura interpretação com matemática básica. Quem lê com calma e organiza os dados costuma acertar.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Tabelas e gráficos são formas de organizar e representar dados numéricos."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É preciso observar título, legenda, eixos, unidades e período. O tipo de gráfico indica o tipo de comparação mais fácil."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra leitura direta, comparação, porcentagem, diferença, média e interpretação de tendência."
+    }
+  ],
+  "pontos_chave": [
+    "Barras comparam categorias.",
+    "Linhas mostram evolução no tempo.",
+    "Setores mostram participação percentual.",
+    "Título e unidade são essenciais.",
+    "Muitos erros vêm de leitura apressada."
+  ],
+  "dicas_prova": [
+    "Leia primeiro o título e a unidade.",
+    "Depois veja exatamente o que a pergunta quer.",
+    "Se necessário, anote os valores principais antes de calcular.",
+    "Pegadinhas clássicas da VUNESP: confundir valor absoluto com porcentagem."
+  ],
+  "exemplos": [
+    "Gráfico de barras para comparar vendas por mês.",
+    "Gráfico de linhas para evolução da temperatura.",
+    "Tabela para cruzar idade e quantidade de candidatos."
+  ],
+  "erros_comuns": [
+    "Ignorar a legenda.",
+    "Ler porcentagem como valor absoluto.",
+    "Comparar categorias erradas por falta de atenção ao eixo."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Qual gráfico é bom para comparar categorias?",
+      "resposta": "Gráfico de barras."
+    },
+    {
+      "pergunta": "Qual gráfico mostra evolução temporal?",
+      "resposta": "Gráfico de linhas."
+    },
+    {
+      "pergunta": "Qual gráfico mostra partes do todo?",
+      "resposta": "Gráfico de setores."
+    },
+    {
+      "pergunta": "O que ler primeiro?",
+      "resposta": "Título, unidade e legenda."
+    },
+    {
+      "pergunta": "O que a VUNESP cobra muito?",
+      "resposta": "Leitura, comparação e porcentagem."
+    },
+    {
+      "pergunta": "Qual é o maior perigo?",
+      "resposta": "Leitura apressada do gráfico."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Em um gráfico de barras, a altura da barra normalmente representa:",
+      "alternativas": [
+        "a cor do dado",
+        "a quantidade/valor",
+        "o título",
+        "a legenda"
+      ],
+      "correta": 1,
+      "explicacao": "A barra indica visualmente o valor correspondente."
+    },
+    {
+      "enunciado": "O gráfico mais adequado para mostrar evolução ao longo dos meses é o de:",
+      "alternativas": [
+        "linhas",
+        "setores",
+        "pizza",
+        "ícones"
+      ],
+      "correta": 0,
+      "explicacao": "Gráfico de linhas destaca variações ao longo do tempo."
+    },
+    {
+      "enunciado": "Em um gráfico de setores, cada fatia representa:",
+      "alternativas": [
+        "uma raiz quadrada",
+        "uma parte do todo",
+        "apenas números negativos",
+        "uma equação"
+      ],
+      "correta": 1,
+      "explicacao": "Esse tipo de gráfico mostra a participação de cada parte no total."
+    },
+    {
+      "enunciado": "O primeiro cuidado ao interpretar tabela é:",
+      "alternativas": [
+        "adivinhar a resposta",
+        "ver o título e as unidades",
+        "somar tudo",
+        "eliminar linhas"
+      ],
+      "correta": 1,
+      "explicacao": "O contexto dos dados depende do título e das unidades."
+    },
+    {
+      "enunciado": "Se uma tabela mostra 20, 30 e 50 como porcentagens, o total é:",
+      "alternativas": [
+        "80",
+        "90",
+        "100",
+        "120"
+      ],
+      "correta": 2,
+      "explicacao": "Porcentagens de um todo completo somam 100%."
+    },
+    {
+      "enunciado": "Ao comparar duas categorias em um gráfico, é preciso observar:",
+      "alternativas": [
+        "somente a cor",
+        "os valores correspondentes",
+        "apenas o tamanho do papel",
+        "o nome do autor"
+      ],
+      "correta": 1,
+      "explicacao": "A comparação exige leitura dos valores."
+    },
+    {
+      "enunciado": "Um erro comum em gráficos é:",
+      "alternativas": [
+        "ler a legenda",
+        "observar o eixo",
+        "confundir unidade ou escala",
+        "anotar dados"
+      ],
+      "correta": 2,
+      "explicacao": "Escala e unidade mal interpretadas levam a erro."
+    },
+    {
+      "enunciado": "Tabela e gráfico geralmente cobram:",
+      "alternativas": [
+        "apenas memorização",
+        "interpretação e cálculo simples",
+        "somente geometria",
+        "somente álgebra abstrata"
+      ],
+      "correta": 1,
+      "explicacao": "Essas questões exigem leitura e cálculo básico."
+    },
+    {
+      "enunciado": "A pergunta 'qual categoria teve maior valor?' exige:",
+      "alternativas": [
+        "comparação",
+        "MDC",
+        "equação do 2º grau",
+        "teorema de Pitágoras"
+      ],
+      "correta": 0,
+      "explicacao": "É uma análise comparativa dos dados."
+    },
+    {
+      "enunciado": "O maior segredo nesse tema é:",
+      "alternativas": [
+        "olhar só as figuras",
+        "ler com calma o enunciado e os dados",
+        "marcar rápido",
+        "ignorar unidades"
+      ],
+      "correta": 1,
+      "explicacao": "A interpretação correta depende de leitura cuidadosa."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "portugues-regencia-verbal-e-nominal-001",
+  "name": "Regência verbal e nominal",
+  "topico": "Regência verbal e nominal",
+  "resumo": "Regência é a relação de dependência entre um termo regente e um termo regido, normalmente com ou sem preposição. Na regência verbal, o termo regente é o verbo; na nominal, é um nome. A VUNESP cobra muito verbos como assistir, visar, obedecer, implicar, preferir, namorar e aspirar, além de nomes que exigem preposição, como respeito a, obediência a, necessidade de e favorável a.",
+  "teoria": "Regência é a parte da gramática que estuda a relação entre uma palavra que exige complemento e esse complemento. Quando o termo que exige é um verbo, temos regência verbal. Quando é um nome, temos regência nominal.\n\nNa regência verbal, o ponto principal é saber se o verbo pede ou não preposição e qual preposição ele exige. Exemplo: 'Gostar de algo'; 'obedecer a alguém'; 'assistir a um filme' no sentido de ver; 'assistir alguém' no sentido de prestar assistência. Perceba que o sentido altera a regência.\n\nAlguns verbos clássicos de prova: 'assistir' = ver pede preposição 'a'; 'assistir' = socorrer é transitivo direto. 'Visar' = almejar pede preposição 'a'; 'visar' = pôr visto é transitivo direto. 'Aspirar' = desejar pede preposição 'a'; 'aspirar' = sorver, respirar, é transitivo direto. 'Implicar' = acarretar é transitivo direto; 'implicar com' = antipatizar. 'Preferir' pede estrutura sem reforço comparativo exagerado: prefere-se uma coisa a outra, e não 'mais do que'.\n\nO verbo 'obedecer' pede preposição 'a': 'obedecer às regras'. 'Namorar', na norma-padrão, é transitivo direto: 'namorar alguém', sem preposição. 'Chegar' e 'ir' costumam pedir a preposição 'a' ou, no uso corrente, 'para', mas a banca frequentemente privilegia construções mais normativas em certos contextos escritos.\n\nNa regência nominal, o nome exige complemento preposicionado. Exemplo: 'respeito a', 'amor a', 'necessidade de', 'favorável a', 'capaz de', 'aversão a', 'orgulho de'. O núcleo não é verbo, e sim substantivo, adjetivo ou advérbio. Exemplo: 'Tenho respeito aos professores'; 'Ele é favorável à proposta'; 'A decisão foi contrária ao regulamento'.\n\nA regência se relaciona diretamente com a crase. Se o verbo ou nome exige preposição 'a' e o termo seguinte admite artigo feminino, pode ocorrer crase: 'obedecer à norma', 'favorável à medida'.\n\nA VUNESP gosta de cobrar substituição de termos, correção gramatical e análise de frases em que a preposição muda conforme o sentido do verbo. Por isso, decorar listas ajuda, mas entender o significado em cada frase ajuda muito mais.\n\nEm resumo, regência é exigência. O verbo ou nome pede um complemento de determinada forma. Quem observa o sentido e memoriza os casos mais frequentes acerta a maior parte das questões.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Regência é a relação entre um termo regente, que exige complemento, e um termo regido, que completa seu sentido. Essa relação pode ou não envolver preposição."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Na regência verbal, o verbo determina a forma do complemento. Na nominal, o nome determina. Muitos verbos mudam de regência conforme o sentido, como assistir, visar e aspirar. Muitos nomes exigem preposição fixa, como respeito a, necessidade de, favorável a e contrário a."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra verbos clássicos de regência, correção de frases, troca de complemento e relação entre regência e crase. As pegadinhas estão principalmente em verbos com mais de um sentido."
+    }
+  ],
+  "pontos_chave": [
+    "Regência verbal depende do verbo; regência nominal depende do nome.",
+    "Muitos verbos mudam de preposição conforme o sentido.",
+    "Assistir, visar, aspirar, obedecer e preferir caem muito.",
+    "Respeito a, necessidade de e favorável a são exemplos de regência nominal.",
+    "Regência e crase aparecem juntas em muitas questões."
+  ],
+  "dicas_prova": [
+    "Pergunte sempre: esse verbo ou nome exige preposição?",
+    "Observe o sentido do verbo antes de decidir a regência.",
+    "Memorize os verbos clássicos e as estruturas mais cobradas.",
+    "Pegadinhas clássicas da VUNESP: assistir, visar, aspirar, obedecer, preferir e namorar."
+  ],
+  "exemplos": [
+    "Assisti ao filme ontem. (ver)",
+    "O médico assistiu o ferido. (socorrer)",
+    "Ele é favorável à mudança."
+  ],
+  "erros_comuns": [
+    "Usar 'assistir o filme' no sentido de ver, na norma-padrão cobrada.",
+    "Dizer 'prefiro mais isso do que aquilo'.",
+    "Esquecer a preposição exigida por nomes como 'respeito' e 'aversão'."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é regência verbal?",
+      "resposta": "É a relação entre o verbo e seu complemento."
+    },
+    {
+      "pergunta": "O que é regência nominal?",
+      "resposta": "É a relação entre um nome e seu complemento preposicionado."
+    },
+    {
+      "pergunta": "Assistir, no sentido de ver, pede qual preposição?",
+      "resposta": "Pede a preposição 'a'."
+    },
+    {
+      "pergunta": "Obedecer pede qual preposição?",
+      "resposta": "Pede a preposição 'a'."
+    },
+    {
+      "pergunta": "Preferir segue qual estrutura clássica?",
+      "resposta": "Preferir uma coisa a outra."
+    },
+    {
+      "pergunta": "Regência se relaciona com qual outro tema importante?",
+      "resposta": "Com a crase."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a alternativa correta quanto à regência verbal.",
+      "alternativas": [
+        "Assisti o filme ontem.",
+        "Assisti ao filme ontem.",
+        "Assisti no filme ontem.",
+        "Assisti para o filme ontem."
+      ],
+      "correta": 1,
+      "explicacao": "No sentido de ver, o verbo 'assistir' exige a preposição 'a'."
+    },
+    {
+      "enunciado": "Na frase 'O médico assistiu o paciente', o verbo 'assistir' significa:",
+      "alternativas": [
+        "ver",
+        "socorrer",
+        "obedecer",
+        "aspirar"
+      ],
+      "correta": 1,
+      "explicacao": "Nesse caso, 'assistir' tem sentido de prestar assistência, socorrer."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        "Ele prefere mais café do que chá.",
+        "Ele prefere café do que chá.",
+        "Ele prefere café a chá.",
+        "Ele prefere mais café a chá."
+      ],
+      "correta": 2,
+      "explicacao": "A estrutura normativa é 'preferir uma coisa a outra'."
+    },
+    {
+      "enunciado": "O verbo 'obedecer' exige:",
+      "alternativas": [
+        "objeto direto sem preposição",
+        "preposição de",
+        "preposição a",
+        "preposição em"
+      ],
+      "correta": 2,
+      "explicacao": "Na norma-padrão, 'obedecer' rege a preposição 'a'."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta quanto à regência nominal.",
+      "alternativas": [
+        "Ele tem aversão com injustiça.",
+        "Ele tem aversão a injustiça.",
+        "Ele tem aversão de injustiça.",
+        "Ele tem aversão por injustiça apenas."
+      ],
+      "correta": 1,
+      "explicacao": "O nome 'aversão' pede a preposição 'a'. Em contexto feminino com artigo, pode surgir crase: 'aversão à injustiça'."
+    },
+    {
+      "enunciado": "Em 'favorável à proposta', a crase ocorre porque:",
+      "alternativas": [
+        "não há preposição",
+        "o adjetivo exige preposição a e o substantivo admite artigo",
+        "é locução adverbial",
+        "é uso facultativo sempre"
+      ],
+      "correta": 1,
+      "explicacao": "O adjetivo 'favorável' rege a preposição 'a', e 'proposta' admite artigo feminino."
+    },
+    {
+      "enunciado": "Assinale a frase correta na norma-padrão.",
+      "alternativas": [
+        "Ele namora com Ana.",
+        "Ele namora Ana.",
+        "Ele namora de Ana.",
+        "Ele namora para Ana."
+      ],
+      "correta": 1,
+      "explicacao": "Na norma-padrão, 'namorar' é transitivo direto."
+    },
+    {
+      "enunciado": "Em 'Aspirava ao cargo', o verbo significa:",
+      "alternativas": [
+        "respirar",
+        "sorver",
+        "desejar, almejar",
+        "assistir"
+      ],
+      "correta": 2,
+      "explicacao": "No sentido de desejar, 'aspirar' pede a preposição 'a'."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta quanto à regência nominal.",
+      "alternativas": [
+        "necessidade a apoio",
+        "necessidade de apoio",
+        "necessidade por apoio",
+        "necessidade com apoio"
+      ],
+      "correta": 1,
+      "explicacao": "O substantivo 'necessidade' rege a preposição 'de'."
+    },
+    {
+      "enunciado": "Para acertar regência, o primeiro passo é:",
+      "alternativas": [
+        "decorar sem contexto",
+        "observar o sentido do verbo ou nome",
+        "ignorar a preposição",
+        "marcar a opção mais longa"
+      ],
+      "correta": 1,
+      "explicacao": "Muitos casos de regência dependem diretamente do sentido assumido pelo termo regente."
+    }
+  ]
+}

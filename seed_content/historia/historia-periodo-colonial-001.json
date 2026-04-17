@@ -1,0 +1,182 @@
+{
+  "id": "historia-periodo-colonial-001",
+  "name": "Período colonial",
+  "topico": "Período colonial",
+  "resumo": "O período colonial brasileiro foi marcado pela dominação portuguesa, exploração econômica, grande propriedade rural, monocultura e trabalho escravo. A VUNESP cobra a lógica da colonização, os ciclos econômicos, a administração colonial e os efeitos sociais do modelo implantado.",
+  "teoria": "O período colonial brasileiro começou oficialmente em 1500, com a chegada dos portugueses, e se desenvolveu com base no interesse econômico da metrópole. Portugal buscava explorar recursos, ocupar o território e integrar a colônia ao sistema mercantilista europeu.\n\nNos primeiros tempos, destacou-se a extração do pau-brasil, feita com participação indígena, muitas vezes por escambo. Depois, a Coroa portuguesa estruturou a colonização com capitanias hereditárias e governo-geral, tentando garantir ocupação e produção econômica.\n\nA economia açucareira tornou-se o grande eixo do período colonial, principalmente no Nordeste. Ela se baseava em latifúndio, monocultura e trabalho escravo africano. Esse modelo favoreceu concentração de renda e poder nas mãos dos senhores de engenho.\n\nMais tarde, a mineração, especialmente no século XVIII, deslocou o centro econômico para a região das Minas Gerais, incentivando urbanização, circulação de riqueza e maior controle da Coroa, que cobrava impostos como o quinto.\n\nO período colonial também foi marcado por resistência indígena, quilombos, revoltas locais e tensões entre colonos e metrópole. A sociedade era profundamente hierarquizada, escravista e desigual.\n\nA VUNESP costuma cobrar a estrutura econômica da colônia, a função da escravidão, a administração portuguesa e os impactos da mineração e do açúcar na formação do Brasil.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Período colonial é a fase em que o Brasil esteve sob domínio político e econômico de Portugal."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "A economia colonial se organizou segundo interesses da metrópole, dentro da lógica mercantilista. Açúcar e mineração foram os principais ciclos econômicos."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra ciclos econômicos, escravidão, administração colonial, exploração metropolitana e características da sociedade colonial."
+    }
+  ],
+  "pontos_chave": [
+    "O Brasil colonial foi organizado para atender interesses de Portugal.",
+    "A economia açucareira usou latifúndio e mão de obra escrava.",
+    "A mineração fortaleceu o interior e o controle da Coroa.",
+    "A sociedade colonial era desigual e hierarquizada.",
+    "Houve resistência de indígenas, escravizados e colonos."
+  ],
+  "dicas_prova": [
+    "Associe açúcar ao Nordeste e mineração ao século XVIII.",
+    "Lembre que o trabalho escravo foi central na economia colonial.",
+    "Entenda o mercantilismo como lógica da colonização.",
+    "Pegadinhas clássicas da VUNESP: tratar a colônia como economia autônoma."
+  ],
+  "exemplos": [
+    "O engenho era a unidade central da produção açucareira.",
+    "O quinto era um imposto cobrado sobre o ouro.",
+    "Os quilombos representaram resistência ao sistema escravista."
+  ],
+  "erros_comuns": [
+    "Achar que a colônia existia para benefício interno da população local.",
+    "Esquecer a relação entre escravidão e produção econômica.",
+    "Confundir pau-brasil, açúcar e mineração como se fossem simultâneos com a mesma força."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Qual era a lógica da colonização portuguesa?",
+      "resposta": "Exploração econômica e controle do território."
+    },
+    {
+      "pergunta": "Qual o principal modelo econômico do açúcar?",
+      "resposta": "Latifúndio, monocultura e escravidão."
+    },
+    {
+      "pergunta": "O que foi o quinto?",
+      "resposta": "Imposto cobrado pela Coroa sobre o ouro."
+    },
+    {
+      "pergunta": "O que eram quilombos?",
+      "resposta": "Comunidades formadas, em grande parte, por escravizados fugidos."
+    },
+    {
+      "pergunta": "Qual região se destacou na mineração?",
+      "resposta": "Minas Gerais."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra o período colonial?",
+      "resposta": "Por meio da estrutura econômica e social da colônia."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A economia açucareira no Brasil colonial baseava-se principalmente em:",
+      "alternativas": [
+        "minifúndio e trabalho livre",
+        "latifúndio, monocultura e escravidão",
+        "comércio industrial urbano",
+        "pequena propriedade familiar"
+      ],
+      "correta": 1,
+      "explicacao": "Esse foi o tripé básico da produção açucareira colonial."
+    },
+    {
+      "enunciado": "O principal interesse de Portugal na colônia era:",
+      "alternativas": [
+        "implantar democracia local",
+        "exploração econômica",
+        "industrializar o território",
+        "garantir igualdade social"
+      ],
+      "correta": 1,
+      "explicacao": "O objetivo central era explorar economicamente o território dentro da lógica mercantilista."
+    },
+    {
+      "enunciado": "O quinto estava relacionado à:",
+      "alternativas": [
+        "produção de açúcar",
+        "mineração",
+        "pecuária",
+        "extração de borracha"
+      ],
+      "correta": 1,
+      "explicacao": "Era imposto sobre a produção aurífera."
+    },
+    {
+      "enunciado": "A unidade produtiva central da economia açucareira era:",
+      "alternativas": [
+        "a fábrica",
+        "o engenho",
+        "a mina",
+        "o quilombo"
+      ],
+      "correta": 1,
+      "explicacao": "O engenho reunia estrutura agrícola e industrial de produção do açúcar."
+    },
+    {
+      "enunciado": "Um traço da sociedade colonial brasileira foi:",
+      "alternativas": [
+        "igualdade social ampla",
+        "hierarquia social intensa",
+        "predomínio do trabalho assalariado",
+        "ausência de conflitos"
+      ],
+      "correta": 1,
+      "explicacao": "A sociedade colonial era extremamente desigual e hierarquizada."
+    },
+    {
+      "enunciado": "A mineração no século XVIII contribuiu para:",
+      "alternativas": [
+        "esvaziar o interior",
+        "aumentar o controle metropolitano",
+        "enfraquecer a Coroa",
+        "abolir a escravidão"
+      ],
+      "correta": 1,
+      "explicacao": "A riqueza mineral levou a Coroa a ampliar fiscalização e cobrança de impostos."
+    },
+    {
+      "enunciado": "Os quilombos podem ser entendidos como:",
+      "alternativas": [
+        "apoio ao sistema colonial",
+        "forma de resistência",
+        "centros administrativos da Coroa",
+        "zonas de mineração oficial"
+      ],
+      "correta": 1,
+      "explicacao": "Foram espaços importantes de resistência ao sistema escravista."
+    },
+    {
+      "enunciado": "O pau-brasil teve destaque principalmente:",
+      "alternativas": [
+        "no início da colonização",
+        "no auge da mineração",
+        "na República",
+        "na industrialização paulista"
+      ],
+      "correta": 0,
+      "explicacao": "Foi a primeira atividade econômica relevante do período colonial."
+    },
+    {
+      "enunciado": "O mercantilismo se relaciona ao período colonial porque:",
+      "alternativas": [
+        "proibia o comércio externo",
+        "orientava a exploração da colônia em favor da metrópole",
+        "defendia autonomia total da colônia",
+        "acabou com os impostos"
+      ],
+      "correta": 1,
+      "explicacao": "A colônia integrava o sistema mercantilista, produzindo riqueza para a metrópole."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar o período colonial com foco em:",
+      "alternativas": [
+        "apenas datas",
+        "estrutura econômica e social",
+        "somente literatura",
+        "somente geografia física"
+      ],
+      "correta": 1,
+      "explicacao": "A banca valoriza a compreensão do funcionamento da colônia."
+    }
+  ]
+}

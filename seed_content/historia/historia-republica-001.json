@@ -1,0 +1,182 @@
+{
+  "id": "historia-republica-001",
+  "name": "República",
+  "topico": "República",
+  "resumo": "A República no Brasil começou em 1889 e passou por diferentes fases, como República Velha, Era Vargas, período democrático, ditadura militar e Nova República. A VUNESP cobra características políticas, disputas de poder, participação social e transformações institucionais.",
+  "teoria": "A República foi proclamada em 1889, encerrando o período monárquico e inaugurando um novo regime político. No entanto, a mudança não significou democratização imediata. A chamada República Velha foi controlada por oligarquias regionais, especialmente de São Paulo e Minas Gerais, com forte presença do coronelismo e do voto de cabresto.\n\nEm 1930, a Revolução de 1930 colocou Getúlio Vargas no poder, rompendo com a lógica oligárquica anterior. A Era Vargas teve diferentes fases e foi marcada pela centralização política, pelo nacionalismo econômico e pela ampliação da legislação trabalhista.\n\nDepois de 1945, o Brasil viveu um período democrático com intensa disputa política, até o golpe de 1964, que levou à ditadura militar. Com o fim do regime, o país entrou na Nova República, marcada pela redemocratização e pela Constituição de 1988.\n\nA História da República brasileira revela tensões entre autoritarismo e democracia, centralização e participação popular, modernização econômica e desigualdade social. A VUNESP costuma cobrar essas transições e as características principais de cada fase republicana.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "República é a forma de governo adotada pelo Brasil desde 1889, com diferentes fases e mudanças institucionais."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É importante dividir o estudo em fases: República Velha, Era Vargas, período democrático, ditadura militar e Nova República."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra características de cada fase da República, participação política, autoritarismo, redemocratização e papel do Estado."
+    }
+  ],
+  "pontos_chave": [
+    "A República começou em 1889.",
+    "A República Velha foi dominada por oligarquias.",
+    "A Era Vargas centralizou o poder e fortaleceu o Estado.",
+    "A ditadura militar interrompeu a democracia.",
+    "A Nova República consolidou a redemocratização."
+  ],
+  "dicas_prova": [
+    "Associe cada fase republicana a suas características centrais.",
+    "Observe a relação entre poder político e participação popular.",
+    "Compare momentos democráticos e autoritários.",
+    "Pegadinhas clássicas da VUNESP: confundir República com democracia plena desde o início."
+  ],
+  "exemplos": [
+    "Na República Velha, o voto era controlado por elites regionais.",
+    "Na Era Vargas, o Estado ganhou mais força.",
+    "Na Nova República, a Constituição de 1988 ampliou direitos."
+  ],
+  "erros_comuns": [
+    "Achar que a Proclamação da República trouxe imediatamente participação popular ampla.",
+    "Confundir Era Vargas com um período único sem fases distintas.",
+    "Misturar redemocratização com o regime militar."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quando começou a República no Brasil?",
+      "resposta": "Em 1889."
+    },
+    {
+      "pergunta": "O que marcou a República Velha?",
+      "resposta": "O domínio das oligarquias e o coronelismo."
+    },
+    {
+      "pergunta": "Quem liderou a fase iniciada em 1930?",
+      "resposta": "Getúlio Vargas."
+    },
+    {
+      "pergunta": "Qual documento marcou a Nova República?",
+      "resposta": "A Constituição de 1988."
+    },
+    {
+      "pergunta": "Qual foi um período autoritário da República?",
+      "resposta": "A ditadura militar."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra a República?",
+      "resposta": "Por fases, características e mudanças políticas."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A República foi proclamada no Brasil em:",
+      "alternativas": [
+        "1822",
+        "1888",
+        "1889",
+        "1930"
+      ],
+      "correta": 2,
+      "explicacao": "A Proclamação da República ocorreu em 1889."
+    },
+    {
+      "enunciado": "A República Velha foi marcada por:",
+      "alternativas": [
+        "democracia popular ampla",
+        "domínio oligárquico",
+        "fim das elites regionais",
+        "industrialização total do país"
+      ],
+      "correta": 1,
+      "explicacao": "As oligarquias controlavam o sistema político nesse período."
+    },
+    {
+      "enunciado": "A Era Vargas teve como característica importante:",
+      "alternativas": [
+        "enfraquecimento do Estado",
+        "centralização política",
+        "fim de toda legislação trabalhista",
+        "redução do papel do governo"
+      ],
+      "correta": 1,
+      "explicacao": "O governo Vargas fortaleceu o Estado e centralizou decisões."
+    },
+    {
+      "enunciado": "A Nova República está associada à:",
+      "alternativas": [
+        "Proclamação da República",
+        "redemocratização",
+        "República Velha",
+        "mineração colonial"
+      ],
+      "correta": 1,
+      "explicacao": "A Nova República corresponde ao período após o fim da ditadura militar."
+    },
+    {
+      "enunciado": "Um instrumento marcante da Nova República foi:",
+      "alternativas": [
+        "Constituição de 1988",
+        "AI-5",
+        "Poder Moderador",
+        "Capitanias hereditárias"
+      ],
+      "correta": 0,
+      "explicacao": "A Constituição de 1988 é marco central da redemocratização."
+    },
+    {
+      "enunciado": "O coronelismo foi uma prática política ligada principalmente à:",
+      "alternativas": [
+        "Colônia",
+        "República Velha",
+        "Nova República",
+        "Ditadura militar"
+      ],
+      "correta": 1,
+      "explicacao": "O coronelismo era típico do domínio oligárquico da República Velha."
+    },
+    {
+      "enunciado": "A ditadura militar pertence a qual fase da história republicana?",
+      "alternativas": [
+        "autoritarismo republicano",
+        "período colonial",
+        "Império",
+        "regência"
+      ],
+      "correta": 0,
+      "explicacao": "Foi uma fase autoritária da República brasileira."
+    },
+    {
+      "enunciado": "Uma tensão constante na história republicana do Brasil foi entre:",
+      "alternativas": [
+        "democracia e autoritarismo",
+        "monarquia e feudalismo",
+        "escravidão e mineração apenas",
+        "capitanias e regências"
+      ],
+      "correta": 0,
+      "explicacao": "A história republicana alternou períodos mais abertos e mais autoritários."
+    },
+    {
+      "enunciado": "A Revolução de 1930 teve como efeito principal:",
+      "alternativas": [
+        "restauração da monarquia",
+        "fim da República",
+        "mudança no controle político do país",
+        "abolição da escravidão"
+      ],
+      "correta": 2,
+      "explicacao": "Ela rompeu com a lógica oligárquica anterior e levou Vargas ao poder."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar a República com foco em:",
+      "alternativas": [
+        "apenas nomes de presidentes",
+        "fases, características e transformações políticas",
+        "mitologia nacional",
+        "somente economia colonial"
+      ],
+      "correta": 1,
+      "explicacao": "A banca prefere abordagem estrutural e comparativa entre fases."
+    }
+  ]
+}

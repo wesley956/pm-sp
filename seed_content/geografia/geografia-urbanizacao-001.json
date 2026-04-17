@@ -1,0 +1,182 @@
+{
+  "id": "geografia-urbanizacao-001",
+  "name": "Urbanização",
+  "topico": "Urbanização",
+  "resumo": "Urbanização é o processo de crescimento das cidades e aumento da população urbana. No Brasil, esse processo foi intenso no século XX e trouxe desafios como desigualdade socioespacial, mobilidade urbana, favelização e pressão sobre infraestrutura e serviços públicos. A VUNESP cobra causas, consequências e características desse processo.",
+  "teoria": "Urbanização é o aumento da população urbana e da importância das cidades na organização do território. No Brasil, a urbanização acelerou-se especialmente com a industrialização e o êxodo rural ao longo do século XX.\n\nMuitas pessoas deixaram o campo em direção às cidades em busca de trabalho, renda, serviços e melhores oportunidades. Isso fortaleceu metrópoles e grandes centros urbanos, mas também gerou crescimento desordenado em diversas áreas.\n\nEntre os principais problemas urbanos estão desigualdade socioespacial, ocupação irregular, falta de moradia adequada, trânsito, poluição, enchentes, violência e carência de saneamento. A urbanização brasileira ocorreu de forma rápida e desigual, o que explica parte desses desafios.\n\nA VUNESP costuma cobrar conceitos como metrópole, conurbação, região metropolitana, periferia, segregação urbana e problemas ligados à infraestrutura urbana. Também pode relacionar urbanização a industrialização e migração.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Urbanização é o processo de crescimento das cidades e aumento da população urbana."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "No Brasil, a urbanização se relaciona à industrialização, ao êxodo rural e à concentração de atividades econômicas nas cidades."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra definição, causas da urbanização, problemas urbanos e organização do espaço nas metrópoles."
+    }
+  ],
+  "pontos_chave": [
+    "Urbanização brasileira foi acelerada no século XX.",
+    "Industrialização e êxodo rural impulsionaram o processo.",
+    "O crescimento urbano foi muitas vezes desordenado.",
+    "Problemas urbanos incluem moradia precária, trânsito e saneamento insuficiente.",
+    "As metrópoles concentram população e serviços."
+  ],
+  "dicas_prova": [
+    "Associe urbanização à industrialização e migração.",
+    "Lembre que crescer em população não significa crescer com qualidade.",
+    "Revise termos como metrópole, periferia e conurbação.",
+    "Pegadinhas clássicas da VUNESP: confundir urbanização com desenvolvimento urbano equilibrado."
+  ],
+  "exemplos": [
+    "Êxodo rural aumentou a população das cidades.",
+    "A expansão periférica expressa desigualdade urbana.",
+    "Metrópoles concentram empregos e serviços, mas também problemas estruturais."
+  ],
+  "erros_comuns": [
+    "Achar que urbanização significa melhoria automática da vida urbana.",
+    "Separar urbanização de industrialização e migração.",
+    "Ignorar a desigualdade socioespacial."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é urbanização?",
+      "resposta": "É o crescimento das cidades e da população urbana."
+    },
+    {
+      "pergunta": "O que impulsionou a urbanização no Brasil?",
+      "resposta": "Industrialização e êxodo rural."
+    },
+    {
+      "pergunta": "O que é metrópole?",
+      "resposta": "Grande cidade com forte influência econômica e populacional."
+    },
+    {
+      "pergunta": "O que é conurbação?",
+      "resposta": "União física entre áreas urbanas de cidades vizinhas."
+    },
+    {
+      "pergunta": "A urbanização brasileira foi igualitária?",
+      "resposta": "Não, foi rápida e desigual."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra urbanização?",
+      "resposta": "Por causas, consequências e conceitos urbanos."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Urbanização é o processo de:",
+      "alternativas": [
+        "redução das cidades",
+        "crescimento das cidades e da população urbana",
+        "extinção do espaço rural",
+        "formação exclusiva de florestas"
+      ],
+      "correta": 1,
+      "explicacao": "Essa é a definição do processo de urbanização."
+    },
+    {
+      "enunciado": "Um fator importante para a urbanização brasileira foi:",
+      "alternativas": [
+        "êxodo rural",
+        "isolamento das cidades",
+        "redução da indústria",
+        "fim dos serviços urbanos"
+      ],
+      "correta": 0,
+      "explicacao": "A saída de população do campo para as cidades impulsionou a urbanização."
+    },
+    {
+      "enunciado": "A urbanização brasileira foi marcada por:",
+      "alternativas": [
+        "crescimento sempre planejado",
+        "crescimento rápido e desigual",
+        "ausência de periferias",
+        "eliminação dos problemas sociais"
+      ],
+      "correta": 1,
+      "explicacao": "O processo ocorreu de forma acelerada e muitas vezes desordenada."
+    },
+    {
+      "enunciado": "Um problema urbano comum é:",
+      "alternativas": [
+        "desaparecimento da infraestrutura",
+        "trânsito e falta de saneamento",
+        "fim da desigualdade",
+        "redução da população"
+      ],
+      "correta": 1,
+      "explicacao": "Esses são problemas típicos das grandes cidades brasileiras."
+    },
+    {
+      "enunciado": "O termo metrópole refere-se a:",
+      "alternativas": [
+        "pequeno povoado",
+        "grande centro urbano de influência",
+        "área rural isolada",
+        "bioma brasileiro"
+      ],
+      "correta": 1,
+      "explicacao": "Metrópole é um grande centro urbano com forte poder de atração."
+    },
+    {
+      "enunciado": "Conurbação significa:",
+      "alternativas": [
+        "separação total entre cidades",
+        "junção física de áreas urbanas vizinhas",
+        "expansão de florestas",
+        "redução populacional"
+      ],
+      "correta": 1,
+      "explicacao": "É a continuidade urbana entre municípios próximos."
+    },
+    {
+      "enunciado": "A VUNESP costuma relacionar urbanização com:",
+      "alternativas": [
+        "industrialização e migração",
+        "somente relevo",
+        "somente literatura",
+        "somente navegação fluvial"
+      ],
+      "correta": 0,
+      "explicacao": "A urbanização brasileira está ligada a mudanças econômicas e populacionais."
+    },
+    {
+      "enunciado": "A desigualdade socioespacial urbana significa:",
+      "alternativas": [
+        "distribuição uniforme de serviços",
+        "diferenças no acesso a moradia e infraestrutura",
+        "fim das periferias",
+        "igualdade plena nas cidades"
+      ],
+      "correta": 1,
+      "explicacao": "O espaço urbano é marcado por forte desigualdade de acesso a bens e serviços."
+    },
+    {
+      "enunciado": "Um erro comum sobre urbanização é pensar que ela:",
+      "alternativas": [
+        "traz desafios",
+        "tem relação com migração",
+        "significa desenvolvimento urbano equilibrado automaticamente",
+        "gera mudanças territoriais"
+      ],
+      "correta": 2,
+      "explicacao": "Urbanização não significa, por si só, melhoria equilibrada da cidade."
+    },
+    {
+      "enunciado": "O principal foco da VUNESP nesse tema é:",
+      "alternativas": [
+        "causas, conceitos e consequências",
+        "somente nomes de cidades",
+        "somente fórmulas geométricas",
+        "somente capitais estaduais"
+      ],
+      "correta": 0,
+      "explicacao": "A banca prefere abordagem conceitual e aplicada."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "matematica-fracoes-e-decimais-001",
+  "name": "Frações e decimais",
+  "topico": "Frações e decimais",
+  "resumo": "Frações representam partes de um todo ou divisões entre números. Decimais representam essas quantidades em forma de vírgula. A VUNESP cobra conversão entre fração e decimal, comparação, operações e interpretação em situações do dia a dia.",
+  "teoria": "Fração é uma forma de representar partes de um inteiro. Em 3/4, o número 3 é o numerador e indica quantas partes foram consideradas; o número 4 é o denominador e indica em quantas partes iguais o todo foi dividido.\n\nFrações equivalentes são aquelas que representam a mesma quantidade, mesmo com números diferentes, como 1/2, 2/4 e 4/8. Simplificar uma fração é dividi-la pelo mesmo número no numerador e no denominador até obter a forma mais simples.\n\nPara somar ou subtrair frações com mesmo denominador, somam-se ou subtraem-se os numeradores e conserva-se o denominador. Com denominadores diferentes, é preciso reduzir a um denominador comum. Na multiplicação, multiplicam-se numeradores entre si e denominadores entre si. Na divisão, multiplica-se a primeira fração pelo inverso da segunda.\n\nNúmeros decimais representam partes da unidade em base 10. Exemplo: 0,5 representa metade; 0,25 representa vinte e cinco centésimos. Para transformar fração em decimal, basta dividir o numerador pelo denominador. Para transformar decimal em fração, escreve-se o número sobre uma potência de 10 e simplifica-se.\n\nA comparação entre frações e decimais exige atenção. Exemplo: 0,75 = 75/100 = 3/4. Em prova, a banca também pode misturar porcentagem com decimais e frações. Saber equivalências simples economiza tempo: 1/2 = 0,5 = 50%; 1/4 = 0,25 = 25%; 3/4 = 0,75 = 75%.\n\nNa VUNESP, o tema aparece em contas, problemas de consumo, dinheiro, medidas e porcentagens. A chave é dominar equivalências e operações com segurança.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Frações e decimais são formas diferentes de representar partes de um inteiro ou quocientes."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Frações equivalentes têm o mesmo valor. Soma e subtração de frações exigem denominador comum. Decimal pode ser convertido em fração e vice-versa."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra comparação, operações, conversões e aplicação prática em dinheiro, medidas e porcentagens."
+    }
+  ],
+  "pontos_chave": [
+    "Frações representam partes de um todo.",
+    "Decimais representam partes em base 10.",
+    "Frações equivalentes têm o mesmo valor.",
+    "Soma de frações com denominadores diferentes exige denominador comum.",
+    "Fração, decimal e porcentagem se relacionam diretamente."
+  ],
+  "dicas_prova": [
+    "Memorize equivalências simples como 1/2, 1/4 e 3/4.",
+    "Simplifique frações sempre que possível.",
+    "Em decimal, alinhe a vírgula nas contas.",
+    "Pegadinhas clássicas da VUNESP: confundir numerador com denominador e errar conversão."
+  ],
+  "exemplos": [
+    "1/2 = 0,5.",
+    "3/4 = 0,75.",
+    "0,2 = 1/5."
+  ],
+  "erros_comuns": [
+    "Somar numerador com denominador na mesma conta.",
+    "Esquecer de tirar denominador comum.",
+    "Desalinhar a vírgula ao somar decimais."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é denominador?",
+      "resposta": "É o número que indica em quantas partes o todo foi dividido."
+    },
+    {
+      "pergunta": "Como somar frações com denominadores diferentes?",
+      "resposta": "Usando denominador comum."
+    },
+    {
+      "pergunta": "Quanto vale 1/2 em decimal?",
+      "resposta": "0,5."
+    },
+    {
+      "pergunta": "Quanto vale 0,25 em fração simplificada?",
+      "resposta": "1/4."
+    },
+    {
+      "pergunta": "Como dividir frações?",
+      "resposta": "Multiplicando a primeira pelo inverso da segunda."
+    },
+    {
+      "pergunta": "O que ajuda muito em prova?",
+      "resposta": "Saber equivalências rápidas entre fração, decimal e porcentagem."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A fração equivalente a 0,5 é:",
+      "alternativas": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "3/4"
+      ],
+      "correta": 1,
+      "explicacao": "0,5 representa metade, isto é, 1/2."
+    },
+    {
+      "enunciado": "O resultado de 1/4 + 1/4 é:",
+      "alternativas": [
+        "1/2",
+        "1/4",
+        "2/8",
+        "3/4"
+      ],
+      "correta": 0,
+      "explicacao": "Mesmo denominador: 1 + 1 = 2, então 2/4 = 1/2."
+    },
+    {
+      "enunciado": "A forma decimal de 3/10 é:",
+      "alternativas": [
+        "0,03",
+        "0,3",
+        "3,0",
+        "0,13"
+      ],
+      "correta": 1,
+      "explicacao": "3 décimos correspondem a 0,3."
+    },
+    {
+      "enunciado": "O resultado de 2/3 x 3/4 é:",
+      "alternativas": [
+        "1/2",
+        "5/7",
+        "6/7",
+        "3/2"
+      ],
+      "correta": 0,
+      "explicacao": "Multiplica-se numerador por numerador e denominador por denominador: 6/12 = 1/2."
+    },
+    {
+      "enunciado": "A fração 4/8 simplificada é:",
+      "alternativas": [
+        "1/4",
+        "1/2",
+        "2/3",
+        "3/4"
+      ],
+      "correta": 1,
+      "explicacao": "Dividindo numerador e denominador por 4, obtém-se 1/2."
+    },
+    {
+      "enunciado": "O número decimal 0,75 corresponde a:",
+      "alternativas": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "4/5"
+      ],
+      "correta": 2,
+      "explicacao": "0,75 = 75/100 = 3/4."
+    },
+    {
+      "enunciado": "O resultado de 1,2 + 0,35 é:",
+      "alternativas": [
+        "1,45",
+        "1,55",
+        "1,65",
+        "2,55"
+      ],
+      "correta": 1,
+      "explicacao": "Alinhando a vírgula: 1,20 + 0,35 = 1,55."
+    },
+    {
+      "enunciado": "Dividir 1/2 por 1/4 é o mesmo que:",
+      "alternativas": [
+        "1/8",
+        "1/4",
+        "2",
+        "4"
+      ],
+      "correta": 2,
+      "explicacao": "1/2 ÷ 1/4 = 1/2 x 4/1 = 4/2 = 2."
+    },
+    {
+      "enunciado": "Qual é maior?",
+      "alternativas": [
+        "0,4",
+        "2/5",
+        "São iguais",
+        "Não é possível comparar"
+      ],
+      "correta": 2,
+      "explicacao": "2/5 = 0,4. Portanto, são iguais."
+    },
+    {
+      "enunciado": "Se uma pizza foi dividida em 8 partes e alguém comeu 3, a fração correspondente é:",
+      "alternativas": [
+        "3/8",
+        "5/8",
+        "8/3",
+        "1/3"
+      ],
+      "correta": 0,
+      "explicacao": "Foram consumidas 3 das 8 partes: 3/8."
+    }
+  ]
+}

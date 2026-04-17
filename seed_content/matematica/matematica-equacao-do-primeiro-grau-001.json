@@ -1,0 +1,182 @@
+{
+  "id": "matematica-equacao-do-primeiro-grau-001",
+  "name": "Equação do 1º grau",
+  "topico": "Equação do 1º grau",
+  "resumo": "Equação do 1º grau é uma igualdade que envolve incógnita elevada à primeira potência. O objetivo é descobrir o valor da incógnita que torna a igualdade verdadeira. A VUNESP cobra resolução algébrica e aplicação em problemas.",
+  "teoria": "Uma equação do 1º grau tem a forma geral ax + b = 0, com a diferente de zero. Resolver a equação significa encontrar o valor de x que faz a igualdade ser verdadeira.\n\nO princípio básico é manter o equilíbrio da igualdade. Tudo o que é feito em um lado deve ser feito no outro. Para isolar a incógnita, transportam-se termos, somam-se ou subtraem-se valores, e dividem-se ambos os lados pelo coeficiente da incógnita.\n\nExemplo: 2x + 6 = 14. Subtraindo 6 dos dois lados, fica 2x = 8. Dividindo por 2, obtém-se x = 4.\n\nEm problemas, a equação surge a partir da tradução da situação para linguagem matemática. Exemplo: 'Um número somado com 7 resulta em 19' vira x + 7 = 19.\n\nTambém aparecem equações com parênteses e frações. Nesses casos, distribui-se corretamente e elimina-se o denominador quando necessário.\n\nA VUNESP cobra tanto a técnica de resolução quanto a interpretação correta do enunciado. Muitas vezes o maior desafio é montar a equação certa.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Equação do 1º grau é uma igualdade com incógnita de expoente 1."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Isola-se a incógnita mantendo o equilíbrio da igualdade. Termos semelhantes devem ser reduzidos, e operações feitas de um lado devem ser feitas do outro."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra equações diretas, problemas com idade, preço, quantidade, dobro, triplo e contextos do dia a dia."
+    }
+  ],
+  "pontos_chave": [
+    "Equação é igualdade com incógnita.",
+    "Resolver é achar o valor da incógnita.",
+    "O equilíbrio da igualdade deve ser mantido.",
+    "Problemas exigem montar a equação antes de resolver.",
+    "Parênteses e frações pedem atenção extra."
+  ],
+  "dicas_prova": [
+    "Organize primeiro os termos com x e os números.",
+    "Faça uma operação de cada vez.",
+    "Confira a resposta substituindo o valor encontrado.",
+    "Pegadinhas clássicas da VUNESP: erro de sinal ao transpor termo."
+  ],
+  "exemplos": [
+    "x + 5 = 12, então x = 7.",
+    "3x = 21, então x = 7.",
+    "2x + 4 = 10, então x = 3."
+  ],
+  "erros_comuns": [
+    "Trocar o sinal indevidamente ao mover termos.",
+    "Esquecer de dividir pelo coeficiente da incógnita.",
+    "Montar a equação errada a partir do problema."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é equação do 1º grau?",
+      "resposta": "É uma igualdade com incógnita de expoente 1."
+    },
+    {
+      "pergunta": "O que significa resolver a equação?",
+      "resposta": "Encontrar o valor da incógnita."
+    },
+    {
+      "pergunta": "Como conferir a resposta?",
+      "resposta": "Substituindo a incógnita no enunciado original."
+    },
+    {
+      "pergunta": "Qual o maior cuidado?",
+      "resposta": "Sinais ao transpor termos."
+    },
+    {
+      "pergunta": "Problemas exigem o quê?",
+      "resposta": "Montar a equação correta."
+    },
+    {
+      "pergunta": "O que fazer com parênteses?",
+      "resposta": "Aplicar a distributiva."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A solução de x + 7 = 15 é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 2,
+      "explicacao": "x = 15 - 7 = 8."
+    },
+    {
+      "enunciado": "A solução de 3x = 27 é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 3,
+      "explicacao": "x = 27 ÷ 3 = 9."
+    },
+    {
+      "enunciado": "A solução de 2x + 4 = 18 é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 1,
+      "explicacao": "2x = 14, então x = 7."
+    },
+    {
+      "enunciado": "A solução de 5x - 10 = 20 é:",
+      "alternativas": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correta": 2,
+      "explicacao": "5x = 30, logo x = 6."
+    },
+    {
+      "enunciado": "Um número somado com 9 resulta em 21. Esse número é:",
+      "alternativas": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correta": 2,
+      "explicacao": "x + 9 = 21, então x = 12."
+    },
+    {
+      "enunciado": "O dobro de um número menos 3 é 11. Esse número é:",
+      "alternativas": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correta": 2,
+      "explicacao": "2x - 3 = 11, então 2x = 14 e x = 7."
+    },
+    {
+      "enunciado": "A solução de 4(x - 1) = 12 é:",
+      "alternativas": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correta": 2,
+      "explicacao": "x - 1 = 3, então x = 4."
+    },
+    {
+      "enunciado": "A solução de x/3 = 5 é:",
+      "alternativas": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correta": 3,
+      "explicacao": "x = 15."
+    },
+    {
+      "enunciado": "Em uma equação, o objetivo é:",
+      "alternativas": [
+        "somar todos os termos",
+        "descobrir o valor da incógnita",
+        "eliminar o sinal de igual",
+        "multiplicar números"
+      ],
+      "correta": 1,
+      "explicacao": "Resolver a equação é encontrar a incógnita."
+    },
+    {
+      "enunciado": "A melhor forma de confirmar a solução é:",
+      "alternativas": [
+        "adivinhar outro número",
+        "substituir no problema original",
+        "mudar os sinais",
+        "arredondar"
+      ],
+      "correta": 1,
+      "explicacao": "A substituição verifica se a igualdade é verdadeira."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "geografia-regioes-brasileiras-001",
+  "name": "Regiões brasileiras",
+  "topico": "Regiões brasileiras",
+  "resumo": "O Brasil é dividido em cinco regiões: Norte, Nordeste, Centro-Oeste, Sudeste e Sul. Cada uma possui características próprias de clima, vegetação, economia, população e organização do espaço. A VUNESP cobra diferenças regionais, desigualdades e atividades predominantes.",
+  "teoria": "A divisão regional do Brasil ajuda a compreender as diferenças internas do país. As cinco grandes regiões apresentam perfis distintos do ponto de vista físico, econômico e social.\n\nA Região Norte destaca-se pela presença da Amazônia, baixa densidade populacional em muitas áreas e importância da floresta e da rede hidrográfica. O Nordeste apresenta forte diversidade interna, com litoral, zona da mata, agreste e sertão, além de marcantes desigualdades históricas. O Centro-Oeste tem destaque para agropecuária, Cerrado, Pantanal e papel de Brasília.\n\nO Sudeste é a região mais populosa e economicamente mais dinâmica, com forte industrialização, urbanização e concentração de serviços. O Sul apresenta agricultura diversificada, bom desenvolvimento urbano e clima subtropical em grande parte do território.\n\nA VUNESP cobra muito a associação entre cada região e suas características físicas e econômicas, além da compreensão das desigualdades regionais brasileiras.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "As regiões brasileiras são divisões territoriais que facilitam o estudo das diferenças internas do país."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Cada região possui combinação própria de clima, vegetação, economia, população e problemas sociais."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra identificação de características regionais, diferenças econômicas e sociais e associação entre espaço e atividade produtiva."
+    }
+  ],
+  "pontos_chave": [
+    "Norte: Amazônia e grande rede hidrográfica.",
+    "Nordeste: diversidade interna e desigualdades históricas.",
+    "Centro-Oeste: agropecuária e Cerrado.",
+    "Sudeste: maior concentração econômica e urbana.",
+    "Sul: agricultura diversificada e clima subtropical."
+  ],
+  "dicas_prova": [
+    "Associe cada região a um conjunto de características principais.",
+    "Não veja as regiões como blocos totalmente homogêneos.",
+    "Revise economia, clima e população de cada uma.",
+    "Pegadinhas clássicas da VUNESP: trocar biomas e atividades típicas entre regiões."
+  ],
+  "exemplos": [
+    "Amazônia é fortemente associada à Região Norte.",
+    "Industrialização concentra-se bastante no Sudeste.",
+    "O Pantanal se relaciona ao Centro-Oeste."
+  ],
+  "erros_comuns": [
+    "Confundir bioma com região política.",
+    "Tratar o Nordeste como espaço totalmente uniforme.",
+    "Ignorar a importância econômica do Centro-Oeste."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quantas regiões oficiais o Brasil tem?",
+      "resposta": "Cinco."
+    },
+    {
+      "pergunta": "Qual região é mais industrializada?",
+      "resposta": "Sudeste."
+    },
+    {
+      "pergunta": "Onde está a maior floresta equatorial do país?",
+      "resposta": "Na Região Norte."
+    },
+    {
+      "pergunta": "Qual região se destaca pelo Pantanal?",
+      "resposta": "Centro-Oeste."
+    },
+    {
+      "pergunta": "Qual região tem forte presença do clima subtropical?",
+      "resposta": "Sul."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra as regiões?",
+      "resposta": "Por comparação de características físicas, humanas e econômicas."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "O Brasil é dividido oficialmente em:",
+      "alternativas": [
+        "3 regiões",
+        "4 regiões",
+        "5 regiões",
+        "6 regiões"
+      ],
+      "correta": 2,
+      "explicacao": "A divisão oficial do IBGE estabelece cinco regiões."
+    },
+    {
+      "enunciado": "A região mais associada à Floresta Amazônica é a:",
+      "alternativas": [
+        "Sul",
+        "Nordeste",
+        "Norte",
+        "Sudeste"
+      ],
+      "correta": 2,
+      "explicacao": "A Amazônia é a principal marca natural da Região Norte."
+    },
+    {
+      "enunciado": "A região brasileira de maior concentração econômica e industrial é a:",
+      "alternativas": [
+        "Norte",
+        "Nordeste",
+        "Sudeste",
+        "Centro-Oeste"
+      ],
+      "correta": 2,
+      "explicacao": "O Sudeste concentra grande parte da indústria e dos serviços do país."
+    },
+    {
+      "enunciado": "O Pantanal está fortemente ligado à região:",
+      "alternativas": [
+        "Sul",
+        "Centro-Oeste",
+        "Nordeste",
+        "Sudeste"
+      ],
+      "correta": 1,
+      "explicacao": "O Pantanal tem destaque em estados do Centro-Oeste."
+    },
+    {
+      "enunciado": "Uma característica importante do Nordeste é:",
+      "alternativas": [
+        "homogeneidade total",
+        "ausência de diversidade interna",
+        "diversidade física e histórica",
+        "predomínio absoluto da floresta equatorial"
+      ],
+      "correta": 2,
+      "explicacao": "O Nordeste possui grande diversidade e desigualdades historicamente marcadas."
+    },
+    {
+      "enunciado": "O Sul do Brasil se destaca por:",
+      "alternativas": [
+        "clima subtropical em grande parte do território",
+        "predomínio do clima equatorial",
+        "ausência de agricultura",
+        "baixa urbanização total"
+      ],
+      "correta": 0,
+      "explicacao": "O clima subtropical é uma marca importante da Região Sul."
+    },
+    {
+      "enunciado": "A agropecuária moderna tem grande peso na região:",
+      "alternativas": [
+        "Centro-Oeste",
+        "Norte apenas",
+        "Nordeste apenas",
+        "Sul apenas"
+      ],
+      "correta": 0,
+      "explicacao": "O Centro-Oeste se destaca fortemente pelo agronegócio."
+    },
+    {
+      "enunciado": "Um erro comum ao estudar regiões brasileiras é:",
+      "alternativas": [
+        "comparar características",
+        "relacionar economia e espaço",
+        "generalizar demais cada região",
+        "estudar população"
+      ],
+      "correta": 2,
+      "explicacao": "Cada região tem grande diversidade interna, e generalizações excessivas prejudicam a análise."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar regiões brasileiras por meio de:",
+      "alternativas": [
+        "associação entre região e característica",
+        "somente datas",
+        "somente cálculos",
+        "somente literatura"
+      ],
+      "correta": 0,
+      "explicacao": "A banca trabalha muito com relação entre espaço regional e características dominantes."
+    },
+    {
+      "enunciado": "Brasília se localiza na região:",
+      "alternativas": [
+        "Norte",
+        "Nordeste",
+        "Centro-Oeste",
+        "Sul"
+      ],
+      "correta": 2,
+      "explicacao": "O Distrito Federal integra a Região Centro-Oeste."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "matematica-raciocinio-logico-001",
+  "name": "Raciocínio lógico",
+  "topico": "Raciocínio lógico",
+  "resumo": "Raciocínio lógico envolve análise de proposições, sequências, padrões, negação, equivalência, conectivos e resolução de situações por dedução. A VUNESP costuma cobrar lógica prática, estrutura de argumentos, tabelas verdade simples e problemas de sequência e organização.",
+  "teoria": "Raciocínio lógico é a capacidade de organizar informações, identificar padrões e tirar conclusões corretas. Em concursos, esse tema pode aparecer em lógica proposicional, sequências numéricas, problemas de ordenação e interpretação dedutiva.\n\nProposição é uma frase declarativa que pode ser julgada como verdadeira ou falsa. Perguntas, ordens e exclamações não são proposições. Exemplo de proposição: '2 é par'. Exemplo de não proposição: 'Feche a porta!'\n\nOs conectivos mais importantes são: negação (não), conjunção (e), disjunção (ou), condicional (se... então) e bicondicional (se e somente se). Na conjunção, para a frase ser verdadeira, ambas as partes devem ser verdadeiras. Na disjunção simples, basta uma parte verdadeira para a frase ser verdadeira. Na condicional, a única situação falsa é quando a primeira parte é verdadeira e a segunda é falsa.\n\nA negação também é muito cobrada. A negação de 'todos' vira 'pelo menos um não'. A negação de 'algum' vira 'nenhum'. Exemplo: negação de 'Todos estudaram' é 'Pelo menos um não estudou'.\n\nEm sequências, o candidato deve encontrar a regra de formação. Pode ser adição, subtração, multiplicação, alternância ou padrão misto. Em problemas lógicos, tabelas e esquemas ajudam a organizar as informações.\n\nA VUNESP costuma valorizar lógica aplicada, menos formalismo exagerado. Por isso, interpretar bem o enunciado, reconhecer o conectivo e organizar dados são habilidades centrais.\n\nEm resumo, raciocínio lógico depende de clareza, método e atenção às palavras-chave.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Raciocínio lógico é o processo de analisar informações para chegar a conclusões válidas."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Proposição é frase declarativa com valor lógico. Conectivos alteram a verdade das proposições. Negação exige cuidado com quantificadores como 'todos' e 'algum'."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra conectivos, negação, sequências, dedução e problemas lógicos de organização."
+    }
+  ],
+  "pontos_chave": [
+    "Proposição tem valor verdadeiro ou falso.",
+    "Pergunta e ordem não são proposições.",
+    "Na conjunção, as duas partes precisam ser verdadeiras.",
+    "Na disjunção simples, basta uma verdadeira.",
+    "Negação de 'todos' é 'pelo menos um não'."
+  ],
+  "dicas_prova": [
+    "Sublinhe palavras como não, todos, algum, ou, e, se.",
+    "Faça tabelas ou esquemas em problemas de organização.",
+    "Em sequência, observe primeiro diferenças ou razões.",
+    "Pegadinhas clássicas da VUNESP: negação de quantificadores e interpretação errada do 'ou'."
+  ],
+  "exemplos": [
+    "'2 é número par' é proposição verdadeira.",
+    "Negação de 'algum aluno faltou' é 'nenhum aluno faltou'.",
+    "Na sequência 2, 4, 8, 16, o padrão é multiplicar por 2."
+  ],
+  "erros_comuns": [
+    "Achar que toda frase é proposição.",
+    "Negar 'todos' como 'todos não'.",
+    "Resolver sequência por palpite sem buscar regra."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é proposição?",
+      "resposta": "É uma frase declarativa que pode ser verdadeira ou falsa."
+    },
+    {
+      "pergunta": "Pergunta é proposição?",
+      "resposta": "Não."
+    },
+    {
+      "pergunta": "Quando uma conjunção é verdadeira?",
+      "resposta": "Quando as duas partes são verdadeiras."
+    },
+    {
+      "pergunta": "Qual a negação de 'todos estudaram'?",
+      "resposta": "Pelo menos um não estudou."
+    },
+    {
+      "pergunta": "Qual a negação de 'algum faltou'?",
+      "resposta": "Ninguém faltou."
+    },
+    {
+      "pergunta": "O que ajuda muito em lógica?",
+      "resposta": "Organização por esquemas e atenção às palavras-chave."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a frase que é uma proposição.",
+      "alternativas": [
+        "Feche a janela.",
+        "Que horas são?",
+        "O número 4 é par.",
+        "Tomara que chova."
+      ],
+      "correta": 2,
+      "explicacao": "É uma frase declarativa com valor lógico definido."
+    },
+    {
+      "enunciado": "A negação de 'Todos os candidatos estudaram' é:",
+      "alternativas": [
+        "Nenhum candidato estudou",
+        "Pelo menos um candidato não estudou",
+        "Todos os candidatos não estudaram",
+        "Alguns candidatos estudaram"
+      ],
+      "correta": 1,
+      "explicacao": "Negação de 'todos' é 'pelo menos um não'."
+    },
+    {
+      "enunciado": "Na proposição 'A e B', ela será verdadeira quando:",
+      "alternativas": [
+        "apenas A for verdadeira",
+        "apenas B for verdadeira",
+        "A e B forem verdadeiras",
+        "A ou B forem falsas"
+      ],
+      "correta": 2,
+      "explicacao": "Conjunção só é verdadeira com ambas verdadeiras."
+    },
+    {
+      "enunciado": "Na proposição 'A ou B', ela será falsa quando:",
+      "alternativas": [
+        "A for verdadeira",
+        "B for verdadeira",
+        "A e B forem verdadeiras",
+        "A e B forem falsas"
+      ],
+      "correta": 3,
+      "explicacao": "Na disjunção simples, só é falsa quando ambas são falsas."
+    },
+    {
+      "enunciado": "A sequência 3, 6, 9, 12, ... segue a regra de:",
+      "alternativas": [
+        "somar 2",
+        "somar 3",
+        "multiplicar por 2",
+        "dobrar e somar 1"
+      ],
+      "correta": 1,
+      "explicacao": "Os termos aumentam de 3 em 3."
+    },
+    {
+      "enunciado": "A negação de 'Algum aluno faltou' é:",
+      "alternativas": [
+        "Todo aluno faltou",
+        "Pelo menos um aluno não faltou",
+        "Nenhum aluno faltou",
+        "Alguns faltaram"
+      ],
+      "correta": 2,
+      "explicacao": "Negação de 'algum' é 'nenhum'."
+    },
+    {
+      "enunciado": "Em 'Se chove, então levo guarda-chuva', a condicional será falsa quando:",
+      "alternativas": [
+        "chover e levar guarda-chuva",
+        "não chover e não levar",
+        "chover e não levar guarda-chuva",
+        "não chover e levar guarda-chuva"
+      ],
+      "correta": 2,
+      "explicacao": "Na condicional, a única situação falsa é antecedente verdadeiro e consequente falso."
+    },
+    {
+      "enunciado": "Qual estratégia ajuda mais em problemas de organização lógica?",
+      "alternativas": [
+        "decorar respostas",
+        "fazer tabela ou esquema",
+        "chutar rapidamente",
+        "ignorar detalhes"
+      ],
+      "correta": 1,
+      "explicacao": "Esquemas ajudam a visualizar relações e eliminar possibilidades."
+    },
+    {
+      "enunciado": "A sequência 2, 4, 8, 16, ... tem como próximo termo:",
+      "alternativas": [
+        "18",
+        "20",
+        "24",
+        "32"
+      ],
+      "correta": 3,
+      "explicacao": "Cada termo é o dobro do anterior."
+    },
+    {
+      "enunciado": "O maior cuidado em raciocínio lógico é:",
+      "alternativas": [
+        "focar só no cálculo",
+        "desconsiderar as palavras-chave",
+        "interpretar corretamente o enunciado",
+        "evitar tabelas"
+      ],
+      "correta": 2,
+      "explicacao": "A lógica depende muito da leitura e da estrutura da informação."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "matematica-operacoes-basicas-001",
+  "name": "Operações básicas",
+  "topico": "Operações básicas",
+  "resumo": "Operações básicas envolvem adição, subtração, multiplicação e divisão. Em concursos, o candidato precisa dominar cálculo direto, ordem das operações e interpretação de situações-problema. A VUNESP costuma cobrar contas simples dentro de contextos maiores, exigindo atenção ao enunciado e ao sinal de cada operação.",
+  "teoria": "As operações básicas são a base de toda a Matemática. Adição é a operação de juntar quantidades. Subtração é a operação de retirar, comparar ou descobrir a diferença entre valores. Multiplicação representa somas repetidas ou agrupamentos iguais. Divisão representa repartição, medida ou quantidade de grupos.\n\nA adição combina parcelas para formar uma soma. Exemplo: 12 + 8 = 20. A subtração determina a diferença entre dois números: 20 - 8 = 12. Em muitos problemas, a banca não diz diretamente qual operação usar. É o contexto que revela isso.\n\nA multiplicação aparece quando há grupos iguais: 4 caixas com 6 canetas cada equivalem a 4 x 6 = 24. A divisão aparece quando um total é repartido ou quando se descobre quantas vezes uma quantidade cabe em outra: 24 ÷ 6 = 4.\n\nOutro ponto essencial é a ordem das operações. Primeiro resolvem-se parênteses, depois potências e raízes, depois multiplicações e divisões na ordem em que aparecem e, por fim, adições e subtrações na ordem em que aparecem. Exemplo: 2 + 3 x 4 = 14, e não 20, porque a multiplicação vem antes.\n\nTambém é importante conhecer propriedades. Na adição e na multiplicação, vale a propriedade comutativa: 3 + 5 = 5 + 3; 2 x 4 = 4 x 2. Na subtração e na divisão, essa troca geralmente altera o resultado. A propriedade distributiva também é muito útil: 3 x (4 + 2) = 3 x 4 + 3 x 2.\n\nEm prova, a VUNESP costuma embutir contas simples em problemas contextualizados. Por isso, errar operação básica pode comprometer toda a questão. É preciso dominar cálculo, sinais, prioridade das operações e leitura do problema.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Operações básicas são os procedimentos fundamentais de cálculo: adição, subtração, multiplicação e divisão."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Na ordem das operações, resolvem-se primeiro parênteses, depois multiplicações/divisões e, por fim, adições/subtrações. Multiplicação pode representar soma repetida; divisão pode representar repartição ou medida."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma cobrar operações básicas dentro de problemas cotidianos, exigindo cálculo correto, atenção aos sinais e interpretação adequada do enunciado."
+    }
+  ],
+  "pontos_chave": [
+    "Adição junta quantidades.",
+    "Subtração encontra diferença ou retira quantidades.",
+    "Multiplicação representa grupos iguais.",
+    "Divisão representa repartição ou medida.",
+    "A ordem das operações muda o resultado."
+  ],
+  "dicas_prova": [
+    "Leia o problema antes de escolher a operação.",
+    "Não ignore a ordem das operações.",
+    "Revise sinais e contas simples antes de marcar.",
+    "Pegadinhas clássicas da VUNESP: interpretação errada do enunciado e quebra da ordem operacional."
+  ],
+  "exemplos": [
+    "15 + 7 = 22.",
+    "36 ÷ 6 = 6.",
+    "2 + 3 x 5 = 17."
+  ],
+  "erros_comuns": [
+    "Somar antes de multiplicar em expressões sem parênteses.",
+    "Trocar divisão por subtração em problemas de comparação.",
+    "Errar sinais em contas simples por pressa."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que a adição faz?",
+      "resposta": "Junta quantidades."
+    },
+    {
+      "pergunta": "O que a subtração faz?",
+      "resposta": "Retira ou compara quantidades."
+    },
+    {
+      "pergunta": "Quando usar multiplicação?",
+      "resposta": "Quando há grupos iguais ou soma repetida."
+    },
+    {
+      "pergunta": "Quando usar divisão?",
+      "resposta": "Quando há repartição ou medida."
+    },
+    {
+      "pergunta": "O que vem primeiro: soma ou multiplicação?",
+      "resposta": "Multiplicação."
+    },
+    {
+      "pergunta": "Qual o maior risco em operações básicas?",
+      "resposta": "Errar a interpretação e a ordem das operações."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "O resultado de 18 + 27 é:",
+      "alternativas": [
+        "35",
+        "45",
+        "46",
+        "55"
+      ],
+      "correta": 1,
+      "explicacao": "18 + 27 = 45."
+    },
+    {
+      "enunciado": "O resultado de 50 - 18 é:",
+      "alternativas": [
+        "22",
+        "28",
+        "32",
+        "38"
+      ],
+      "correta": 2,
+      "explicacao": "50 - 18 = 32."
+    },
+    {
+      "enunciado": "Uma caixa tem 8 lápis. Em 5 caixas, há:",
+      "alternativas": [
+        "13",
+        "30",
+        "40",
+        "45"
+      ],
+      "correta": 2,
+      "explicacao": "São 5 grupos de 8: 5 x 8 = 40."
+    },
+    {
+      "enunciado": "O valor de 72 ÷ 9 é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 2,
+      "explicacao": "72 dividido por 9 resulta em 8."
+    },
+    {
+      "enunciado": "Em 2 + 4 x 3, o resultado correto é:",
+      "alternativas": [
+        "18",
+        "14",
+        "12",
+        "10"
+      ],
+      "correta": 1,
+      "explicacao": "Primeiro a multiplicação: 4 x 3 = 12. Depois 2 + 12 = 14."
+    },
+    {
+      "enunciado": "Se uma pessoa tinha R$ 90 e gastou R$ 37, restaram:",
+      "alternativas": [
+        "43",
+        "47",
+        "53",
+        "57"
+      ],
+      "correta": 2,
+      "explicacao": "90 - 37 = 53."
+    },
+    {
+      "enunciado": "A operação que melhor representa repartir 48 balas entre 6 crianças é:",
+      "alternativas": [
+        "adição",
+        "subtração",
+        "multiplicação",
+        "divisão"
+      ],
+      "correta": 3,
+      "explicacao": "Repartição indica divisão."
+    },
+    {
+      "enunciado": "O valor de (12 + 8) ÷ 4 é:",
+      "alternativas": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correta": 1,
+      "explicacao": "Primeiro 12 + 8 = 20. Depois 20 ÷ 4 = 5."
+    },
+    {
+      "enunciado": "O dobro de 19 é:",
+      "alternativas": [
+        "28",
+        "36",
+        "38",
+        "39"
+      ],
+      "correta": 2,
+      "explicacao": "Dobro é multiplicar por 2: 19 x 2 = 38."
+    },
+    {
+      "enunciado": "Se 3 pacotes custam R$ 7 cada, o valor total é:",
+      "alternativas": [
+        "R$ 10",
+        "R$ 14",
+        "R$ 21",
+        "R$ 24"
+      ],
+      "correta": 2,
+      "explicacao": "3 x 7 = 21."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "historia-ditadura-militar-001",
+  "name": "Ditadura militar",
+  "topico": "Ditadura militar",
+  "resumo": "A ditadura militar brasileira durou de 1964 a 1985 e foi marcada por autoritarismo, censura, repressão política, suspensão de direitos e centralização do poder. A VUNESP cobra contexto de instalação do regime, instrumentos de repressão, resistência e redemocratização.",
+  "teoria": "A ditadura militar no Brasil começou com o golpe de 1964, que derrubou o presidente João Goulart. O regime justificava-se com discurso de combate ao comunismo e de defesa da ordem, mas implantou forte autoritarismo.\n\nDurante a ditadura, houve restrição das liberdades políticas, perseguição a opositores, censura à imprensa, repressão a movimentos sociais, cassação de mandatos e controle institucional. O AI-5, decretado em 1968, foi um dos instrumentos mais duros do regime, ampliando o poder do Executivo e intensificando a repressão.\n\nAo mesmo tempo, o período registrou crescimento econômico em certos momentos, como no chamado milagre econômico, mas também aumento da desigualdade e concentração de renda. O desenvolvimento material coexistiu com violência política e limitação dos direitos civis.\n\nHouve resistência ao regime por parte de estudantes, artistas, intelectuais, trabalhadores e grupos de oposição. Nas décadas finais, a crise econômica e a pressão social fortaleceram o processo de abertura política, que culminou no fim da ditadura e na redemocratização.\n\nA VUNESP costuma cobrar não apenas datas, mas as características do regime, os mecanismos de repressão, a resistência e o caminho até a democracia.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Ditadura militar foi um regime autoritário implantado no Brasil entre 1964 e 1985."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Esse regime restringiu direitos, ampliou a repressão e centralizou o poder. O AI-5 é um marco importante da radicalização autoritária."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra golpe de 1964, AI-5, censura, repressão, resistência e redemocratização."
+    }
+  ],
+  "pontos_chave": [
+    "A ditadura começou em 1964.",
+    "O regime restringiu direitos políticos e civis.",
+    "O AI-5 aprofundou o autoritarismo.",
+    "Houve censura e repressão a opositores.",
+    "A abertura política levou à redemocratização."
+  ],
+  "dicas_prova": [
+    "Associe ditadura a autoritarismo, censura e repressão.",
+    "Memorize o AI-5 como marco de endurecimento do regime.",
+    "Lembre que crescimento econômico não eliminou a repressão.",
+    "Pegadinhas clássicas da VUNESP: reduzir o período apenas à economia e ignorar a violência política."
+  ],
+  "exemplos": [
+    "O AI-5 ampliou poderes do governo e restringiu liberdades.",
+    "A censura atingiu imprensa, música e artes.",
+    "A redemocratização foi resultado de pressão social e crise do regime."
+  ],
+  "erros_comuns": [
+    "Achar que o período foi apenas de desenvolvimento econômico.",
+    "Esquecer o papel da censura e da repressão.",
+    "Confundir abertura política com democracia imediata."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quando começou a ditadura militar brasileira?",
+      "resposta": "Em 1964."
+    },
+    {
+      "pergunta": "O que foi o AI-5?",
+      "resposta": "Um ato institucional que endureceu fortemente o regime."
+    },
+    {
+      "pergunta": "Qual era uma marca do período?",
+      "resposta": "Censura e repressão política."
+    },
+    {
+      "pergunta": "Houve resistência ao regime?",
+      "resposta": "Sim, por diversos setores da sociedade."
+    },
+    {
+      "pergunta": "Quando terminou a ditadura?",
+      "resposta": "Em 1985, com o processo de redemocratização."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra o tema?",
+      "resposta": "Relacionando autoritarismo, repressão e abertura política."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A ditadura militar brasileira teve início em:",
+      "alternativas": [
+        "1930",
+        "1945",
+        "1964",
+        "1988"
+      ],
+      "correta": 2,
+      "explicacao": "O regime militar começou com o golpe de 1964."
+    },
+    {
+      "enunciado": "Um dos principais traços da ditadura militar foi:",
+      "alternativas": [
+        "plena liberdade de imprensa",
+        "censura e repressão política",
+        "voto direto para todos os cargos desde o início",
+        "fim do poder central"
+      ],
+      "correta": 1,
+      "explicacao": "Censura e repressão foram características marcantes do período."
+    },
+    {
+      "enunciado": "O AI-5 é lembrado por:",
+      "alternativas": [
+        "ampliar direitos democráticos",
+        "fortalecer o autoritarismo",
+        "abolir a censura",
+        "restaurar a monarquia"
+      ],
+      "correta": 1,
+      "explicacao": "Ele intensificou a repressão e concentrou ainda mais o poder no Executivo."
+    },
+    {
+      "enunciado": "O chamado milagre econômico ocorreu:",
+      "alternativas": [
+        "sem repressão política",
+        "junto com o regime autoritário",
+        "durante o Império",
+        "na República Velha"
+      ],
+      "correta": 1,
+      "explicacao": "O crescimento econômico em parte do período conviveu com forte repressão política."
+    },
+    {
+      "enunciado": "A ditadura militar terminou com:",
+      "alternativas": [
+        "a independência",
+        "a redemocratização",
+        "a mineração",
+        "a Proclamação da República"
+      ],
+      "correta": 1,
+      "explicacao": "O fim do regime ocorreu no processo de abertura e redemocratização."
+    },
+    {
+      "enunciado": "A censura durante a ditadura atingiu:",
+      "alternativas": [
+        "apenas a economia",
+        "somente o Judiciário",
+        "imprensa e manifestações culturais",
+        "somente zonas rurais"
+      ],
+      "correta": 2,
+      "explicacao": "A censura foi ampla, atingindo comunicação e produção cultural."
+    },
+    {
+      "enunciado": "Uma característica política da ditadura foi:",
+      "alternativas": [
+        "participação democrática plena",
+        "restrição de direitos",
+        "ausência de controle estatal",
+        "fim da centralização"
+      ],
+      "correta": 1,
+      "explicacao": "O regime restringiu direitos civis e políticos."
+    },
+    {
+      "enunciado": "A resistência à ditadura veio de:",
+      "alternativas": [
+        "nenhum setor da sociedade",
+        "somente militares",
+        "diversos grupos sociais",
+        "apenas empresários"
+      ],
+      "correta": 2,
+      "explicacao": "Estudantes, artistas, trabalhadores e opositores políticos participaram da resistência."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar o período militar com foco em:",
+      "alternativas": [
+        "apenas datas",
+        "autoritarismo, repressão e redemocratização",
+        "somente geografia",
+        "somente literatura"
+      ],
+      "correta": 1,
+      "explicacao": "A banca valoriza a compreensão do funcionamento político do regime."
+    },
+    {
+      "enunciado": "A abertura política do final do regime foi impulsionada por:",
+      "alternativas": [
+        "crescimento eterno do regime",
+        "pressão social e crise",
+        "retorno ao colonialismo",
+        "fim da economia nacional"
+      ],
+      "correta": 1,
+      "explicacao": "Crise econômica e mobilização social favoreceram o processo de abertura."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "portugues-crase-001",
+  "name": "Crase",
+  "topico": "Crase",
+  "resumo": "Crase é a fusão da preposição \"a\" com o artigo feminino \"a(s)\" ou com os pronomes demonstrativos \"aquele(s)\", \"aquela(s)\" e \"aquilo\". Para acertar questões, pense em dois pontos: o termo anterior exige a preposição \"a\" e o termo seguinte admite artigo feminino? Se os dois ocorrerem, há crase. A VUNESP cobra muito identificação de casos obrigatórios, proibidos e facultativos, além de substituição de palavras femininas por masculinas para testar a ocorrência do acento grave.",
+  "teoria": "Crase não é apenas um acento; ela indica a fusão de duas vogais idênticas. Em termos práticos, ocorre quando um termo anterior pede a preposição \"a\" e o termo posterior aceita artigo feminino \"a\" ou \"as\". Exemplo: \"Vou à escola\". O verbo \"ir\" pede a preposição \"a\" (quem vai, vai a algum lugar) e \"escola\" admite artigo feminino (\"a escola\"). Assim, surge \"a + a = à\".\n\nPara entender bem, é preciso separar duas ideias. A primeira é a regência: alguns verbos e nomes exigem preposição. A segunda é o uso do artigo: alguns substantivos femininos aceitam artigo, outros não. A crase depende dessas duas condições ao mesmo tempo. Se houver só preposição, sem artigo, não há crase. Se houver só artigo, sem preposição, também não há crase.\n\nObserve: \"Obedeço à regra\". O verbo \"obedecer\" exige preposição \"a\". \"Regra\" é substantivo feminino com artigo. Portanto, há crase. Já em \"Assisti a aula\", a frase está errada se o sentido for \"ver a aula\", porque o verbo \"assistir\", no sentido de ver, exige preposição. O correto é \"Assisti à aula\".\n\nA crase também aparece antes de locuções adverbiais, prepositivas e conjuntivas femininas: \"à tarde\", \"às pressas\", \"à medida que\", \"à procura de\". Nesses casos, a tradição gramatical consagrou o uso do acento grave.\n\nTambém ocorre antes de pronomes demonstrativos iniciados por \"a\": \"Refiro-me àquela aluna\", \"Entreguei o documento àquele setor\", \"Cheguei àquilo que desejava\". Aqui há fusão da preposição \"a\" com o início desses pronomes.\n\nUm ponto muito cobrado em prova é saber onde a crase não pode ocorrer. Nunca há crase antes de palavras masculinas: \"andar a cavalo\", \"pagar a prazo\", \"viajar a trabalho\". Também não ocorre, em regra, antes de verbos: \"começou a estudar\", \"aprendeu a cozinhar\". Antes de pronomes pessoais, de tratamento, indefinidos e demonstrativos em geral, normalmente não há crase: \"entreguei a ela\", \"disse a Vossa Excelência\", \"referi-me a esta aluna\".\n\nAntes de nomes de cidade, é necessário testar o uso do artigo. Dizemos \"vou a Brasília\" e \"volto de Brasília\"; como não aparece artigo, não há crase: \"Cheguei a Brasília\". Mas dizemos \"vou à Bahia\" e \"volto da Bahia\"; como há artigo, há crase: \"Cheguei à Bahia\". Essa lógica é muito explorada pela VUNESP.\n\nAntes de nomes próprios femininos, a crase pode variar conforme o uso do artigo. Se o nome vier naturalmente com artigo no contexto, a crase pode ocorrer: \"Entreguei o presente à Ana\" pode ser aceitável em contexto em que se use artigo, mas em muitos casos a banca prefere considerar facultativo, dependendo da construção e do padrão adotado. Em provas, é mais seguro observar o contexto e a gramática normativa do enunciado.\n\nCom pronomes possessivos femininos no singular, a crase costuma ser facultativa: \"Entreguei o caderno a sua irmã\" ou \"à sua irmã\". Isso acontece porque o possessivo pode vir com ou sem artigo. No plural, a lógica pode se manter, dependendo da estrutura e do padrão do texto.\n\nOutro caso importante é o da palavra \"casa\" e da palavra \"terra\". Sem especificação, normalmente não recebem artigo: \"Voltei a casa\", \"os marinheiros chegaram a terra\". Mas, quando determinadas, admitem artigo e pode haver crase: \"Voltei à casa dos meus pais\", \"os marinheiros retornaram à terra natal\".\n\nPara descobrir se há crase, um teste muito útil é trocar a palavra feminina por uma masculina equivalente. Se surgir \"ao\", haverá crase no feminino. Exemplo: \"Vou à escola\" → \"Vou ao colégio\". Como apareceu \"ao\", no feminino haverá \"à\". Outro teste é perguntar se o termo anterior exige preposição \"a\". Se não exigir, não use crase.\n\nA VUNESP gosta de explorar frases em que o candidato confunde sentido, regência e artigo. Por isso, não basta decorar regras soltas. É preciso enxergar a estrutura: verbo ou nome exigindo preposição + palavra feminina com artigo. Quando essa engrenagem aparece, a chance de crase é alta. Quando um dos elementos falta, o acento grave não deve ser usado.\n\nEm resumo: crase é fenômeno de fusão. Pense sempre na conta: preposição \"a\" + artigo \"a(s)\" = à/às. Em alguns casos especiais, preposição \"a\" + \"aquele(s)\", \"aquela(s)\", \"aquilo\" = àquele, àquela, àquilo. Saber identificar obrigação, proibição e facultatividade é o caminho para acertar a maioria das questões da VUNESP.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Crase é a fusão de duas vogais idênticas: a preposição \"a\" com o artigo feminino \"a\" ou \"as\". Também pode ocorrer com os pronomes demonstrativos \"aquele(s)\", \"aquela(s)\" e \"aquilo\". O sinal gráfico que marca essa fusão é o acento grave (`à`). Para haver crase, o termo anterior deve exigir preposição \"a\" e o termo seguinte deve aceitar artigo feminino. Exemplo: \"Refiro-me à professora\". Quem se refere, refere-se a alguém; além disso, \"professora\" admite artigo feminino."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Há crase: antes de substantivos femininos que admitem artigo e dependem de termo regente com preposição \"a\" (\"obedecer à regra\"); em locuções femininas (\"à tarde\", \"às vezes\", \"à medida que\"); antes de \"aquele(s)\", \"aquela(s)\" e \"aquilo\" (\"refiro-me àquele aluno\"); em nomes de lugar que admitem artigo (\"vou à Bahia\"). Não há crase: antes de palavras masculinas (\"a prazo\"); antes de verbos (\"a estudar\"); antes de pronomes pessoais (\"a ela\"); em geral, antes de pronomes de tratamento (\"a Vossa Senhoria\"); antes de nomes de cidade sem artigo (\"a Brasília\"); com \"casa\" e \"terra\" quando usadas de modo genérico (\"voltei a casa\", \"chegaram a terra\"). A crase pode ser facultativa antes de pronomes possessivos femininos (\"a sua amiga\" ou \"à sua amiga\") e, em muitos contextos, antes de nomes próprios femininos, dependendo do uso do artigo."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma cobrar crase em frases contextualizadas, pedindo a alternativa correta quanto ao uso do acento grave. A banca adora misturar casos obrigatórios, proibidos e facultativos. É comum apresentar pares como \"à escola\" x \"a pé\", \"à tarde\" x \"a partir\", \"àquela\" x \"a esta\". Também gosta de testar nomes de lugares, expressões com \"casa\" e \"terra\", além do truque de substituir palavras femininas por masculinas para verificar se aparece \"ao\". Outra característica da banca é usar questões em que o erro está em apenas um termo, exigindo leitura cuidadosa da regência e do contexto."
+    }
+  ],
+  "pontos_chave": [
+    "Crase depende de duas condições: preposição \"a\" + artigo feminino \"a(s)\".",
+    "Antes de palavra masculina e de verbo, normalmente não há crase.",
+    "Locuções femininas como \"à tarde\", \"às vezes\" e \"à medida que\" geralmente levam crase.",
+    "Antes de \"aquele(s)\", \"aquela(s)\" e \"aquilo\", pode haver crase se o termo anterior exigir preposição.",
+    "O teste da troca por palavra masculina é um dos meios mais seguros para identificar a crase."
+  ],
+  "dicas_prova": [
+    "Pergunte primeiro se o verbo ou nome exige a preposição \"a\". Sem preposição, não existe crase.",
+    "Troque a palavra feminina por uma masculina equivalente; se aparecer \"ao\", no feminino haverá crase.",
+    "Desconfie de locuções femininas e de expressões já consagradas pela norma, como \"às vezes\" e \"à medida que\".",
+    "Pegadinhas clássicas da VUNESP: antes de verbo, palavra masculina, cidades sem artigo, pronomes e usos genéricos de \"casa\" e \"terra\"."
+  ],
+  "exemplos": [
+    "Vou à escola todos os dias. (Quem vai, vai a algum lugar; \"escola\" admite artigo.)",
+    "Chegamos a Brasília pela manhã. (Cidade sem artigo nesse uso; por isso, sem crase.)",
+    "Refiro-me àquela candidata mais experiente. (Preposição \"a\" + pronome demonstrativo \"aquela\".)"
+  ],
+  "erros_comuns": [
+    "Usar crase antes de verbo: \"começou à estudar\" está errado; o correto é \"começou a estudar\".",
+    "Usar crase antes de palavra masculina: \"vende-se carro à prazo\" está errado; o correto é \"a prazo\".",
+    "Esquecer a regência do verbo e tirar a crase onde ela é obrigatória: \"assistiu a aula\" no sentido de ver está inadequado; o correto é \"assistiu à aula\"."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é crase?",
+      "resposta": "É a fusão da preposição \"a\" com o artigo feminino \"a\" ou \"as\", marcada pelo acento grave."
+    },
+    {
+      "pergunta": "Qual é a condição básica para existir crase?",
+      "resposta": "O termo anterior deve exigir preposição \"a\" e o termo seguinte deve aceitar artigo feminino."
+    },
+    {
+      "pergunta": "Antes de verbo pode haver crase?",
+      "resposta": "Não. Antes de verbo, em regra, não se usa crase."
+    },
+    {
+      "pergunta": "Como usar o teste do masculino?",
+      "resposta": "Troque a palavra feminina por uma masculina equivalente; se surgir \"ao\", haverá crase no feminino."
+    },
+    {
+      "pergunta": "Quando ocorre crase com pronomes demonstrativos?",
+      "resposta": "Quando o termo anterior exige preposição \"a\" e o seguinte é \"aquele(s)\", \"aquela(s)\" ou \"aquilo\"."
+    },
+    {
+      "pergunta": "A crase pode ser facultativa em algum caso?",
+      "resposta": "Sim. Pode ser facultativa antes de pronome possessivo feminino e, em certos contextos, antes de nome próprio feminino."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a alternativa em que o uso da crase está correto.",
+      "alternativas": [
+        "A diretora começou à falar sobre o projeto.",
+        "Os funcionários saíram às pressas após o aviso.",
+        "Eles viajaram à cavalo pela fazenda.",
+        "O aluno ficou frente à frente com o professor."
+      ],
+      "correta": 1,
+      "explicacao": "A alternativa correta é \"Os funcionários saíram às pressas após o aviso\", pois \"às pressas\" é locução adverbial feminina e leva crase. Em \"começou à falar\", não há crase antes de verbo. Em \"à cavalo\", não há crase antes de palavra masculina. Em \"frente à frente\", a expressão consagrada é \"frente a frente\", sem crase."
+    },
+    {
+      "enunciado": "Em qual alternativa a crase foi empregada de acordo com a norma-padrão?",
+      "alternativas": [
+        "Chegaremos à Brasília no fim da tarde.",
+        "O gerente referiu-se àquela reclamação antiga.",
+        "A palestra será realizada à partir das nove horas.",
+        "Ela entregou o documento à ele."
+      ],
+      "correta": 1,
+      "explicacao": "A correta é \"O gerente referiu-se àquela reclamação antiga\". O verbo \"referir-se\" exige preposição \"a\", e o pronome \"aquela\" admite a fusão: \"a + aquela\". Em \"à Brasília\", a cidade normalmente não admite artigo nesse uso. Em \"à partir\", a locução correta é \"a partir\", sem crase. Em \"à ele\", não há crase antes de pronome pessoal."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que a ausência do sinal indicativo de crase está correta.",
+      "alternativas": [
+        "O policial obedeceu a ordem do superior.",
+        "A candidata voltou a casa depois da prova.",
+        "O estudante dirigiu-se a secretaria para pedir informação.",
+        "A professora fez referência a aluna ausente."
+      ],
+      "correta": 1,
+      "explicacao": "A correta é \"A candidata voltou a casa depois da prova\", porque \"casa\", usada de modo genérico, normalmente não admite artigo. Nas demais, o acento grave seria necessário: \"obedeceu à ordem\", \"dirigiu-se à secretaria\", \"fez referência à aluna\"."
+    },
+    {
+      "enunciado": "Observe as frases e assinale a alternativa correta quanto ao uso da crase.\nI. Assistimos à apresentação da banda.\nII. O médico estava disposto à ajudar o paciente.\nIII. Fizeram menção àquilo que foi decidido.\nIV. A encomenda chegou à tempo.",
+      "alternativas": [
+        "Apenas I e II estão corretas.",
+        "Apenas II e IV estão corretas.",
+        "Apenas I e III estão corretas.",
+        "Apenas I, III e IV estão corretas."
+      ],
+      "correta": 2,
+      "explicacao": "I está correta, porque \"assistir\", no sentido de ver, exige preposição \"a\", e \"apresentação\" admite artigo. II está errada, pois não há crase antes de verbo: o correto é \"disposto a ajudar\". III está correta: \"menção a\" + \"aquilo\" = \"àquilo\". IV está errada, porque a expressão correta é \"a tempo\", sem crase."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        "Os marinheiros retornaram à terra após meses no mar.",
+        "Os marinheiros retornaram a terra após meses no mar.",
+        "Os marinheiros retornaram à terra firme e segura, sem exceção.",
+        "As alternativas B e C estão corretas, em contextos diferentes."
+      ],
+      "correta": 3,
+      "explicacao": "Sem determinação, usa-se \"terra\" em sentido genérico: \"retornaram a terra\". Quando a palavra vem determinada, admite artigo: \"retornaram à terra firme\", \"à terra natal\". Por isso, as alternativas B e C estão corretas, cada uma em seu contexto."
+    },
+    {
+      "enunciado": "Em qual alternativa a substituição da palavra destacada por um termo masculino equivalente manteria a ideia de crase na frase original?",
+      "alternativas": [
+        "A servidora entregou o relatório à chefe do setor.",
+        "O garoto começou à leitura muito tarde.",
+        "O atleta ficou à espera do resultado.",
+        "A equipe chegou à pé ao alojamento."
+      ],
+      "correta": 0,
+      "explicacao": "Em \"à chefe\", se substituirmos por um termo masculino, teremos \"ao chefe\", o que confirma a crase. Em \"à leitura\", a construção está inadequada no contexto apresentado. Em \"à espera\" há locução feminina com crase, mas a pergunta fala em substituição por termo masculino equivalente no sintagma destacado, o que não se aplica com a mesma naturalidade. Em \"à pé\", a forma correta é \"a pé\", sem crase."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que todas as expressões estão corretamente grafadas.",
+      "alternativas": [
+        "à medida que, às vezes, à noite",
+        "a medida que, as vezes, à noite",
+        "à medida que, as vezes, a noite",
+        "a medida que, às vezes, a noite"
+      ],
+      "correta": 0,
+      "explicacao": "As locuções \"à medida que\", \"às vezes\" e \"à noite\" são expressões consagradas que levam crase. As demais alternativas trazem pelo menos uma grafia inadequada."
+    },
+    {
+      "enunciado": "Quanto ao uso da crase, assinale a alternativa correta.",
+      "alternativas": [
+        "Entreguei a prova à Vossa Senhoria.",
+        "Entreguei a prova a Vossa Senhoria.",
+        "Entreguei à prova a Vossa Senhoria.",
+        "Entreguei à prova à Vossa Senhoria."
+      ],
+      "correta": 1,
+      "explicacao": "Em regra, não se usa crase antes de pronomes de tratamento, como \"Vossa Senhoria\". Assim, o correto é \"Entreguei a prova a Vossa Senhoria\". Não há motivo para crase em \"a prova\", pois ali o verbo não exige a preposição \"a\" antes do objeto direto."
+    },
+    {
+      "enunciado": "Assinale a frase em que o uso da crase é facultativo de acordo com a norma-padrão.",
+      "alternativas": [
+        "Enviei o e-mail à sua coordenadora ontem.",
+        "Cheguei à Bahia na semana passada.",
+        "Fiquei à espera de notícias.",
+        "Começou à chover no final da tarde."
+      ],
+      "correta": 0,
+      "explicacao": "Com pronome possessivo feminino (\"sua coordenadora\"), a crase pode ser facultativa em muitos contextos: \"a sua coordenadora\" ou \"à sua coordenadora\". Em \"à Bahia\", a crase é obrigatória, pois o topônimo admite artigo. Em \"à espera\", a locução leva crase. Em \"à chover\", não há crase antes de verbo."
+    },
+    {
+      "enunciado": "Assinale a alternativa cuja frase está correta de acordo com a norma-padrão.",
+      "alternativas": [
+        "A testemunha fez alusão à fatos já conhecidos.",
+        "O candidato saiu às 18 horas e voltou às 20 horas.",
+        "O rapaz foi à pé até a estação.",
+        "A servidora dirigiu-se à esta repartição."
+      ],
+      "correta": 1,
+      "explicacao": "A correta é \"O candidato saiu às 18 horas e voltou às 20 horas\", pois há crase na indicação de horas. Em \"alusão à fatos\", não há crase antes de palavra no plural sem artigo expresso; o adequado seria \"alusão a fatos\" ou \"alusão aos fatos\", conforme o caso. Em \"à pé\", o correto é \"a pé\". Em \"à esta\", não se usa crase antes de pronomes demonstrativos como \"esta\"."
+    }
+  ]
+}

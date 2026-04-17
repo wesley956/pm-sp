@@ -1,0 +1,182 @@
+{
+  "id": "historia-historia-do-brasil-001",
+  "name": "História do Brasil",
+  "topico": "História do Brasil",
+  "resumo": "História do Brasil estuda a formação política, social, econômica e cultural do país desde a chegada dos portugueses até os tempos recentes. Em prova, a VUNESP costuma cobrar visão geral de processos históricos, mudanças de regime, construção do Estado brasileiro e permanências sociais, como desigualdade, concentração de renda e conflitos políticos.",
+  "teoria": "A História do Brasil pode ser entendida como um longo processo de formação territorial, econômica, política e social. Desde o período colonial, o território foi organizado segundo interesses da metrópole portuguesa, com exploração de riquezas, uso intenso de mão de obra escravizada e concentração do poder nas elites locais. Esse padrão deixou marcas profundas na sociedade brasileira.\n\nNo período colonial, o Brasil foi inicialmente explorado pelo pau-brasil e depois estruturado em torno da produção açucareira, baseada em latifúndio, monocultura e trabalho escravo. Mais tarde, a mineração alterou o eixo econômico e populacional, fortalecendo o interior e aumentando o controle da Coroa sobre a colônia.\n\nA independência, em 1822, não rompeu totalmente com as estruturas anteriores. O Brasil tornou-se um império, mantendo a escravidão por décadas e preservando o poder das elites agrárias. O Primeiro Reinado, o Período Regencial e o Segundo Reinado foram marcados por conflitos, centralização política e tentativas de estabilidade institucional.\n\nA Proclamação da República, em 1889, inaugurou um novo regime, mas também não eliminou os problemas estruturais. A chamada República Velha foi marcada pelo domínio das oligarquias, pelo coronelismo e pela exclusão política de grande parte da população. A industrialização e a urbanização cresceram no século XX, alterando a dinâmica social e econômica do país.\n\nA Era Vargas foi decisiva para a modernização do Estado brasileiro, com centralização do poder, criação de leis trabalhistas e fortalecimento da indústria. Depois, o país passou por experiências democráticas e autoritárias, incluindo a ditadura militar de 1964 a 1985. A redemocratização trouxe nova Constituição, ampliação de direitos e reorganização institucional.\n\nA História do Brasil também deve ser lida pelas permanências: desigualdade social, concentração fundiária, racismo estrutural, exclusão política e conflitos entre projetos de país. A VUNESP gosta de cobrar tanto fatos históricos quanto interpretação dos processos e de seus impactos no presente.\n\nEm resumo, estudar História do Brasil não é decorar datas isoladas, mas compreender como o país se formou, como o poder foi distribuído e por que certos problemas persistem.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "História do Brasil é o estudo da formação e transformação da sociedade brasileira ao longo do tempo, considerando política, economia, cultura e relações sociais."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É importante organizar o estudo por períodos: Colônia, Império, República e Brasil contemporâneo. Também é essencial relacionar fatos históricos com estruturas de poder e permanências sociais."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma cobrar processos históricos, comparação entre períodos, impacto de acontecimentos e noções de continuidade e mudança na formação do Brasil."
+    }
+  ],
+  "pontos_chave": [
+    "A colonização foi marcada por exploração econômica e trabalho escravo.",
+    "A independência não eliminou as estruturas sociais herdadas da Colônia.",
+    "A República começou com forte domínio das oligarquias.",
+    "O século XX foi marcado por industrialização, centralização e disputas políticas.",
+    "Desigualdade e concentração de poder são permanências históricas importantes."
+  ],
+  "dicas_prova": [
+    "Não estude só datas; entenda os processos históricos.",
+    "Compare mudanças de regime político e seus efeitos sociais.",
+    "Observe permanências históricas, como desigualdade e exclusão.",
+    "Pegadinhas clássicas da VUNESP: confundir ruptura política com mudança social completa."
+  ],
+  "exemplos": [
+    "A independência política não acabou com a escravidão.",
+    "A Proclamação da República não significou participação popular ampla.",
+    "A industrialização alterou a economia, mas não eliminou desigualdades."
+  ],
+  "erros_comuns": [
+    "Decorar fatos sem entender o contexto histórico.",
+    "Achar que toda mudança de governo transformou imediatamente a sociedade.",
+    "Ignorar a relação entre passado colonial e problemas atuais."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que marca a formação histórica do Brasil?",
+      "resposta": "Exploração colonial, escravidão, concentração de poder e mudanças políticas graduais."
+    },
+    {
+      "pergunta": "A independência mudou tudo imediatamente?",
+      "resposta": "Não. Muitas estruturas sociais e econômicas permaneceram."
+    },
+    {
+      "pergunta": "O que foi a República Velha?",
+      "resposta": "Período inicial da República marcado pelo domínio das oligarquias."
+    },
+    {
+      "pergunta": "Qual foi a importância da Era Vargas?",
+      "resposta": "Modernização do Estado, centralização política e legislação trabalhista."
+    },
+    {
+      "pergunta": "Que tema permanente aparece muito na História do Brasil?",
+      "resposta": "A desigualdade social."
+    },
+    {
+      "pergunta": "Como a VUNESP costuma cobrar o tema?",
+      "resposta": "Relacionando fatos a processos e consequências históricas."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Um dos traços mais marcantes da colonização brasileira foi:",
+      "alternativas": [
+        "industrialização precoce",
+        "latifúndio e escravidão",
+        "reforma agrária ampla",
+        "democracia popular"
+      ],
+      "correta": 1,
+      "explicacao": "A colonização portuguesa no Brasil foi fortemente marcada pela grande propriedade rural e pelo trabalho escravo."
+    },
+    {
+      "enunciado": "A independência do Brasil, em 1822:",
+      "alternativas": [
+        "acabou de imediato com a escravidão",
+        "rompeu totalmente com as elites agrárias",
+        "manteve várias estruturas anteriores",
+        "instalou a república"
+      ],
+      "correta": 2,
+      "explicacao": "Apesar da independência política, o Brasil preservou estruturas sociais e econômicas herdadas do período colonial."
+    },
+    {
+      "enunciado": "A República Velha foi marcada principalmente por:",
+      "alternativas": [
+        "participação popular ampla",
+        "governo direto militar permanente",
+        "domínio oligárquico",
+        "fim da desigualdade regional"
+      ],
+      "correta": 2,
+      "explicacao": "Esse período foi caracterizado pelo poder das oligarquias regionais e pelo coronelismo."
+    },
+    {
+      "enunciado": "A Era Vargas foi importante porque:",
+      "alternativas": [
+        "acabou com toda centralização",
+        "enfraqueceu o Estado",
+        "modernizou o aparelho estatal",
+        "eliminou os conflitos sociais"
+      ],
+      "correta": 2,
+      "explicacao": "O governo Vargas fortaleceu o Estado, incentivou a industrialização e criou legislação trabalhista."
+    },
+    {
+      "enunciado": "A redemocratização brasileira ocorreu após:",
+      "alternativas": [
+        "o fim do Império",
+        "a Era Vargas",
+        "a ditadura militar",
+        "o período colonial"
+      ],
+      "correta": 2,
+      "explicacao": "A redemocratização foi o processo político ocorrido após o fim do regime militar."
+    },
+    {
+      "enunciado": "Uma permanência histórica importante no Brasil é:",
+      "alternativas": [
+        "igualdade plena desde a Colônia",
+        "ausência de conflitos políticos",
+        "desigualdade social",
+        "fim da concentração fundiária"
+      ],
+      "correta": 2,
+      "explicacao": "A desigualdade social atravessa diferentes períodos da História do Brasil."
+    },
+    {
+      "enunciado": "A Proclamação da República ocorreu em:",
+      "alternativas": [
+        "1808",
+        "1822",
+        "1888",
+        "1889"
+      ],
+      "correta": 3,
+      "explicacao": "A República foi proclamada em 1889."
+    },
+    {
+      "enunciado": "A escravidão no Brasil foi abolida em:",
+      "alternativas": [
+        "1822",
+        "1888",
+        "1889",
+        "1930"
+      ],
+      "correta": 1,
+      "explicacao": "A Lei Áurea foi assinada em 1888."
+    },
+    {
+      "enunciado": "Na História do Brasil, estudar processos históricos significa:",
+      "alternativas": [
+        "decorar só nomes",
+        "analisar mudanças e permanências",
+        "ignorar contexto",
+        "estudar apenas guerras"
+      ],
+      "correta": 1,
+      "explicacao": "A compreensão histórica exige observar transformações e continuidades ao longo do tempo."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar História do Brasil com foco em:",
+      "alternativas": [
+        "datas isoladas apenas",
+        "processos e impactos históricos",
+        "mitologia",
+        "somente geografia física"
+      ],
+      "correta": 1,
+      "explicacao": "A banca valoriza a compreensão dos processos e suas consequências."
+    }
+  ]
+}

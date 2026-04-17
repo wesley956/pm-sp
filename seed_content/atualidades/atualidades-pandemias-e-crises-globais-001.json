@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-pandemias-e-crises-globais-001",
+  "name": "Pandemias / crises globais",
+  "topico": "Pandemias / crises globais",
+  "resumo": "Pandemias e crises globais envolvem saúde pública, economia, circulação internacional, cadeias de suprimento, cooperação entre países e capacidade de resposta dos Estados. A VUNESP cobra visão geral dos impactos sociais, econômicos e institucionais dessas crises.",
+  "teoria": "Pandemias e crises globais mostram como o mundo está interligado. Uma crise sanitária, econômica, energética ou alimentar pode ultrapassar fronteiras rapidamente e afetar sociedades de forma ampla.\n\nAs pandemias evidenciam a importância da saúde pública, da ciência, da vacinação, da cooperação internacional e da capacidade do Estado de responder com políticas eficientes. Também geram impactos na economia, na educação, no trabalho, na mobilidade e nas relações sociais.\n\nCrises globais podem envolver não apenas doenças, mas também choques econômicos, insegurança alimentar, disputas geopolíticas, crises energéticas e interrupções em cadeias produtivas. Em todos esses casos, aparecem temas como desigualdade, vulnerabilidade social e interdependência internacional.\n\nA VUNESP costuma cobrar efeitos gerais das crises, o papel das instituições, a circulação global de impactos e a necessidade de coordenação entre diferentes setores e países.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Pandemias e crises globais são eventos de grande escala que afetam simultaneamente diversos países e setores da vida social."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Essas crises envolvem saúde, economia, circulação global, logística, políticas públicas e cooperação internacional."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra impactos sociais e econômicos, papel do Estado, da ciência e da cooperação internacional."
+    }
+  ],
+  "pontos_chave": [
+    "Pandemias afetam saúde, economia e mobilidade.",
+    "Crises globais revelam interdependência entre países.",
+    "Ciência e políticas públicas são fundamentais.",
+    "Desigualdades tornam grupos mais vulneráveis.",
+    "A resposta a crises exige coordenação institucional."
+  ],
+  "dicas_prova": [
+    "Associe crise global a impactos múltiplos, não apenas um setor.",
+    "Lembre do papel da saúde pública e das instituições.",
+    "Pense em circulação global de efeitos.",
+    "Pegadinhas clássicas da VUNESP: tratar crise global como fenômeno puramente local."
+  ],
+  "exemplos": [
+    "Uma pandemia pode afetar hospitais, escolas, comércio e transporte ao mesmo tempo.",
+    "Crises internacionais podem interromper cadeias produtivas.",
+    "A cooperação científica é importante em emergências sanitárias."
+  ],
+  "erros_comuns": [
+    "Reduzir pandemia apenas ao campo médico.",
+    "Ignorar impactos econômicos e sociais das crises.",
+    "Desconsiderar a interdependência entre países."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que uma pandemia afeta?",
+      "resposta": "Saúde, economia, mobilidade e organização social."
+    },
+    {
+      "pergunta": "Crises globais ultrapassam fronteiras?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Ciência é importante em pandemias?",
+      "resposta": "Sim, especialmente em prevenção e resposta."
+    },
+    {
+      "pergunta": "A desigualdade influencia o impacto das crises?",
+      "resposta": "Sim, aumenta vulnerabilidades."
+    },
+    {
+      "pergunta": "A VUNESP cobra esse tema como?",
+      "resposta": "Pelos impactos amplos e pela atuação do Estado e das instituições."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Analisar a crise de forma ampla e interligada."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Pandemias e crises globais afetam:",
+      "alternativas": [
+        "somente hospitais",
+        "apenas fronteiras locais",
+        "diversos setores da sociedade",
+        "somente literatura"
+      ],
+      "correta": 2,
+      "explicacao": "Essas crises atingem saúde, economia, mobilidade, educação e outros setores."
+    },
+    {
+      "enunciado": "Uma pandemia evidencia a importância de:",
+      "alternativas": [
+        "saúde pública e ciência",
+        "somente marketing",
+        "redução da cooperação",
+        "isolamento informacional"
+      ],
+      "correta": 0,
+      "explicacao": "A resposta a crises sanitárias depende fortemente da ciência e das políticas públicas."
+    },
+    {
+      "enunciado": "Crises globais mostram que os países estão:",
+      "alternativas": [
+        "completamente isolados",
+        "interligados",
+        "sem economia",
+        "sem população"
+      ],
+      "correta": 1,
+      "explicacao": "Os efeitos se espalham por redes econômicas, humanas e políticas."
+    },
+    {
+      "enunciado": "A interrupção de cadeias produtivas é um impacto:",
+      "alternativas": [
+        "econômico",
+        "somente literário",
+        "climático apenas",
+        "matemático"
+      ],
+      "correta": 0,
+      "explicacao": "Crises globais podem desorganizar produção e abastecimento."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar esse tema com foco em:",
+      "alternativas": [
+        "impactos sociais, econômicos e institucionais",
+        "somente nomes de remédios",
+        "somente poesia",
+        "somente cartografia antiga"
+      ],
+      "correta": 0,
+      "explicacao": "A abordagem é ampla e contextual."
+    },
+    {
+      "enunciado": "Um erro comum ao estudar pandemias é:",
+      "alternativas": [
+        "considerar seus impactos amplos",
+        "reduzi-las apenas ao campo médico",
+        "relacioná-las à saúde pública",
+        "analisar desigualdades"
+      ],
+      "correta": 1,
+      "explicacao": "Pandemias afetam também economia, educação e vida social."
+    },
+    {
+      "enunciado": "A desigualdade social importa nesse tema porque:",
+      "alternativas": [
+        "não influencia nada",
+        "amplia vulnerabilidades",
+        "elimina crises",
+        "substitui políticas públicas"
+      ],
+      "correta": 1,
+      "explicacao": "Grupos mais vulneráveis tendem a sofrer impactos mais intensos."
+    },
+    {
+      "enunciado": "A cooperação internacional é importante porque:",
+      "alternativas": [
+        "crises globais exigem articulação entre países",
+        "os países não têm relação entre si",
+        "não existe circulação internacional",
+        "pandemias são sempre locais"
+      ],
+      "correta": 0,
+      "explicacao": "A escala global das crises exige coordenação internacional."
+    },
+    {
+      "enunciado": "Crises globais podem incluir:",
+      "alternativas": [
+        "somente doenças",
+        "somente conflitos armados",
+        "doenças, choques econômicos e crises energéticas",
+        "apenas fenômenos literários"
+      ],
+      "correta": 2,
+      "explicacao": "O conceito é mais amplo do que pandemia isoladamente."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "entender os impactos múltiplos e interligados",
+        "decorar palavras sem contexto",
+        "ignorar a economia",
+        "reduzir tudo a um setor"
+      ],
+      "correta": 0,
+      "explicacao": "A compreensão integrada é central para resolver questões de crises globais."
+    }
+  ]
+}

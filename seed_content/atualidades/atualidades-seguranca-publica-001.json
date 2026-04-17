@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-seguranca-publica-001",
+  "name": "Segurança pública",
+  "topico": "Segurança pública",
+  "resumo": "Segurança pública em atualidades envolve prevenção da violência, atuação das forças policiais, políticas públicas, crime organizado, desigualdade social, sistema prisional e relação entre segurança e cidadania. A VUNESP cobra leitura ampla e institucional do tema.",
+  "teoria": "Segurança pública é um tema central no debate nacional e se relaciona à proteção da população, ao combate à criminalidade e à garantia de direitos. Não se resume à repressão policial; envolve prevenção, investigação, inteligência, políticas sociais e organização do sistema de justiça.\n\nNo Brasil, o debate sobre segurança pública passa por violência urbana, crime organizado, tráfico de drogas, sistema prisional, uso de tecnologia, integração entre instituições e prevenção social da violência. Também se relaciona a desigualdades, exclusão e presença ou ausência de políticas públicas em determinados territórios.\n\nA VUNESP costuma cobrar o tema com abordagem institucional, sem exigir tecnicismo excessivo, valorizando a compreensão de segurança como questão de Estado e de cidadania. É importante entender que o tema envolve polícia, justiça, políticas preventivas e direitos fundamentais.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Segurança pública é o conjunto de ações e instituições voltadas à proteção da ordem pública e da integridade das pessoas."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "O tema envolve repressão ao crime, prevenção da violência, políticas públicas, sistema de justiça e garantia de direitos."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra leitura geral sobre violência, políticas de segurança, crime organizado, cidadania e papel das instituições."
+    }
+  ],
+  "pontos_chave": [
+    "Segurança pública vai além da repressão policial.",
+    "Prevenção e cidadania também fazem parte do tema.",
+    "Crime organizado e violência urbana aparecem com frequência.",
+    "Políticas públicas influenciam a segurança.",
+    "Instituições e direitos fundamentais devem ser considerados."
+  ],
+  "dicas_prova": [
+    "Pense segurança como tema institucional e social.",
+    "Relacione segurança a prevenção, justiça e cidadania.",
+    "Evite respostas simplistas baseadas apenas em repressão.",
+    "Pegadinhas clássicas da VUNESP: tratar segurança pública apenas como ação policial."
+  ],
+  "exemplos": [
+    "Integração entre polícia e inteligência pode fortalecer ações de segurança.",
+    "Políticas sociais em áreas vulneráveis podem contribuir para prevenção da violência.",
+    "O sistema prisional também faz parte do debate sobre segurança pública."
+  ],
+  "erros_comuns": [
+    "Reduzir segurança pública à repressão imediata.",
+    "Ignorar a dimensão preventiva do tema.",
+    "Desconsiderar direitos e papel das instituições."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é segurança pública?",
+      "resposta": "É o conjunto de ações e instituições voltadas à proteção da população e da ordem pública."
+    },
+    {
+      "pergunta": "Segurança pública é só repressão?",
+      "resposta": "Não. Também envolve prevenção e políticas públicas."
+    },
+    {
+      "pergunta": "Crime organizado é tema de segurança pública?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Cidadania se relaciona com segurança pública?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "A VUNESP cobra esse tema como?",
+      "resposta": "De forma institucional e contextual."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Não simplificar o tema."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Segurança pública envolve:",
+      "alternativas": [
+        "apenas ação policial",
+        "proteção da população e atuação institucional",
+        "somente economia",
+        "somente direito privado"
+      ],
+      "correta": 1,
+      "explicacao": "O conceito é amplo e envolve proteção, instituições e políticas públicas."
+    },
+    {
+      "enunciado": "Uma visão completa da segurança pública inclui:",
+      "alternativas": [
+        "repressão e prevenção",
+        "somente repressão",
+        "somente propaganda",
+        "somente legislação abstrata"
+      ],
+      "correta": 0,
+      "explicacao": "A segurança pública envolve tanto resposta ao crime quanto prevenção."
+    },
+    {
+      "enunciado": "Crime organizado aparece nesse tema porque:",
+      "alternativas": [
+        "não interfere na vida social",
+        "é um desafio institucional e territorial",
+        "é assunto apenas literário",
+        "não tem relação com Estado"
+      ],
+      "correta": 1,
+      "explicacao": "O combate ao crime organizado exige articulação entre políticas e instituições."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar segurança pública com foco em:",
+      "alternativas": [
+        "abordagem institucional e social",
+        "somente opinião pessoal",
+        "somente gramática",
+        "somente história medieval"
+      ],
+      "correta": 0,
+      "explicacao": "A banca tende a tratar o tema como questão pública e de cidadania."
+    },
+    {
+      "enunciado": "Um erro comum sobre segurança pública é:",
+      "alternativas": [
+        "entendê-la como tema complexo",
+        "relacioná-la à cidadania",
+        "reduzi-la apenas à repressão",
+        "analisar instituições"
+      ],
+      "correta": 2,
+      "explicacao": "Segurança pública vai além da repressão policial imediata."
+    },
+    {
+      "enunciado": "O sistema prisional faz parte do debate de segurança pública porque:",
+      "alternativas": [
+        "não tem relação com o tema",
+        "integra o sistema de resposta ao crime",
+        "é só questão cultural",
+        "substitui a polícia"
+      ],
+      "correta": 1,
+      "explicacao": "Ele integra o conjunto de instituições relacionadas à segurança."
+    },
+    {
+      "enunciado": "Políticas preventivas são importantes porque:",
+      "alternativas": [
+        "ignoram a violência",
+        "podem atuar nas causas e reduzir vulnerabilidades",
+        "eliminam o Estado",
+        "servem apenas à economia externa"
+      ],
+      "correta": 1,
+      "explicacao": "Prevenção busca reduzir fatores de risco e ampliar proteção social."
+    },
+    {
+      "enunciado": "Segurança pública e cidadania se relacionam porque:",
+      "alternativas": [
+        "direitos e proteção social caminham juntos",
+        "não têm nenhum vínculo",
+        "são temas opostos",
+        "pertencem a áreas sem contato"
+      ],
+      "correta": 0,
+      "explicacao": "Segurança pública envolve também garantia de direitos."
+    },
+    {
+      "enunciado": "Um tema frequente nesse conteúdo é:",
+      "alternativas": [
+        "crime organizado",
+        "tipologia textual",
+        "ciclo do ouro",
+        "Teorema de Pitágoras"
+      ],
+      "correta": 0,
+      "explicacao": "Crime organizado é um dos temas mais recorrentes em segurança pública."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "ler o problema de forma ampla e institucional",
+        "decorar nomes sem contexto",
+        "resolver contas complexas",
+        "ignorar fatores sociais"
+      ],
+      "correta": 0,
+      "explicacao": "A compreensão ampla e contextual ajuda a resolver melhor as questões."
+    }
+  ]
+}

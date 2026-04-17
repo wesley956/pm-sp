@@ -1,0 +1,182 @@
+{
+  "id": "geografia-globalizacao-001",
+  "name": "Globalização",
+  "topico": "Globalização",
+  "resumo": "Globalização é o processo de intensificação das conexões econômicas, tecnológicas, culturais e informacionais entre países e regiões. A VUNESP cobra integração mundial, circulação de capitais, mercadorias e informações, além de desigualdades produzidas ou ampliadas por esse processo.",
+  "teoria": "A globalização é marcada pela ampliação da interdependência entre diferentes partes do mundo. Avanços nos transportes, na informática e nas telecomunicações aceleraram fluxos de mercadorias, capitais, pessoas e informações.\n\nNo campo econômico, empresas transnacionais, cadeias produtivas globais e mercados integrados ganham destaque. No campo cultural, há circulação intensa de produtos, estilos, valores e hábitos. No campo tecnológico, a internet e os sistemas digitais reduziram distâncias e ampliaram a velocidade da comunicação.\n\nEntretanto, a globalização não atinge todos de forma igual. Há assimetrias entre países centrais e periféricos, exclusão digital, desigualdade econômica e dependência tecnológica. Por isso, a globalização é ao mesmo tempo integração e desigualdade.\n\nA VUNESP costuma cobrar os aspectos positivos e negativos do processo, a relação com tecnologia e economia, e a diferença entre integração global e distribuição desigual de benefícios.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Globalização é o processo de integração crescente entre lugares, economias e sociedades."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Esse processo envolve fluxos de capitais, mercadorias, pessoas, informações e culturas. Ele depende fortemente da tecnologia e dos meios de comunicação."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra impactos econômicos, tecnológicos e sociais da globalização, além de suas desigualdades."
+    }
+  ],
+  "pontos_chave": [
+    "Globalização intensifica conexões mundiais.",
+    "Tecnologia e comunicação aceleram o processo.",
+    "Empresas transnacionais têm papel importante.",
+    "Os efeitos da globalização são desiguais.",
+    "Integração global não significa igualdade global."
+  ],
+  "dicas_prova": [
+    "Associe globalização a fluxos e redes.",
+    "Lembre dos efeitos econômicos e culturais.",
+    "Não trate globalização como fenômeno apenas positivo.",
+    "Pegadinhas clássicas da VUNESP: confundir integração com igualdade."
+  ],
+  "exemplos": [
+    "Uma empresa produz peças em vários países e vende globalmente.",
+    "A internet encurta distâncias de comunicação.",
+    "A exclusão digital mostra que nem todos participam igualmente do processo."
+  ],
+  "erros_comuns": [
+    "Ver globalização como processo homogêneo.",
+    "Esquecer as desigualdades entre países.",
+    "Analisar só o aspecto econômico e ignorar o cultural e tecnológico."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é globalização?",
+      "resposta": "É a intensificação das conexões entre lugares e sociedades."
+    },
+    {
+      "pergunta": "Qual o papel da tecnologia na globalização?",
+      "resposta": "Acelerar comunicação, transporte e circulação de informações."
+    },
+    {
+      "pergunta": "A globalização atinge todos igualmente?",
+      "resposta": "Não."
+    },
+    {
+      "pergunta": "O que são empresas transnacionais?",
+      "resposta": "Empresas que atuam em vários países."
+    },
+    {
+      "pergunta": "Um efeito negativo da globalização?",
+      "resposta": "Ampliação ou manutenção de desigualdades."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra esse tema?",
+      "resposta": "Pelos fluxos globais e seus impactos sociais e econômicos."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A globalização pode ser definida como:",
+      "alternativas": [
+        "isolamento entre países",
+        "integração crescente entre espaços do mundo",
+        "fim da tecnologia",
+        "redução das trocas internacionais"
+      ],
+      "correta": 1,
+      "explicacao": "O conceito central é a intensificação das conexões mundiais."
+    },
+    {
+      "enunciado": "Um fator decisivo para a globalização foi:",
+      "alternativas": [
+        "redução da comunicação",
+        "avanço tecnológico",
+        "fim do comércio",
+        "desaparecimento das empresas"
+      ],
+      "correta": 1,
+      "explicacao": "Tecnologia e comunicação aceleraram o processo global."
+    },
+    {
+      "enunciado": "As empresas transnacionais são importantes na globalização porque:",
+      "alternativas": [
+        "atuam apenas em uma cidade",
+        "organizam atividades em vários países",
+        "eliminam o comércio",
+        "reduzem toda desigualdade"
+      ],
+      "correta": 1,
+      "explicacao": "Essas empresas articulam produção, circulação e consumo em escala internacional."
+    },
+    {
+      "enunciado": "Um traço da globalização é:",
+      "alternativas": [
+        "isolamento cultural total",
+        "fluxo intenso de informações",
+        "fim das redes digitais",
+        "ausência de desigualdade"
+      ],
+      "correta": 1,
+      "explicacao": "A circulação acelerada de informações é uma característica marcante."
+    },
+    {
+      "enunciado": "A globalização apresenta também:",
+      "alternativas": [
+        "igualdade automática entre países",
+        "desigualdades e exclusões",
+        "fim da dependência tecnológica",
+        "desaparecimento dos mercados"
+      ],
+      "correta": 1,
+      "explicacao": "O processo é desigual e beneficia mais alguns grupos e regiões."
+    },
+    {
+      "enunciado": "A exclusão digital mostra que:",
+      "alternativas": [
+        "todos têm acesso igual à tecnologia",
+        "a globalização é desigual",
+        "a internet não existe",
+        "a comunicação diminuiu"
+      ],
+      "correta": 1,
+      "explicacao": "Nem todos participam das redes tecnológicas da mesma forma."
+    },
+    {
+      "enunciado": "Um erro comum sobre a globalização é pensar que ela:",
+      "alternativas": [
+        "gera fluxos globais",
+        "depende de tecnologia",
+        "beneficia igualmente todos os lugares",
+        "envolve economia e cultura"
+      ],
+      "correta": 2,
+      "explicacao": "O acesso e os benefícios são desiguais."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar globalização com foco em:",
+      "alternativas": [
+        "fluxos, tecnologia e desigualdade",
+        "somente literatura",
+        "apenas minerais",
+        "somente geometria"
+      ],
+      "correta": 0,
+      "explicacao": "Esses são eixos clássicos de cobrança."
+    },
+    {
+      "enunciado": "A internet, no contexto da globalização, é exemplo de:",
+      "alternativas": [
+        "ruptura das redes",
+        "aproximação informacional",
+        "fim das conexões",
+        "isolamento produtivo"
+      ],
+      "correta": 1,
+      "explicacao": "Ela acelera a integração e a circulação de informações."
+    },
+    {
+      "enunciado": "Globalização envolve:",
+      "alternativas": [
+        "somente economia",
+        "somente cultura",
+        "economia, tecnologia e cultura",
+        "somente política interna"
+      ],
+      "correta": 2,
+      "explicacao": "É um processo amplo, com múltiplas dimensões."
+    }
+  ]
+}

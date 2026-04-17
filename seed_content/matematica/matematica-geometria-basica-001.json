@@ -1,0 +1,182 @@
+{
+  "id": "matematica-geometria-basica-001",
+  "name": "Geometria básica",
+  "topico": "Geometria básica",
+  "resumo": "Geometria básica estuda formas, ângulos, retas e figuras planas e espaciais. A VUNESP cobra reconhecimento de figuras, propriedades simples, classificação de triângulos e quadriláteros e noções de paralelismo e perpendicularidade.",
+  "teoria": "Geometria básica trata do espaço, das formas e das relações entre elementos geométricos. Ponto não tem dimensão; reta tem uma dimensão e se estende infinitamente; plano tem duas dimensões.\n\nÂngulo é a abertura entre duas semirretas com mesma origem. Pode ser agudo (menor que 90°), reto (igual a 90°), obtuso (maior que 90° e menor que 180°) ou raso (180°).\n\nEntre as figuras planas mais importantes estão triângulos, quadrados, retângulos, losangos, trapézios e círculos. Triângulos podem ser classificados quanto aos lados em equilátero, isósceles e escaleno; quanto aos ângulos em acutângulo, retângulo e obtusângulo.\n\nQuadrado tem quatro lados iguais e quatro ângulos retos. Retângulo tem lados opostos iguais e quatro ângulos retos. Losango tem quatro lados iguais. Trapézio tem pelo menos um par de lados paralelos.\n\nRetas paralelas nunca se cruzam no plano. Retas perpendiculares se cruzam formando ângulo de 90°.\n\nA VUNESP costuma cobrar conceitos básicos, identificação de propriedades e pequenas aplicações. É essencial saber reconhecer as características de cada figura.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Geometria básica estuda formas, dimensões e relações espaciais."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Cada figura tem propriedades próprias: número de lados, tipos de ângulos, paralelismo e medidas. Triângulos e quadriláteros aparecem com frequência."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra classificação de figuras, tipos de ângulos, propriedades de triângulos e quadriláteros e noções espaciais simples."
+    }
+  ],
+  "pontos_chave": [
+    "Ângulo reto mede 90°.",
+    "Triângulo tem 3 lados.",
+    "Quadrado tem 4 lados iguais e 4 ângulos retos.",
+    "Retas paralelas não se encontram.",
+    "Retas perpendiculares formam 90°."
+  ],
+  "dicas_prova": [
+    "Memorize propriedades básicas das figuras mais cobradas.",
+    "Desenhe mentalmente a figura ao ler a questão.",
+    "Observe se a classificação é pelos lados ou pelos ângulos.",
+    "Pegadinhas clássicas da VUNESP: confundir quadrado com losango e triângulo isósceles com equilátero."
+  ],
+  "exemplos": [
+    "Quadrado: lados iguais e ângulos retos.",
+    "Triângulo retângulo: possui um ângulo de 90°.",
+    "Trapézio: tem pelo menos um par de lados paralelos."
+  ],
+  "erros_comuns": [
+    "Trocar propriedades de figuras parecidas.",
+    "Esquecer que retângulo também possui ângulos retos.",
+    "Confundir classificação do triângulo por lados e por ângulos."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é ângulo reto?",
+      "resposta": "Ângulo de 90°."
+    },
+    {
+      "pergunta": "Como é o triângulo equilátero?",
+      "resposta": "Tem três lados iguais."
+    },
+    {
+      "pergunta": "Como é o triângulo isósceles?",
+      "resposta": "Tem dois lados iguais."
+    },
+    {
+      "pergunta": "O que são retas paralelas?",
+      "resposta": "Retas que não se cruzam."
+    },
+    {
+      "pergunta": "O que são retas perpendiculares?",
+      "resposta": "Retas que se cruzam formando 90°."
+    },
+    {
+      "pergunta": "Como é o quadrado?",
+      "resposta": "Tem quatro lados iguais e quatro ângulos retos."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Um ângulo de 90° é chamado de:",
+      "alternativas": [
+        "agudo",
+        "reto",
+        "obtuso",
+        "raso"
+      ],
+      "correta": 1,
+      "explicacao": "Ângulo reto mede 90°."
+    },
+    {
+      "enunciado": "Figura com três lados é:",
+      "alternativas": [
+        "quadrado",
+        "círculo",
+        "triângulo",
+        "trapézio"
+      ],
+      "correta": 2,
+      "explicacao": "Triângulo é a figura plana com três lados."
+    },
+    {
+      "enunciado": "O quadrado possui:",
+      "alternativas": [
+        "quatro lados diferentes",
+        "quatro lados iguais e quatro ângulos retos",
+        "apenas dois lados iguais",
+        "nenhum ângulo reto"
+      ],
+      "correta": 1,
+      "explicacao": "Essa é a propriedade do quadrado."
+    },
+    {
+      "enunciado": "Um triângulo com dois lados iguais é:",
+      "alternativas": [
+        "equilátero",
+        "isósceles",
+        "escaleno",
+        "retângulo"
+      ],
+      "correta": 1,
+      "explicacao": "Isósceles possui dois lados iguais."
+    },
+    {
+      "enunciado": "Retas que nunca se cruzam no plano são:",
+      "alternativas": [
+        "perpendiculares",
+        "paralelas",
+        "concorrentes",
+        "oblíquas"
+      ],
+      "correta": 1,
+      "explicacao": "Definição de paralelas."
+    },
+    {
+      "enunciado": "Retas que se cruzam formando 90° são:",
+      "alternativas": [
+        "paralelas",
+        "perpendiculares",
+        "coincidentes",
+        "curvas"
+      ],
+      "correta": 1,
+      "explicacao": "Perpendiculares formam ângulo reto."
+    },
+    {
+      "enunciado": "O triângulo equilátero possui:",
+      "alternativas": [
+        "um lado maior",
+        "dois lados iguais",
+        "três lados iguais",
+        "nenhum lado igual"
+      ],
+      "correta": 2,
+      "explicacao": "Todos os lados são iguais."
+    },
+    {
+      "enunciado": "Um ângulo maior que 90° e menor que 180° é:",
+      "alternativas": [
+        "agudo",
+        "reto",
+        "obtuso",
+        "completo"
+      ],
+      "correta": 2,
+      "explicacao": "Essa é a definição de ângulo obtuso."
+    },
+    {
+      "enunciado": "O trapézio é uma figura que possui:",
+      "alternativas": [
+        "dois pares de lados paralelos necessariamente",
+        "pelo menos um par de lados paralelos",
+        "todos os lados iguais",
+        "três lados"
+      ],
+      "correta": 1,
+      "explicacao": "Essa é a característica principal do trapézio."
+    },
+    {
+      "enunciado": "A maior atenção em geometria básica deve ser com:",
+      "alternativas": [
+        "nomes parecidos e propriedades das figuras",
+        "apenas contas",
+        "porcentagens",
+        "gráficos de linhas"
+      ],
+      "correta": 0,
+      "explicacao": "O reconhecimento correto da figura é a base do tema."
+    }
+  ]
+}

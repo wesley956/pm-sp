@@ -1,0 +1,182 @@
+{
+  "id": "portugues-pontuacao-001",
+  "name": "Pontuação",
+  "topico": "Pontuação",
+  "resumo": "Pontuação organiza as ideias, evita ambiguidades e altera o sentido da frase. Na VUNESP, a banca cobra principalmente vírgula, dois-pontos, ponto e vírgula, travessão, parênteses e pontuação em orações explicativas, enumerativas, deslocadas e intercaladas. O segredo é entender a estrutura sintática: sujeito e verbo normalmente não se separam por vírgula; termos deslocados, explicações, enumerações e elementos intercalados costumam exigir marcação. Mais do que decorar regras soltas, é preciso perceber a função de cada sinal no texto.",
+  "teoria": "Pontuação é o conjunto de sinais usados para organizar o texto, marcar pausas, separar elementos, indicar entonação e tornar o sentido mais claro. Em prova, o candidato que sabe pontuação lê melhor, interpreta com mais precisão e evita erros de gramática e de compreensão. A VUNESP gosta muito desse assunto porque ele envolve regra, sentido e estrutura da frase ao mesmo tempo.\n\nO ponto final encerra uma declaração completa. Ele indica o fechamento de uma ideia. Exemplo: \"O candidato chegou cedo.\" O ponto também ajuda a dividir o texto em unidades de sentido. Já a vírgula é o sinal mais cobrado e também o que mais gera erro. Ela não serve apenas para marcar pausa de respiração; serve principalmente para organizar a sintaxe da frase. Isso é decisivo em prova.\n\nA vírgula é usada para separar elementos de uma enumeração: \"Trouxe caneta, lápis, borracha e régua.\" Também é usada para isolar vocativo: \"Carlos, venha aqui.\" O vocativo é o termo usado para chamar alguém. A vírgula ainda aparece para isolar aposto explicativo: \"São Paulo, maior cidade do país, enfrenta diversos problemas urbanos.\" Nesse caso, o trecho entre vírgulas explica o termo anterior.\n\nTambém se usa vírgula para marcar adjuntos adverbiais deslocados, especialmente quando são longos: \"Naquele dia chuvoso de inverno, os alunos chegaram atrasados.\" Se o adjunto vier no início ou no meio da oração, é comum o uso da vírgula. A VUNESP adora explorar isso. Outro uso importante é separar orações coordenadas, principalmente quando não estão ligadas apenas por \"e\" ou quando há mudança de sujeito: \"Estudei bastante, mas não consegui terminar a prova.\" / \"O fiscal saiu da sala, e os candidatos permaneceram em silêncio.\" \n\nA vírgula também serve para isolar expressões explicativas, corretivas, conclusivas ou de continuidade, como \"isto é\", \"ou seja\", \"por exemplo\", \"aliás\", \"além disso\", \"entretanto\" quando intercaladas. Exemplo: \"A prova, aliás, estava mais difícil que a anterior.\" Elementos intercalados quebram momentaneamente a sequência principal e, por isso, costumam vir entre vírgulas.\n\nÉ fundamental saber onde a vírgula não pode ser usada. Não se separa por vírgula o sujeito do verbo: \"Os candidatos chegaram cedo\". Está errado escrever: \"Os candidatos, chegaram cedo.\" Também não se separa o verbo de seu complemento direto em estruturas simples: \"Ele comprou um livro.\" Não se deve escrever: \"Ele comprou, um livro.\" Também não se separam, sem motivo, nome e complemento nominal, predicado e sujeito invertido, ou oração principal e subordinada substantiva objetiva direta introduzida sem deslocamento.\n\nAs orações subordinadas adjetivas merecem atenção especial. Quando são explicativas, ficam entre vírgulas: \"Os alunos, que estudaram bastante, tiveram bom desempenho.\" A oração explica uma característica geral dos alunos. Quando são restritivas, não levam vírgula: \"Os alunos que estudaram bastante tiveram bom desempenho.\" Agora a informação restringe o grupo: nem todos os alunos, apenas os que estudaram. A troca ou retirada da vírgula altera o sentido, e isso é muito cobrado pela VUNESP.\n\nO ponto e vírgula indica uma pausa maior que a vírgula e menor que o ponto final. Ele é usado para separar itens de enumeração mais complexa, especialmente quando os itens já têm vírgulas internas, e para separar orações coordenadas longas ou de contraste mais marcado. Exemplo: \"Na prova de Português, caiu interpretação de texto; na de Matemática, porcentagem e razão; na de Informática, segurança digital.\" \n\nOs dois-pontos introduzem explicação, enumeração, síntese, fala ou citação. Exemplo: \"Só havia uma saída: estudar com disciplina.\" Também aparecem antes de fala em narrativa: \"O professor disse: 'Revisem a matéria.'\" Na prova, a banca pode pedir o valor semântico do uso dos dois-pontos.\n\nO travessão pode indicar fala de personagem, destaque ou explicação intercalada. Exemplo: \"O resultado — embora esperado — abalou a turma.\" Nesse caso, ele funciona como marca de intercalação, semelhante aos parênteses ou às vírgulas, mas com efeito expressivo diferente. Os parênteses, por sua vez, isolam observações acessórias, datas, siglas ou comentários secundários: \"A PM-SP (Polícia Militar do Estado de São Paulo) tem papel essencial na segurança pública.\" \n\nAs aspas são usadas para destacar citações, palavras estrangeiras, ironias, neologismos ou usos especiais de uma palavra. Exemplo: O candidato disse que estava \"tranquilo\", mas demonstrava nervosismo. As reticências indicam interrupção, continuidade, hesitação ou suspensão de sentido. Em texto literário, podem ter valor expressivo; em prova objetiva, normalmente a banca cobra o efeito de sentido.\n\nO ponto de interrogação e o ponto de exclamação indicam, respectivamente, pergunta direta e exclamação, espanto, ordem ou emoção. Exemplo: \"Você estudou?\" / \"Que prova difícil!\" São sinais importantes para entonação e interpretação, embora em gramática normativa apareçam menos do que a vírgula.\n\nPara acertar pontuação na VUNESP, é preciso fazer três perguntas: qual é a estrutura da frase, qual é a função do trecho destacado e o sinal muda o sentido? Muitas questões não pedem apenas a regra, mas o efeito produzido. Uma vírgula pode transformar uma oração restritiva em explicativa; um travessão pode destacar uma informação acessória; dois-pontos podem introduzir uma consequência ou uma explicação. \n\nEm resumo, a pontuação não é enfeite. Ela organiza a lógica do texto. Quem domina sujeito, verbo, complementos, termos deslocados, orações explicativas e enumerações complexas consegue resolver a maioria das questões. Na VUNESP, as maiores armadilhas são o uso indevido da vírgula entre sujeito e verbo, a falta de vírgula em elementos deslocados e a alteração de sentido nas orações adjetivas.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Pontuação é o sistema de sinais gráficos usado para organizar a frase, marcar separações, indicar entonação e construir sentido. Cada sinal tem função específica. A vírgula, por exemplo, separa termos e orações em certas condições; o ponto final encerra uma ideia; os dois-pontos introduzem explicação, enumeração ou fala; o ponto e vírgula separa estruturas mais longas ou complexas. Na prática, pontuar bem significa compreender a estrutura sintática e o efeito de sentido produzido."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "A vírgula deve ser usada para separar enumerações, vocativos, apostos explicativos, elementos intercalados, adjuntos adverbiais deslocados e algumas orações coordenadas ou subordinadas deslocadas. Não se usa vírgula entre sujeito e verbo, entre verbo e complemento, entre nome e complemento sem motivo sintático. Orações adjetivas explicativas levam vírgula; restritivas não. O ponto e vírgula separa itens longos e orações extensas. Os dois-pontos introduzem explicação, fala, enumeração e conclusão anunciada. O travessão e os parênteses isolam intercalações, mas com efeitos expressivos diferentes. Aspas destacam citações, ironias e usos especiais."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma apresentar frases para o candidato avaliar se a pontuação está correta ou se altera o sentido. A banca explora muito: vírgula em adjunto adverbial deslocado, aposto, vocativo, oração explicativa, oração restritiva e proibição de vírgula entre sujeito e verbo. Também cobra reescrita de frases com manutenção de sentido, exigindo domínio da pontuação. Outro ponto frequente é o valor semântico dos dois-pontos, do travessão e do ponto e vírgula."
+    }
+  ],
+  "pontos_chave": [
+    "Vírgula não separa sujeito de verbo nem verbo de complemento em estruturas simples.",
+    "Orações adjetivas explicativas levam vírgula; restritivas não levam.",
+    "Vocativo, aposto explicativo e elementos intercalados costumam ser isolados por vírgulas.",
+    "Dois-pontos introduzem explicação, enumeração, fala ou consequência anunciada.",
+    "Na VUNESP, pontuação é cobrada tanto por regra quanto por alteração de sentido."
+  ],
+  "dicas_prova": [
+    "Antes de aceitar ou retirar uma vírgula, identifique sujeito, verbo e complemento da oração.",
+    "Quando houver trecho explicativo, acessório ou intercalado, teste o isolamento por vírgulas, travessões ou parênteses.",
+    "Compare frases com e sem vírgula para perceber se a informação restringe ou apenas explica.",
+    "Pegadinhas clássicas da VUNESP: vírgula entre sujeito e verbo, falta de vírgula em vocativo e mudança de sentido nas orações adjetivas."
+  ],
+  "exemplos": [
+    "Candidatos, atenção ao horário de fechamento dos portões. (Vocativo isolado por vírgula.)",
+    "Os alunos que revisaram a matéria tiveram melhor desempenho. (Oração restritiva, sem vírgula.)",
+    "Os alunos, que revisaram a matéria, tiveram melhor desempenho. (Oração explicativa, com vírgulas.)"
+  ],
+  "erros_comuns": [
+    "Colocar vírgula entre sujeito e verbo: \"Os candidatos, chegaram cedo.\"",
+    "Não isolar vocativo: \"Senhores candidatos prestem atenção.\"",
+    "Usar ou retirar vírgulas em oração adjetiva sem perceber que isso muda o sentido da frase."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Qual é o erro de vírgula mais comum em prova?",
+      "resposta": "Separar sujeito de verbo ou verbo de complemento sem justificativa sintática."
+    },
+    {
+      "pergunta": "Quando a oração adjetiva leva vírgula?",
+      "resposta": "Quando é explicativa, isto é, quando apenas acrescenta uma informação acessória."
+    },
+    {
+      "pergunta": "Para que servem os dois-pontos?",
+      "resposta": "Para introduzir explicação, enumeração, fala, citação ou consequência anunciada."
+    },
+    {
+      "pergunta": "O que o ponto e vírgula indica?",
+      "resposta": "Uma pausa intermediária, maior que a vírgula e menor que o ponto final."
+    },
+    {
+      "pergunta": "Como reconhecer um vocativo?",
+      "resposta": "É o termo usado para chamar, invocar ou dirigir-se a alguém diretamente."
+    },
+    {
+      "pergunta": "Qual é a forma fácil de lembrar a diferença entre restritiva e explicativa?",
+      "resposta": "Restritiva seleciona parte do grupo e não leva vírgula; explicativa comenta o grupo inteiro e leva vírgula."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Assinale a alternativa em que a pontuação está correta de acordo com a norma-padrão.",
+      "alternativas": [
+        "Os candidatos, chegaram cedo ao local da prova.",
+        "Carlos traga, por favor, os documentos.",
+        "Os fiscais orientaram os alunos, e encerraram os portões.",
+        "Na manhã de domingo os candidatos, aguardavam o início da prova."
+      ],
+      "correta": 1,
+      "explicacao": "A alternativa correta é \"Carlos traga, por favor, os documentos.\" O nome próprio funciona como vocativo e o trecho \"por favor\" está intercalado, justificando a pontuação. Em A, há erro por separar sujeito de verbo. Em C, a vírgula antes de \"e\" não se justifica nessa construção simples. Em D, falta vírgula após o adjunto adverbial deslocado longo e sobra vírgula entre sujeito e verbo."
+    },
+    {
+      "enunciado": "Em qual alternativa a vírgula altera o sentido da frase por transformar a oração adjetiva em explicativa?",
+      "alternativas": [
+        "Os alunos que estudaram passaram.",
+        "Os alunos, que estudaram, passaram.",
+        "Os alunos estudaram, passaram e comemoraram.",
+        "Os alunos, no entanto, passaram."
+      ],
+      "correta": 1,
+      "explicacao": "Na alternativa B, a oração \"que estudaram\" está entre vírgulas e passa a ser explicativa, sugerindo que todos os alunos estudaram. Na alternativa A, sem vírgulas, a oração é restritiva: apenas os alunos que estudaram passaram. Essa diferença de sentido é muito cobrada pela VUNESP."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que o uso dos dois-pontos está correto.",
+      "alternativas": [
+        "O candidato precisava de três coisas, calma foco e atenção.",
+        "O candidato precisava de três coisas: calma, foco e atenção.",
+        "O candidato precisava: de três coisas calma, foco e atenção.",
+        "O candidato: precisava de três coisas, calma, foco e atenção."
+      ],
+      "correta": 1,
+      "explicacao": "Os dois-pontos introduzem a enumeração anunciada pelo trecho \"três coisas\". Por isso, a alternativa B está correta. Nas demais, há posicionamento inadequado do sinal ou ausência da enumeração corretamente estruturada."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que a vírgula foi empregada corretamente.",
+      "alternativas": [
+        "O professor explicou a matéria, com clareza.",
+        "Durante a revisão final, os alunos fizeram anotações importantes.",
+        "A banca cobrou, interpretação de texto e pontuação.",
+        "Os candidatos atentos, entenderam o aviso."
+      ],
+      "correta": 1,
+      "explicacao": "A alternativa correta é B, porque o adjunto adverbial deslocado \"Durante a revisão final\" está corretamente isolado por vírgula. Em A, a vírgula separa indevidamente verbo e adjunto. Em C, separa verbo e complemento. Em D, separa sujeito e verbo."
+    },
+    {
+      "enunciado": "Em qual alternativa o ponto e vírgula foi usado adequadamente?",
+      "alternativas": [
+        "Estudou Português; e Matemática para a prova.",
+        "Na mala havia: canetas; lápis; borracha.",
+        "Na prova de Português, caiu pontuação; na de Matemática, porcentagem; na de Informática, segurança digital.",
+        "Os candidatos chegaram cedo; porque queriam revisar o conteúdo."
+      ],
+      "correta": 2,
+      "explicacao": "A alternativa C está correta porque o ponto e vírgula separa itens de uma enumeração complexa, cujos segmentos já possuem vírgulas internas. Em A, o uso é inadequado antes de \"e\". Em B, a pontuação está mal organizada. Em D, o ponto e vírgula não deve separar oração principal de subordinada causal introduzida por \"porque\" dessa forma."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que a ausência de vírgula está correta.",
+      "alternativas": [
+        "João entregue os documentos agora.",
+        "Os servidores que chegaram cedo iniciaram o atendimento.",
+        "No início da manhã os candidatos chegaram ansiosos.",
+        "A diretora aliás já havia sido avisada."
+      ],
+      "correta": 1,
+      "explicacao": "A alternativa correta é B, pois a oração \"que chegaram cedo\" é restritiva e não deve ser isolada por vírgula. Em A, o vocativo \"João\" exige vírgula. Em C, o adjunto adverbial deslocado no início da frase recomenda vírgula. Em D, o termo intercalado \"aliás\" deve ficar entre vírgulas."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que a pontuação está incorreta.",
+      "alternativas": [
+        "A verdade é uma só: sem estudo, não há aprovação.",
+        "Os fiscais — muito atentos — observaram todos os candidatos.",
+        "Os livros, os cadernos, e as apostilas estavam sobre a mesa.",
+        "Maria, sua inscrição foi confirmada."
+      ],
+      "correta": 2,
+      "explicacao": "A alternativa incorreta é C. Em enumerações simples, normalmente não se usa vírgula antes da conjunção \"e\": o correto seria \"Os livros, os cadernos e as apostilas...\". As demais alternativas apresentam pontuação aceitável dentro da norma."
+    },
+    {
+      "enunciado": "Em qual alternativa as vírgulas isolam um aposto explicativo?",
+      "alternativas": [
+        "Candidatos, mantenham a calma.",
+        "A prova, difícil para muitos, exigiu concentração.",
+        "São Paulo, maior cidade do país, enfrenta desafios diários.",
+        "Se possível, revisem o conteúdo hoje."
+      ],
+      "correta": 2,
+      "explicacao": "Na alternativa C, o trecho \"maior cidade do país\" explica \"São Paulo\" e funciona como aposto explicativo, por isso aparece entre vírgulas. Em A, há vocativo. Em B, há adjetivo/expressão explicativa intercalada, mas o caso mais clássico de aposto explicativo é o da alternativa C. Em D, há expressão adverbial reduzida deslocada."
+    },
+    {
+      "enunciado": "Assinale a alternativa em que o travessão pode substituir as vírgulas sem prejuízo essencial da estrutura.",
+      "alternativas": [
+        "Os alunos — chegaram cedo — para a revisão.",
+        "A prova, apesar do cansaço, foi concluída por todos.",
+        "Os candidatos — estudaram bastante passaram no concurso.",
+        "Carlos — venha aqui agora."
+      ],
+      "correta": 1,
+      "explicacao": "Na alternativa B, o trecho \"apesar do cansaço\" é intercalado e pode ser isolado por vírgulas ou travessões, sem prejuízo essencial da estrutura. Em A, o travessão separa inadequadamente sujeito e verbo. Em C, falta pontuação adequada para organizar a frase. Em D, o vocativo pede vírgula, não travessão."
+    },
+    {
+      "enunciado": "Assinale a alternativa correta quanto ao emprego da pontuação.",
+      "alternativas": [
+        "Não desista, candidato; a aprovação exige constância.",
+        "Não desista candidato: a aprovação exige constância.",
+        "Não, desista candidato; a aprovação exige constância.",
+        "Não desista candidato, a aprovação exige constância."
+      ],
+      "correta": 0,
+      "explicacao": "A alternativa A está correta. O vocativo \"candidato\" é isolado por vírgula e o ponto e vírgula separa duas orações coordenadas com relativa autonomia semântica. Em B, falta vírgula para isolar o vocativo. Em C, a vírgula após \"Não\" altera indevidamente o sentido. Em D, há problema de pontuação por unir inadequadamente as orações apenas com vírgula."
+    }
+  ]
+}

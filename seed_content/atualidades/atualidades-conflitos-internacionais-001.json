@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-conflitos-internacionais-001",
+  "name": "Conflitos internacionais",
+  "topico": "Conflitos internacionais",
+  "resumo": "Conflitos internacionais envolvem disputas territoriais, políticas, econômicas, étnicas e geopolíticas entre Estados ou grupos armados. A VUNESP cobra leitura geopolítica geral, impactos humanitários, papel de organismos internacionais e efeitos globais desses conflitos.",
+  "teoria": "Conflitos internacionais podem surgir por disputas de território, recursos, fronteiras, identidade nacional, religião, poder político ou influência geopolítica. Nem todo conflito é guerra declarada, mas muitos geram instabilidade, deslocamentos populacionais, crises humanitárias e impactos econômicos globais.\n\nA geopolítica ajuda a compreender esses conflitos, pois analisa relações de poder entre Estados, regiões e organizações internacionais. Temas como sanções, alianças, disputa energética, migrações forçadas, refugiados e segurança internacional costumam aparecer nas atualidades.\n\nA VUNESP não exige domínio profundo de todos os detalhes, mas cobra a compreensão geral da lógica dos conflitos, seus efeitos sobre populações civis, economia, diplomacia e organismos multilaterais. Também pode associar conflitos a energia, comércio internacional e crise humanitária.\n\nEm resumo, conflitos internacionais devem ser entendidos como fenômenos geopolíticos com consequências políticas, econômicas e sociais em escala regional e global.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Conflitos internacionais são disputas entre Estados ou grupos com efeitos políticos, territoriais e humanitários."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É preciso considerar causas geopolíticas, impactos humanitários, papel de organismos internacionais e efeitos globais."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra noções gerais de geopolítica, guerras, tensões, refugiados, sanções e repercussões econômicas."
+    }
+  ],
+  "pontos_chave": [
+    "Conflitos podem ter causas territoriais, políticas e econômicas.",
+    "Os efeitos atingem populações civis e economias.",
+    "Refugiados e crises humanitárias são temas centrais.",
+    "Organismos internacionais podem atuar na mediação.",
+    "A geopolítica ajuda a interpretar esses processos."
+  ],
+  "dicas_prova": [
+    "Busque entender causa, consequência e atores envolvidos.",
+    "Relacione conflito a geopolítica e impacto humanitário.",
+    "Não reduza todo conflito a uma explicação única.",
+    "Pegadinhas clássicas da VUNESP: simplificar disputas complexas."
+  ],
+  "exemplos": [
+    "Conflitos podem elevar preços de energia e alimentos.",
+    "Guerras podem gerar fluxos de refugiados.",
+    "Sanções internacionais podem pressionar economias e governos."
+  ],
+  "erros_comuns": [
+    "Ignorar o papel da geopolítica.",
+    "Enxergar conflito só como questão militar.",
+    "Desconsiderar impactos sobre civis e economia mundial."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que são conflitos internacionais?",
+      "resposta": "São disputas entre Estados ou grupos com efeitos geopolíticos e humanitários."
+    },
+    {
+      "pergunta": "O que a geopolítica analisa?",
+      "resposta": "Relações de poder entre países e regiões."
+    },
+    {
+      "pergunta": "Refugiados se relacionam a conflitos?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Conflitos podem afetar a economia mundial?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "A VUNESP cobra detalhes minuciosos ou visão geral?",
+      "resposta": "Principalmente visão geral e contextual."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Não simplificar o conflito."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Conflitos internacionais podem surgir por:",
+      "alternativas": [
+        "disputas territoriais e geopolíticas",
+        "somente questões climáticas locais",
+        "apenas literatura",
+        "somente festas populares"
+      ],
+      "correta": 0,
+      "explicacao": "Essas são causas frequentes em conflitos internacionais."
+    },
+    {
+      "enunciado": "Um efeito comum de grandes conflitos é:",
+      "alternativas": [
+        "redução de qualquer tensão mundial",
+        "crise humanitária e deslocamento populacional",
+        "fim das fronteiras",
+        "ausência de impacto econômico"
+      ],
+      "correta": 1,
+      "explicacao": "Guerras e tensões geram deslocamentos forçados e sofrimento civil."
+    },
+    {
+      "enunciado": "A geopolítica é importante porque:",
+      "alternativas": [
+        "ignora o poder entre países",
+        "analisa relações de poder e interesse estratégico",
+        "substitui a história",
+        "não tem relação com atualidades"
+      ],
+      "correta": 1,
+      "explicacao": "A geopolítica ajuda a entender a lógica dos conflitos."
+    },
+    {
+      "enunciado": "Refugiados são pessoas que:",
+      "alternativas": [
+        "migram apenas por turismo",
+        "fogem de guerras, perseguições ou crises graves",
+        "sempre viajam por lazer",
+        "não têm relação com conflitos"
+      ],
+      "correta": 1,
+      "explicacao": "Refugiados estão associados a situações extremas de violência e perseguição."
+    },
+    {
+      "enunciado": "Sanções internacionais podem:",
+      "alternativas": [
+        "não produzir nenhum efeito",
+        "impactar economias e relações diplomáticas",
+        "eliminar toda geopolítica",
+        "ser fenômeno apenas cultural"
+      ],
+      "correta": 1,
+      "explicacao": "Sanções são instrumentos de pressão política e econômica."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar conflitos internacionais com foco em:",
+      "alternativas": [
+        "visão geopolítica e humanitária",
+        "somente nomes de batalhas antigas",
+        "somente fórmulas",
+        "somente gramática"
+      ],
+      "correta": 0,
+      "explicacao": "A abordagem tende a ser ampla e contextual."
+    },
+    {
+      "enunciado": "Um erro comum nesse tema é:",
+      "alternativas": [
+        "observar impacto humanitário",
+        "considerar fatores geopolíticos",
+        "reduzir o conflito a uma única causa",
+        "analisar efeitos econômicos"
+      ],
+      "correta": 2,
+      "explicacao": "Conflitos costumam ser complexos e multicausais."
+    },
+    {
+      "enunciado": "Conflitos podem afetar preços globais de:",
+      "alternativas": [
+        "energia e alimentos",
+        "somente livros",
+        "apenas obras de arte",
+        "somente turismo local"
+      ],
+      "correta": 0,
+      "explicacao": "Tensões internacionais afetam cadeias de suprimento e mercados."
+    },
+    {
+      "enunciado": "Organismos internacionais podem atuar:",
+      "alternativas": [
+        "na mediação e cooperação",
+        "somente em literatura",
+        "eliminando todos os conflitos automaticamente",
+        "sem qualquer função"
+      ],
+      "correta": 0,
+      "explicacao": "Esses organismos podem tentar mediar e reduzir tensões."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "entender causas, atores e consequências",
+        "decorar siglas sem contexto",
+        "ignorar efeitos sociais",
+        "responder por opinião pessoal"
+      ],
+      "correta": 0,
+      "explicacao": "A análise geopolítica exige visão contextualizada."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "matematica-porcentagem-001",
+  "name": "Porcentagem",
+  "topico": "Porcentagem",
+  "resumo": "Porcentagem representa uma razão de base 100. A VUNESP cobra cálculos de aumento, desconto, acréscimo sucessivo, taxa percentual, equivalência com fração e decimal e problemas do cotidiano com preços e salários.",
+  "teoria": "Porcentagem significa 'por cento', isto é, por 100. Assim, 25% significa 25/100 = 0,25 = 1/4. Esse tema está presente em descontos, juros, reajustes, comissões, pesquisas, promoções e estatísticas.\n\nPara calcular uma porcentagem de um número, multiplica-se o valor pela taxa em forma decimal. Exemplo: 20% de 150 = 0,20 x 150 = 30. Para calcular o valor após um aumento, soma-se o percentual ao valor inicial. Exemplo: aumento de 10% sobre 200: novo valor = 200 + 20 = 220.\n\nNos descontos, subtrai-se a porcentagem do valor inicial. Exemplo: desconto de 15% em R$ 80: 0,15 x 80 = 12. Valor final = 68.\n\nUm cuidado importante são percentuais sucessivos. Dois aumentos de 10% não equivalem a um aumento único de 20% sobre o valor inicial se a pergunta comparar etapas, pois o segundo aumento incide sobre o valor já alterado. O mesmo vale para descontos sucessivos.\n\nTambém se pode descobrir a taxa percentual dividindo a parte pelo todo e multiplicando por 100. Exemplo: 18 acertos em 24 questões correspondem a 18/24 = 0,75 = 75%.\n\nA VUNESP gosta de cobrar problemas práticos e também equivalências rápidas. Saber que 10% é a décima parte, 1% é a centésima parte, 50% é metade e 25% é um quarto agiliza muito o cálculo.\n\nEm resumo, porcentagem é uma forma de comparar parte e todo em base 100. Quem domina conversão, aumento, desconto e taxa resolve a maioria das questões.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Porcentagem é uma razão cujo denominador é 100."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Para calcular x% de um valor, multiplica-se o valor por x/100. Aumento soma; desconto subtrai. Percentuais sucessivos incidem sobre valores atualizados."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra aumento, desconto, porcentagem de quantidade, interpretação de tabelas e problemas com taxas."
+    }
+  ],
+  "pontos_chave": [
+    "Porcentagem é razão sobre 100.",
+    "25% = 0,25 = 1/4.",
+    "Aumento e desconto exigem atenção ao valor de referência.",
+    "Taxa percentual pode ser calculada por parte/todo x 100.",
+    "Percentuais sucessivos merecem cuidado."
+  ],
+  "dicas_prova": [
+    "Transforme a taxa em decimal para facilitar a conta.",
+    "Identifique qual é o valor-base da porcentagem.",
+    "Memorize equivalências rápidas de 10%, 25%, 50% e 75%.",
+    "Pegadinhas clássicas da VUNESP: confundir porcentagem com pontos percentuais e errar valor-base."
+  ],
+  "exemplos": [
+    "10% de 300 = 30.",
+    "25% de 80 = 20.",
+    "Desconto de 20% em 50 deixa 40."
+  ],
+  "erros_comuns": [
+    "Aplicar a taxa sobre o valor errado.",
+    "Somar percentuais sucessivos sem analisar o novo valor.",
+    "Esquecer de converter porcentagem em decimal."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Quanto vale 50%?",
+      "resposta": "Metade."
+    },
+    {
+      "pergunta": "Quanto vale 25%?",
+      "resposta": "Um quarto."
+    },
+    {
+      "pergunta": "Como calcular x% de um valor?",
+      "resposta": "Multiplicando o valor por x/100."
+    },
+    {
+      "pergunta": "O que é valor-base?",
+      "resposta": "É o valor sobre o qual a porcentagem incide."
+    },
+    {
+      "pergunta": "Dois descontos sucessivos se somam diretamente?",
+      "resposta": "Não necessariamente."
+    },
+    {
+      "pergunta": "Como achar a porcentagem de acertos?",
+      "resposta": "Fazendo parte/todo x 100."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "20% de 250 é:",
+      "alternativas": [
+        "25",
+        "40",
+        "50",
+        "60"
+      ],
+      "correta": 2,
+      "explicacao": "0,20 x 250 = 50."
+    },
+    {
+      "enunciado": "Um produto de R$ 80 recebeu desconto de 25%. O novo preço é:",
+      "alternativas": [
+        "R$ 50",
+        "R$ 55",
+        "R$ 60",
+        "R$ 65"
+      ],
+      "correta": 2,
+      "explicacao": "25% de 80 = 20. Então 80 - 20 = 60."
+    },
+    {
+      "enunciado": "Um salário de R$ 1.500 teve aumento de 10%. O novo salário é:",
+      "alternativas": [
+        "R$ 1.550",
+        "R$ 1.600",
+        "R$ 1.650",
+        "R$ 1.700"
+      ],
+      "correta": 2,
+      "explicacao": "10% de 1.500 = 150. Novo salário = 1.650."
+    },
+    {
+      "enunciado": "Se uma pessoa acertou 18 de 24 questões, seu aproveitamento foi de:",
+      "alternativas": [
+        "60%",
+        "70%",
+        "75%",
+        "80%"
+      ],
+      "correta": 2,
+      "explicacao": "18/24 = 0,75 = 75%."
+    },
+    {
+      "enunciado": "5% de 200 é:",
+      "alternativas": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correta": 1,
+      "explicacao": "0,05 x 200 = 10."
+    },
+    {
+      "enunciado": "Qual fração equivale a 50%?",
+      "alternativas": [
+        "1/2",
+        "1/3",
+        "2/5",
+        "3/4"
+      ],
+      "correta": 0,
+      "explicacao": "50% = 50/100 = 1/2."
+    },
+    {
+      "enunciado": "Um produto sobe 20% sobre R$ 100. Seu preço passa a ser:",
+      "alternativas": [
+        "R$ 110",
+        "R$ 115",
+        "R$ 120",
+        "R$ 125"
+      ],
+      "correta": 2,
+      "explicacao": "20% de 100 = 20. Novo valor = 120."
+    },
+    {
+      "enunciado": "25% de 320 é:",
+      "alternativas": [
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "correta": 2,
+      "explicacao": "25% é um quarto. 320/4 = 80."
+    },
+    {
+      "enunciado": "A taxa percentual correspondente a 0,08 é:",
+      "alternativas": [
+        "0,8%",
+        "8%",
+        "18%",
+        "80%"
+      ],
+      "correta": 1,
+      "explicacao": "0,08 x 100 = 8%."
+    },
+    {
+      "enunciado": "A maior atenção em porcentagem deve ser com:",
+      "alternativas": [
+        "a cor do enunciado",
+        "o valor-base",
+        "o nome do produto",
+        "a ordem alfabética"
+      ],
+      "correta": 1,
+      "explicacao": "A taxa só tem sentido em relação ao valor de referência."
+    }
+  ]
+}

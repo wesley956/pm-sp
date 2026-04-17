@@ -1,0 +1,182 @@
+{
+  "id": "portugues-figuras-de-linguagem-001",
+  "name": "Figuras de linguagem",
+  "topico": "Figuras de linguagem",
+  "resumo": "Figuras de linguagem são recursos expressivos usados para dar mais força, beleza, emoção ou sentido ao texto. As mais cobradas pela VUNESP são metáfora, comparação, metonímia, personificação, hipérbole, ironia, eufemismo, antítese e paradoxo. A banca costuma exigir reconhecimento do efeito de sentido provocado por essas figuras.",
+  "teoria": "Figuras de linguagem são construções que fogem do uso mais neutro da linguagem para produzir efeito expressivo. Elas podem atuar no sentido, no som, na construção da frase ou no pensamento. Em concursos, especialmente na VUNESP, o foco costuma recair nas figuras de sentido e nas figuras de pensamento.\n\nA metáfora é uma comparação implícita. Exemplo: \"Aquele menino é uma fera nos estudos.\" Não quer dizer literalmente que ele é um animal feroz; significa que ele é muito bom. A comparação, por sua vez, torna essa relação explícita, normalmente com conectivos como \"como\", \"tal qual\" ou \"assim como\": \"Aquele menino estuda como uma máquina.\"\n\nA metonímia ocorre quando uma palavra é usada no lugar de outra por relação de proximidade. Exemplo: \"Li Machado de Assis\". Na verdade, a pessoa leu a obra do autor, e não o autor em si. A personificação, também chamada prosopopeia, acontece quando se atribuem características humanas a seres inanimados ou irracionais: \"O vento cantava na janela.\"\n\nA hipérbole é o exagero intencional: \"Esperei uma eternidade.\" A ironia expressa o contrário do que se quer dizer, geralmente com intenção crítica ou humorística: alguém toma chuva e diz \"Que dia lindo!\". O eufemismo suaviza uma ideia desagradável: \"Ele partiu\" em vez de \"Ele morreu\".\n\nA antítese aproxima ideias opostas: \"amor e ódio\", \"claro e escuro\". O paradoxo vai além e une ideias aparentemente contraditórias em uma mesma construção com efeito expressivo: \"É uma dor que desatina sem doer\".\n\nA VUNESP costuma cobrar tanto o nome da figura quanto o efeito que ela produz no texto. Muitas vezes a banca apresenta um trecho e pergunta que recurso expressivo foi empregado ou qual é o sentido pretendido. Por isso, não basta decorar definições; é preciso reconhecer a lógica da construção.\n\nEm resumo, as figuras de linguagem alteram o modo de dizer para intensificar o sentido. Elas são importantes em interpretação porque revelam tom, intenção, crítica, humor e subjetividade do autor.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Figuras de linguagem são recursos expressivos que modificam o uso comum da linguagem para produzir efeito de sentido, emoção, intensidade, humor ou crítica."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Metáfora é comparação implícita; comparação é explícita; metonímia é substituição por proximidade; personificação atribui traço humano a seres não humanos; hipérbole exagera; ironia diz o contrário do que parece; eufemismo suaviza; antítese aproxima opostos; paradoxo une opostos de modo expressivo."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP apresenta trechos e pede a identificação da figura ou do efeito de sentido. As mais exploradas são metáfora, ironia, hipérbole, personificação, eufemismo e antítese."
+    }
+  ],
+  "pontos_chave": [
+    "Metáfora é comparação implícita.",
+    "Ironia depende do contexto e diz o contrário do aparente.",
+    "Hipérbole trabalha com exagero intencional.",
+    "Personificação atribui traços humanos a seres não humanos.",
+    "A VUNESP cobra tanto o nome da figura quanto o efeito de sentido."
+  ],
+  "dicas_prova": [
+    "Observe se a expressão pode ser entendida literalmente ou só em sentido figurado.",
+    "Na ironia, compare a frase com a situação descrita.",
+    "Se houver exagero evidente, teste hipérbole.",
+    "Pegadinhas clássicas da VUNESP: confundir metáfora com comparação e antítese com paradoxo."
+  ],
+  "exemplos": [
+    "Metáfora: A vida é um sopro.",
+    "Hipérbole: Estou morrendo de fome.",
+    "Personificação: A cidade acordou triste."
+  ],
+  "erros_comuns": [
+    "Chamar toda expressão figurada de metáfora.",
+    "Confundir comparação explícita com metáfora.",
+    "Não perceber a ironia por falta de atenção ao contexto."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é metáfora?",
+      "resposta": "É uma comparação implícita entre dois elementos."
+    },
+    {
+      "pergunta": "O que é hipérbole?",
+      "resposta": "É o exagero intencional para dar força expressiva."
+    },
+    {
+      "pergunta": "O que é ironia?",
+      "resposta": "É dizer o contrário do que se quer sugerir, geralmente com crítica ou humor."
+    },
+    {
+      "pergunta": "O que é personificação?",
+      "resposta": "É atribuir características humanas a seres não humanos."
+    },
+    {
+      "pergunta": "O que é metonímia?",
+      "resposta": "É a substituição de um termo por outro ligado a ele por proximidade."
+    },
+    {
+      "pergunta": "Qual a diferença entre antítese e paradoxo?",
+      "resposta": "Antítese aproxima opostos; paradoxo une ideias contraditórias numa construção expressiva."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Em 'Estou morrendo de sono', há:",
+      "alternativas": [
+        "eufemismo",
+        "hipérbole",
+        "metonímia",
+        "ironia"
+      ],
+      "correta": 1,
+      "explicacao": "A frase usa exagero intencional, característica da hipérbole."
+    },
+    {
+      "enunciado": "Em 'O vento sussurrava à noite', ocorre:",
+      "alternativas": [
+        "personificação",
+        "metáfora",
+        "paradoxo",
+        "aliteração"
+      ],
+      "correta": 0,
+      "explicacao": "Atribui-se ao vento uma ação humana, o que caracteriza personificação."
+    },
+    {
+      "enunciado": "Em 'Li Graciliano Ramos nas férias', ocorre:",
+      "alternativas": [
+        "metáfora",
+        "metonímia",
+        "comparação",
+        "hipérbole"
+      ],
+      "correta": 1,
+      "explicacao": "O autor aparece no lugar de sua obra, relação típica de metonímia."
+    },
+    {
+      "enunciado": "Em 'Seu coração é de pedra', há:",
+      "alternativas": [
+        "comparação",
+        "metáfora",
+        "ironia",
+        "antítese"
+      ],
+      "correta": 1,
+      "explicacao": "Há comparação implícita, sem conectivo comparativo."
+    },
+    {
+      "enunciado": "A ironia se caracteriza por:",
+      "alternativas": [
+        "suavizar uma ideia ruim",
+        "dizer exatamente o que pensa",
+        "sugerir o contrário do que parece dizer",
+        "repetir o mesmo som"
+      ],
+      "correta": 2,
+      "explicacao": "Na ironia, o sentido real se opõe ao sentido literal aparente."
+    },
+    {
+      "enunciado": "Em 'Ele descansou em paz', como substituição de 'morreu', há:",
+      "alternativas": [
+        "eufemismo",
+        "hipérbole",
+        "paradoxo",
+        "metonímia"
+      ],
+      "correta": 0,
+      "explicacao": "O eufemismo suaviza uma ideia desagradável."
+    },
+    {
+      "enunciado": "A comparação explícita costuma apresentar:",
+      "alternativas": [
+        "oposição de ideias",
+        "conectivo comparativo",
+        "exagero",
+        "substituição por proximidade"
+      ],
+      "correta": 1,
+      "explicacao": "Palavras como 'como', 'tal qual' e 'assim como' costumam marcar comparação."
+    },
+    {
+      "enunciado": "Em 'amor e ódio caminham juntos', a figura é:",
+      "alternativas": [
+        "paradoxo",
+        "antítese",
+        "personificação",
+        "eufemismo"
+      ],
+      "correta": 1,
+      "explicacao": "A antítese aproxima ideias opostas."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar figuras de linguagem principalmente para avaliar:",
+      "alternativas": [
+        "conjugação verbal",
+        "efeito de sentido",
+        "ortografia histórica",
+        "morfologia nominal"
+      ],
+      "correta": 1,
+      "explicacao": "A banca quer saber que efeito expressivo a figura produz no texto."
+    },
+    {
+      "enunciado": "Assinale a alternativa que melhor define paradoxo.",
+      "alternativas": [
+        "Exagero claro",
+        "União expressiva de ideias contraditórias",
+        "Comparação explícita",
+        "Suavização de ideia desagradável"
+      ],
+      "correta": 1,
+      "explicacao": "O paradoxo reúne ideias aparentemente inconciliáveis numa mesma formulação."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-tecnologia-001",
+  "name": "Tecnologia",
+  "topico": "Tecnologia",
+  "resumo": "Tecnologia em atualidades envolve transformação digital, inteligência artificial, conectividade, plataformas, segurança da informação, automação e impacto social das inovações. A VUNESP cobra compreensão geral dos efeitos da tecnologia na economia, no trabalho, na comunicação e na vida cotidiana.",
+  "teoria": "Tecnologia é um tema central das atualidades porque influencia trabalho, educação, comunicação, segurança, saúde, transporte e economia. A transformação digital acelerou a circulação de dados, ampliou serviços online e mudou hábitos cotidianos.\n\nEntre os temas mais recorrentes estão inteligência artificial, automação, plataformas digitais, redes sociais, cibersegurança, proteção de dados, inclusão digital e impacto da tecnologia no mercado de trabalho. Ao mesmo tempo em que amplia produtividade e acesso a serviços, a tecnologia também pode gerar exclusão, dependência e novos riscos, como desinformação e crimes digitais.\n\nA VUNESP costuma cobrar a leitura equilibrada do tema: tecnologia pode trazer inovação e eficiência, mas também exige regulação, proteção de dados, educação digital e atenção às desigualdades de acesso.\n\nEm resumo, a tecnologia em atualidades deve ser vista como força de transformação com efeitos positivos e desafios sociais importantes.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Tecnologia é o conjunto de técnicas, sistemas e inovações aplicados à produção, comunicação e organização da vida social."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É importante compreender transformação digital, automação, inteligência artificial, inclusão digital e segurança da informação."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra impactos da tecnologia no trabalho, na comunicação, na segurança e na desigualdade de acesso."
+    }
+  ],
+  "pontos_chave": [
+    "Tecnologia transforma trabalho e comunicação.",
+    "Inteligência artificial é tema recorrente.",
+    "Segurança da informação e proteção de dados são importantes.",
+    "Automação pode alterar o mercado de trabalho.",
+    "Acesso à tecnologia é desigual."
+  ],
+  "dicas_prova": [
+    "Analise tecnologia de forma equilibrada, sem idealizar nem demonizar.",
+    "Relacione inovação a impacto social.",
+    "Lembre de inclusão digital e proteção de dados.",
+    "Pegadinhas clássicas da VUNESP: tratar tecnologia como benefício automático para todos."
+  ],
+  "exemplos": [
+    "A IA pode aumentar produtividade, mas também levantar debates sobre emprego e ética.",
+    "Crimes digitais mostram a importância da cibersegurança.",
+    "A exclusão digital limita acesso a oportunidades e serviços."
+  ],
+  "erros_comuns": [
+    "Ver tecnologia como neutra em todos os contextos.",
+    "Ignorar desigualdades de acesso.",
+    "Focar apenas no avanço técnico e esquecer impactos sociais."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Tecnologia em atualidades envolve o quê?",
+      "resposta": "Transformação digital, IA, automação, conectividade e segurança da informação."
+    },
+    {
+      "pergunta": "Inteligência artificial é tema atual?",
+      "resposta": "Sim, muito relevante."
+    },
+    {
+      "pergunta": "O que é exclusão digital?",
+      "resposta": "Desigualdade no acesso a tecnologias e conectividade."
+    },
+    {
+      "pergunta": "Segurança da informação é importante?",
+      "resposta": "Sim, especialmente no mundo conectado."
+    },
+    {
+      "pergunta": "Tecnologia afeta o trabalho?",
+      "resposta": "Sim, por meio da automação e da digitalização."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra o tema?",
+      "resposta": "Pelos impactos sociais, econômicos e comunicacionais da tecnologia."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A tecnologia em atualidades está ligada a:",
+      "alternativas": [
+        "transformações sociais e econômicas",
+        "somente literatura clássica",
+        "apenas clima",
+        "somente geometria"
+      ],
+      "correta": 0,
+      "explicacao": "A tecnologia afeta várias dimensões da vida social e econômica."
+    },
+    {
+      "enunciado": "A inteligência artificial é importante porque:",
+      "alternativas": [
+        "não tem impacto social",
+        "faz parte das inovações tecnológicas atuais",
+        "acabou com a internet",
+        "eliminou todo trabalho humano"
+      ],
+      "correta": 1,
+      "explicacao": "A IA é um dos temas centrais das transformações tecnológicas recentes."
+    },
+    {
+      "enunciado": "A exclusão digital refere-se a:",
+      "alternativas": [
+        "igualdade total de acesso",
+        "falta de acesso ou desigualdade de acesso à tecnologia",
+        "fim da internet",
+        "somente uso de impressoras"
+      ],
+      "correta": 1,
+      "explicacao": "Nem todos têm o mesmo acesso a redes, equipamentos e recursos digitais."
+    },
+    {
+      "enunciado": "A automação pode impactar:",
+      "alternativas": [
+        "somente o clima",
+        "o mercado de trabalho",
+        "apenas a vegetação",
+        "somente a história antiga"
+      ],
+      "correta": 1,
+      "explicacao": "A automação altera funções, produtividade e dinâmica do emprego."
+    },
+    {
+      "enunciado": "Cibersegurança se relaciona a:",
+      "alternativas": [
+        "proteção de sistemas e dados",
+        "somente transporte marítimo",
+        "apenas agricultura",
+        "somente poesia"
+      ],
+      "correta": 0,
+      "explicacao": "A segurança digital tornou-se essencial na era das redes."
+    },
+    {
+      "enunciado": "A VUNESP costuma tratar tecnologia como:",
+      "alternativas": [
+        "tema com impactos positivos e desafios",
+        "assunto irrelevante",
+        "fenômeno apenas natural",
+        "tema sem efeitos sociais"
+      ],
+      "correta": 0,
+      "explicacao": "A banca tende a trabalhar a tecnologia com visão equilibrada."
+    },
+    {
+      "enunciado": "Um erro comum sobre tecnologia é:",
+      "alternativas": [
+        "observar impactos sociais",
+        "pensar que beneficia igualmente todos os grupos",
+        "relacioná-la ao trabalho",
+        "estudar segurança da informação"
+      ],
+      "correta": 1,
+      "explicacao": "O acesso e os benefícios são desiguais."
+    },
+    {
+      "enunciado": "Proteção de dados é tema importante porque:",
+      "alternativas": [
+        "o ambiente digital envolve circulação de informações pessoais",
+        "dados não têm valor",
+        "internet não usa dados",
+        "não existe risco digital"
+      ],
+      "correta": 0,
+      "explicacao": "A circulação intensa de dados exige cuidado e regulação."
+    },
+    {
+      "enunciado": "A transformação digital impacta:",
+      "alternativas": [
+        "comunicação, serviços e trabalho",
+        "somente a música erudita",
+        "apenas a vegetação",
+        "somente zonas rurais isoladas"
+      ],
+      "correta": 0,
+      "explicacao": "O impacto da digitalização é amplo e cotidiano."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "analisar tecnologia e seus efeitos sociais",
+        "decorar nomes de aplicativos",
+        "ignorar desigualdades",
+        "responder sem contexto"
+      ],
+      "correta": 0,
+      "explicacao": "A leitura crítica e contextualizada é o núcleo do tema."
+    }
+  ]
+}

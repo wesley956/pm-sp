@@ -1,0 +1,182 @@
+{
+  "id": "geografia-meio-ambiente-001",
+  "name": "Meio ambiente",
+  "topico": "Meio ambiente",
+  "resumo": "Meio ambiente envolve a relação entre natureza e ação humana. A VUNESP cobra desmatamento, poluição, queimadas, uso de recursos naturais, sustentabilidade, mudanças climáticas e impactos ambientais no Brasil e no mundo.",
+  "teoria": "O meio ambiente reúne elementos naturais e a interação humana com eles. Nas últimas décadas, os impactos ambientais tornaram-se tema central pela expansão econômica, urbana e industrial.\n\nEntre os principais problemas ambientais estão desmatamento, poluição do ar e da água, queimadas, erosão, contaminação do solo, perda de biodiversidade e mudanças climáticas. No Brasil, esses problemas se manifestam em diferentes biomas, como Amazônia, Cerrado, Pantanal e Mata Atlântica.\n\nA noção de sustentabilidade busca conciliar desenvolvimento econômico, justiça social e preservação ambiental. Isso envolve uso racional dos recursos, energia limpa, saneamento, conservação e políticas públicas.\n\nA VUNESP costuma cobrar impactos ambientais, causas e consequências, além de relação entre atividades humanas e degradação do espaço. O candidato deve entender que o ambiente não é só natureza intocada, mas um sistema em interação com a sociedade.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Meio ambiente é o conjunto de elementos naturais e das relações humanas com eles."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Problemas ambientais decorrem de formas inadequadas de uso do espaço e dos recursos. Sustentabilidade propõe equilíbrio entre uso econômico e preservação."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra desmatamento, poluição, queimadas, biomas, sustentabilidade e mudanças climáticas."
+    }
+  ],
+  "pontos_chave": [
+    "Meio ambiente envolve natureza e ação humana.",
+    "Desmatamento e poluição são problemas centrais.",
+    "Sustentabilidade busca equilíbrio entre desenvolvimento e preservação.",
+    "Mudanças climáticas têm efeitos globais e locais.",
+    "No Brasil, biomas sofrem pressões específicas."
+  ],
+  "dicas_prova": [
+    "Associe problema ambiental a causa e consequência.",
+    "Lembre dos principais biomas brasileiros e suas pressões.",
+    "Não trate meio ambiente como tema apenas natural; inclua ação humana.",
+    "Pegadinhas clássicas da VUNESP: separar ambiente e sociedade."
+  ],
+  "exemplos": [
+    "Queimadas afetam biodiversidade e qualidade do ar.",
+    "Desmatamento altera o regime hídrico e o equilíbrio ecológico.",
+    "Saneamento insuficiente compromete rios e saúde pública."
+  ],
+  "erros_comuns": [
+    "Pensar meio ambiente como natureza sem relação com sociedade.",
+    "Reduzir sustentabilidade a simples preservação sem desenvolvimento.",
+    "Ignorar impactos sociais dos problemas ambientais."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é meio ambiente?",
+      "resposta": "É o conjunto de elementos naturais e das relações humanas com eles."
+    },
+    {
+      "pergunta": "O que é sustentabilidade?",
+      "resposta": "É o uso equilibrado dos recursos com preservação e justiça social."
+    },
+    {
+      "pergunta": "Qual um problema ambiental central no Brasil?",
+      "resposta": "Desmatamento."
+    },
+    {
+      "pergunta": "Queimadas geram quais impactos?",
+      "resposta": "Perda de biodiversidade e piora da qualidade do ar."
+    },
+    {
+      "pergunta": "Mudanças climáticas são tema ambiental?",
+      "resposta": "Sim, e com forte impacto geográfico."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra meio ambiente?",
+      "resposta": "Por causas, consequências e relação entre sociedade e natureza."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "O meio ambiente envolve:",
+      "alternativas": [
+        "somente árvores",
+        "somente rios",
+        "natureza e ação humana",
+        "somente o clima"
+      ],
+      "correta": 2,
+      "explicacao": "A abordagem ambiental inclui relações entre sociedade e natureza."
+    },
+    {
+      "enunciado": "Um problema ambiental frequente no Brasil é:",
+      "alternativas": [
+        "desmatamento",
+        "ausência de biomas",
+        "fim da biodiversidade mundial completa",
+        "eliminação das chuvas"
+      ],
+      "correta": 0,
+      "explicacao": "O desmatamento é uma questão central em vários biomas brasileiros."
+    },
+    {
+      "enunciado": "Sustentabilidade significa:",
+      "alternativas": [
+        "explorar sem limites",
+        "equilibrar uso econômico e preservação",
+        "impedir toda atividade humana",
+        "abandonar toda tecnologia"
+      ],
+      "correta": 1,
+      "explicacao": "A sustentabilidade busca conciliar desenvolvimento e preservação."
+    },
+    {
+      "enunciado": "As queimadas podem causar:",
+      "alternativas": [
+        "melhoria imediata do ar",
+        "perda de biodiversidade",
+        "eliminação dos problemas ambientais",
+        "formação de rios"
+      ],
+      "correta": 1,
+      "explicacao": "Elas afetam ecossistemas e pioram a qualidade do ar."
+    },
+    {
+      "enunciado": "A poluição da água pode estar ligada a:",
+      "alternativas": [
+        "saneamento precário",
+        "proteção total dos rios",
+        "ausência de cidades",
+        "chuva apenas"
+      ],
+      "correta": 0,
+      "explicacao": "Falta de saneamento é uma causa importante de poluição hídrica."
+    },
+    {
+      "enunciado": "As mudanças climáticas representam:",
+      "alternativas": [
+        "fenômeno sem relação humana",
+        "tema ambiental de grande escala",
+        "problema apenas local de um bairro",
+        "assunto sem efeitos sociais"
+      ],
+      "correta": 1,
+      "explicacao": "Trata-se de questão ambiental com impactos amplos."
+    },
+    {
+      "enunciado": "A VUNESP costuma tratar o meio ambiente como:",
+      "alternativas": [
+        "tema isolado da sociedade",
+        "tema integrado à ação humana",
+        "assunto apenas botânico",
+        "tema sem relação econômica"
+      ],
+      "correta": 1,
+      "explicacao": "A banca costuma relacionar ambiente, economia e ação social."
+    },
+    {
+      "enunciado": "Um erro comum ao estudar meio ambiente é:",
+      "alternativas": [
+        "relacionar sociedade e natureza",
+        "analisar causas e efeitos",
+        "separar ambiente da ação humana",
+        "estudar biomas"
+      ],
+      "correta": 2,
+      "explicacao": "A questão ambiental depende justamente dessa interação."
+    },
+    {
+      "enunciado": "O desmatamento pode afetar:",
+      "alternativas": [
+        "apenas árvores",
+        "o clima e os recursos hídricos",
+        "somente a paisagem estética",
+        "nada além do solo"
+      ],
+      "correta": 1,
+      "explicacao": "Há impactos amplos no clima, água, biodiversidade e sociedade."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "ligar problema, causa e consequência",
+        "decorar nomes sem contexto",
+        "fazer regra de três",
+        "ignorar a ação humana"
+      ],
+      "correta": 0,
+      "explicacao": "Esse encadeamento ajuda a responder a maior parte das questões."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "matematica-media-aritmetica-001",
+  "name": "Média aritmética",
+  "topico": "Média aritmética",
+  "resumo": "Média aritmética é a soma dos valores dividida pela quantidade de valores. A VUNESP cobra média simples, média ponderada básica e problemas em que se pede valor faltante para atingir determinada média.",
+  "teoria": "Média aritmética simples é o quociente entre a soma dos valores e a quantidade de valores. Exemplo: a média de 6, 8 e 10 é (6 + 8 + 10) ÷ 3 = 8.\n\nEsse conceito aparece em notas, salários, idades, pontuações e dados estatísticos. A interpretação correta é importante: a média representa um valor de equilíbrio.\n\nTambém pode surgir a média ponderada, em que cada valor possui um peso. Exemplo: se uma prova vale peso 2 e outra vale peso 3, a média depende desses pesos. Embora o edital básico cobre muito a média simples, a VUNESP pode explorar peso em situações práticas.\n\nOutro tipo comum de questão pede valor desconhecido. Exemplo: a média de 4 números é 7. Se três deles são 5, 7 e 8, qual é o quarto? Primeiro calcula-se a soma total: 4 x 7 = 28. Depois subtrai-se a soma conhecida: 28 - 20 = 8.\n\nA banca também gosta de misturar média com tabelas e contexto. Por isso, o candidato deve organizar os dados antes de somar.\n\nEm resumo, média aritmética depende de três passos: somar corretamente, contar quantos valores existem e dividir pelo total de valores.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Média aritmética simples é a soma dos valores dividida pela quantidade de valores."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Some todos os dados, conte quantos são e divida. Em problemas com valor faltante, use a soma total correspondente à média desejada."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra média de notas, idades, salários, quantidades e problemas com valor desconhecido."
+    }
+  ],
+  "pontos_chave": [
+    "Média = soma ÷ quantidade.",
+    "É preciso contar corretamente a quantidade de termos.",
+    "Média não é o maior nem o menor valor.",
+    "Valor faltante pode ser achado pela soma total.",
+    "Organização dos dados evita erro."
+  ],
+  "dicas_prova": [
+    "Some com calma antes de dividir.",
+    "Confira quantos termos realmente entram na média.",
+    "Em questão com incógnita, calcule a soma total desejada.",
+    "Pegadinhas clássicas da VUNESP: esquecer um valor ou dividir por quantidade errada."
+  ],
+  "exemplos": [
+    "Média de 4, 6 e 8 = 6.",
+    "Se a média de 5 números é 10, a soma é 50.",
+    "Para média 7 em 4 notas, a soma total deve ser 28."
+  ],
+  "erros_comuns": [
+    "Dividir pela quantidade errada.",
+    "Esquecer um dos dados da soma.",
+    "Confundir média com moda ou mediana."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Como calcular a média simples?",
+      "resposta": "Somando os valores e dividindo pela quantidade."
+    },
+    {
+      "pergunta": "Se a média de 5 números é 8, qual é a soma?",
+      "resposta": "40."
+    },
+    {
+      "pergunta": "Média é o maior valor?",
+      "resposta": "Não necessariamente."
+    },
+    {
+      "pergunta": "O que fazer em média com valor faltante?",
+      "resposta": "Usar a soma total esperada e descobrir o termo que falta."
+    },
+    {
+      "pergunta": "Qual erro comum em média?",
+      "resposta": "Dividir por quantidade errada."
+    },
+    {
+      "pergunta": "Onde média cai muito?",
+      "resposta": "Em notas, idades e dados estatísticos."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A média aritmética de 4, 6 e 8 é:",
+      "alternativas": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correta": 1,
+      "explicacao": "Somando: 4 + 6 + 8 = 18. Dividindo por 3: 6."
+    },
+    {
+      "enunciado": "A média de 10, 12, 14 e 16 é:",
+      "alternativas": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correta": 1,
+      "explicacao": "Soma = 52. 52 ÷ 4 = 13."
+    },
+    {
+      "enunciado": "Se a média de 5 números é 9, a soma desses números é:",
+      "alternativas": [
+        "36",
+        "40",
+        "45",
+        "50"
+      ],
+      "correta": 2,
+      "explicacao": "Soma = média x quantidade = 9 x 5 = 45."
+    },
+    {
+      "enunciado": "As notas 6, 7, 8 e x têm média 7. O valor de x é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 1,
+      "explicacao": "Soma total = 4 x 7 = 28. Soma conhecida = 21. Logo, x = 7."
+    },
+    {
+      "enunciado": "A média de 3, 5, 7, 9 e 11 é:",
+      "alternativas": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correta": 1,
+      "explicacao": "Soma = 35. 35 ÷ 5 = 7."
+    },
+    {
+      "enunciado": "Se três idades têm média 20 anos, então a soma delas é:",
+      "alternativas": [
+        "40",
+        "50",
+        "60",
+        "70"
+      ],
+      "correta": 2,
+      "explicacao": "20 x 3 = 60."
+    },
+    {
+      "enunciado": "Uma média aritmética é sempre:",
+      "alternativas": [
+        "o menor valor do conjunto",
+        "a soma dos valores",
+        "a soma dividida pela quantidade",
+        "o valor mais repetido"
+      ],
+      "correta": 2,
+      "explicacao": "Essa é a definição de média aritmética."
+    },
+    {
+      "enunciado": "Se a média de 2 números é 15 e um deles é 11, o outro é:",
+      "alternativas": [
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "correta": 2,
+      "explicacao": "Soma total = 30. Então o outro é 30 - 11 = 19."
+    },
+    {
+      "enunciado": "Qual é a média de 2, 2, 6 e 10?",
+      "alternativas": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correta": 1,
+      "explicacao": "Soma = 20. Dividindo por 4: 5."
+    },
+    {
+      "enunciado": "A principal atenção em média é:",
+      "alternativas": [
+        "somar e contar corretamente",
+        "decorar palavras difíceis",
+        "escolher o maior número",
+        "multiplicar tudo"
+      ],
+      "correta": 0,
+      "explicacao": "Sem soma e contagem corretas, a média sai errada."
+    }
+  ]
+}

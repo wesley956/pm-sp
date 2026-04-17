@@ -1,0 +1,182 @@
+{
+  "id": "geografia-problemas-sociais-001",
+  "name": "Problemas sociais",
+  "topico": "Problemas sociais",
+  "resumo": "Problemas sociais envolvem desigualdade, pobreza, exclusão, violência, desemprego, déficit de moradia, falta de saneamento e dificuldades de acesso a direitos básicos. A VUNESP cobra esses temas ligados à organização do espaço e às condições de vida da população.",
+  "teoria": "Problemas sociais são dificuldades estruturais que afetam o bem-estar da população e revelam desigualdades na organização do espaço. No Brasil, eles se expressam em renda, moradia, saúde, educação, segurança, mobilidade e acesso a serviços.\n\nA desigualdade social é uma das marcas centrais do país. Ela se manifesta na distribuição de renda, na segregação urbana, na informalidade do trabalho, no acesso desigual a oportunidades e na concentração de infraestrutura em áreas mais valorizadas.\n\nPobreza, desemprego, subemprego, violência urbana, déficit habitacional e saneamento precário são temas recorrentes. A Geografia analisa esses problemas espacialmente, ou seja, em sua distribuição pelo território e em sua relação com políticas públicas e dinâmica econômica.\n\nA VUNESP costuma cobrar a ligação entre urbanização desigual e problemas sociais, mostrando que o espaço urbano expressa desigualdades históricas e econômicas.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Problemas sociais são dificuldades estruturais que afetam a qualidade de vida da população."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Eles se relacionam à desigualdade, à má distribuição de recursos e à organização do espaço. Devem ser entendidos como fenômenos sociais e territoriais."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra desigualdade, pobreza, violência, moradia, saneamento e exclusão urbana."
+    }
+  ],
+  "pontos_chave": [
+    "Desigualdade social é um problema estrutural no Brasil.",
+    "Pobreza e exclusão têm dimensão espacial.",
+    "Moradia, saneamento e segurança aparecem com frequência.",
+    "O espaço urbano revela desigualdades sociais.",
+    "Problemas sociais não são fenômenos isolados."
+  ],
+  "dicas_prova": [
+    "Associe problemas sociais à desigualdade e ao território.",
+    "Pense nos efeitos da urbanização desigual.",
+    "Observe como falta de infraestrutura afeta a população.",
+    "Pegadinhas clássicas da VUNESP: tratar problema social como questão individual, e não estrutural."
+  ],
+  "exemplos": [
+    "Periferias com pouco saneamento revelam desigualdade socioespacial.",
+    "Déficit habitacional está ligado à falta de acesso à moradia adequada.",
+    "Violência urbana se relaciona a diversos fatores sociais e espaciais."
+  ],
+  "erros_comuns": [
+    "Explicar problema social de forma simplista e individual.",
+    "Ignorar a dimensão territorial da desigualdade.",
+    "Separar totalmente economia, espaço e questão social."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que são problemas sociais?",
+      "resposta": "São dificuldades estruturais que afetam a vida da população."
+    },
+    {
+      "pergunta": "Qual um problema social central no Brasil?",
+      "resposta": "Desigualdade social."
+    },
+    {
+      "pergunta": "Saneamento precário é problema social?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "A geografia analisa problemas sociais como?",
+      "resposta": "Também pela sua distribuição no espaço."
+    },
+    {
+      "pergunta": "Moradia inadequada se relaciona a quê?",
+      "resposta": "Déficit habitacional e desigualdade."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra o tema?",
+      "resposta": "Ligando desigualdade, urbanização e condições de vida."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Um problema social importante no Brasil é:",
+      "alternativas": [
+        "igualdade de renda plena",
+        "desigualdade social",
+        "ausência total de pobreza",
+        "fim do déficit habitacional"
+      ],
+      "correta": 1,
+      "explicacao": "A desigualdade social é uma marca estrutural da realidade brasileira."
+    },
+    {
+      "enunciado": "O saneamento precário afeta principalmente:",
+      "alternativas": [
+        "a saúde pública",
+        "somente o turismo",
+        "apenas a estética da cidade",
+        "somente o trânsito"
+      ],
+      "correta": 0,
+      "explicacao": "A falta de saneamento compromete saúde, ambiente e qualidade de vida."
+    },
+    {
+      "enunciado": "A segregação urbana está relacionada a:",
+      "alternativas": [
+        "distribuição igualitária de infraestrutura",
+        "separação espacial de grupos sociais",
+        "ausência de cidades",
+        "somente clima"
+      ],
+      "correta": 1,
+      "explicacao": "A segregação urbana expressa desigualdade espacial entre grupos sociais."
+    },
+    {
+      "enunciado": "O déficit habitacional refere-se à:",
+      "alternativas": [
+        "falta ou inadequação de moradias",
+        "produção agrícola",
+        "escassez de florestas",
+        "falta de rodovias apenas"
+      ],
+      "correta": 0,
+      "explicacao": "O conceito envolve carência de moradia adequada."
+    },
+    {
+      "enunciado": "A VUNESP costuma relacionar problemas sociais a:",
+      "alternativas": [
+        "organização do espaço e desigualdade",
+        "somente fenômenos naturais",
+        "somente matemática",
+        "somente literatura"
+      ],
+      "correta": 0,
+      "explicacao": "A abordagem geográfica liga questões sociais ao território."
+    },
+    {
+      "enunciado": "Um erro comum ao analisar problemas sociais é:",
+      "alternativas": [
+        "considerar fatores estruturais",
+        "observar desigualdades",
+        "tratar tudo como responsabilidade individual",
+        "estudar o espaço urbano"
+      ],
+      "correta": 2,
+      "explicacao": "Problemas sociais têm causas estruturais e coletivas."
+    },
+    {
+      "enunciado": "A pobreza tem dimensão geográfica porque:",
+      "alternativas": [
+        "não aparece no espaço",
+        "distribui-se desigualmente no território",
+        "não se relaciona com cidades",
+        "depende apenas do clima"
+      ],
+      "correta": 1,
+      "explicacao": "A geografia observa como a pobreza se manifesta em diferentes áreas e contextos."
+    },
+    {
+      "enunciado": "Violência urbana pode ser tratada em geografia porque:",
+      "alternativas": [
+        "não tem relação com espaço",
+        "se relaciona à organização socioespacial",
+        "é tema apenas biológico",
+        "não afeta a cidade"
+      ],
+      "correta": 1,
+      "explicacao": "A violência também se relaciona a desigualdades e à produção do espaço urbano."
+    },
+    {
+      "enunciado": "A urbanização desigual contribui para:",
+      "alternativas": [
+        "melhoria automática da cidade",
+        "redução imediata de todos os problemas sociais",
+        "ampliação de problemas socioespaciais",
+        "fim das periferias"
+      ],
+      "correta": 2,
+      "explicacao": "Crescimento urbano sem planejamento tende a ampliar desigualdades."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "ligar sociedade, desigualdade e espaço",
+        "apenas memorizar siglas",
+        "ignorar infraestrutura",
+        "resolver somente cálculo"
+      ],
+      "correta": 0,
+      "explicacao": "Essa visão integrada é central na análise geográfica dos problemas sociais."
+    }
+  ]
+}

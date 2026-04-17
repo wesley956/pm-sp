@@ -1,0 +1,182 @@
+{
+  "id": "portugues-sentido-literal-e-figurado-001",
+  "name": "Sentido literal e figurado",
+  "topico": "Sentido literal e figurado",
+  "resumo": "Sentido literal é o significado básico, direto e objetivo das palavras. Sentido figurado é o uso não literal, com ampliação, desvio ou efeito expressivo. A VUNESP cobra muito a capacidade de perceber quando uma expressão deve ser entendida ao pé da letra e quando deve ser interpretada de forma simbólica, metafórica ou contextual.",
+  "teoria": "O sentido literal, também chamado denotativo, é o sentido mais comum, objetivo e dicionarizado da palavra. Exemplo: \"A porta está aberta.\" Aqui, a palavra \"porta\" designa o objeto físico. Já o sentido figurado, ou conotativo, surge quando a palavra é usada além do seu significado básico, adquirindo valor expressivo conforme o contexto. Exemplo: \"Ele abriu as portas para o sucesso.\" Nesse caso, \"portas\" não se refere a objeto físico, mas a oportunidades.\n\nEm interpretação de texto, perceber a diferença entre literal e figurado é essencial. Muitas questões da VUNESP exigem que o candidato entenda o efeito de expressões figuradas, ditados, metáforas ou frases construídas de modo simbólico. O erro comum é interpretar literalmente uma passagem figurada ou, ao contrário, tentar forçar sentido figurado onde o texto está sendo objetivo.\n\nO sentido figurado aparece com frequência em textos literários, crônicas, tirinhas, charges, publicidade e até em textos opinativos. Ele torna a linguagem mais expressiva, mais subjetiva e mais rica em efeitos de sentido. Em contrapartida, textos técnicos e informativos tendem a usar mais o sentido literal, justamente porque precisam de clareza e precisão.\n\nExemplo de literal: \"O menino quebrou o copo.\" Exemplo de figurado: \"A notícia quebrou o clima da reunião.\" No segundo caso, não se quebrou algo fisicamente; houve uma ruptura no ambiente emocional.\n\nA VUNESP costuma formular perguntas como: \"A expressão foi empregada em sentido figurado porque...\", \"No contexto, o termo assume sentido não literal...\", ou \"A frase deve ser entendida em sentido literal/figurado\". Para resolver, é preciso observar o contexto e verificar se o significado básico funciona na frase. Se não funcionar, é provável que haja sentido figurado.\n\nEm resumo, literal é direto; figurado é contextual e expressivo. A chave está em testar se o sentido básico da palavra faz sentido no enunciado ou se o contexto exige interpretação mais ampla.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Sentido literal é o significado direto e objetivo da palavra. Sentido figurado é o uso contextual e expressivo, que se afasta do significado básico."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "O sentido literal predomina em textos técnicos, informativos e objetivos. O figurado aparece com frequência em linguagem literária, publicitária, humorística e opinativa. O contexto é o principal critério para distinguir os dois."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP apresenta expressões e pergunta se o uso é literal ou figurado, além de cobrar o efeito de sentido produzido. Muitas vezes a banca usa tirinhas, crônicas e textos curtos para explorar duplo sentido e interpretação contextual."
+    }
+  ],
+  "pontos_chave": [
+    "Sentido literal é direto e objetivo.",
+    "Sentido figurado depende do contexto.",
+    "Nem toda palavra tem o mesmo valor em todos os textos.",
+    "Textos literários usam mais linguagem figurada.",
+    "A VUNESP cobra o reconhecimento do efeito de sentido."
+  ],
+  "dicas_prova": [
+    "Teste o significado básico da palavra na frase.",
+    "Se o sentido comum não funcionar, procure interpretação figurada.",
+    "Observe gênero textual: tirinhas e crônicas costumam explorar linguagem figurada.",
+    "Pegadinhas clássicas da VUNESP: tomar metáfora ao pé da letra ou buscar duplo sentido onde não existe."
+  ],
+  "exemplos": [
+    "Literal: O vidro da janela quebrou.",
+    "Figurado: A derrota quebrou o time emocionalmente.",
+    "Figurado: Ela tem um coração de ouro."
+  ],
+  "erros_comuns": [
+    "Interpretar expressão idiomática de modo literal.",
+    "Ignorar o contexto e recorrer só ao dicionário mental da palavra.",
+    "Achar que toda frase bonita ou diferente é obrigatoriamente figurada."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é sentido literal?",
+      "resposta": "É o significado direto e objetivo da palavra."
+    },
+    {
+      "pergunta": "O que é sentido figurado?",
+      "resposta": "É o significado contextual e expressivo, diferente do sentido básico."
+    },
+    {
+      "pergunta": "Qual é o principal critério para distinguir literal e figurado?",
+      "resposta": "O contexto da frase ou do texto."
+    },
+    {
+      "pergunta": "Onde o sentido figurado aparece muito?",
+      "resposta": "Em textos literários, crônicas, tirinhas, charges e publicidade."
+    },
+    {
+      "pergunta": "A VUNESP cobra literal e figurado como?",
+      "resposta": "Pedindo o sentido de expressões no contexto."
+    },
+    {
+      "pergunta": "Como testar se há sentido figurado?",
+      "resposta": "Verificando se o sentido básico da palavra funciona naquela frase."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Na frase 'A notícia caiu como uma bomba', a expressão está em sentido:",
+      "alternativas": [
+        "literal",
+        "figurado",
+        "técnico",
+        "científico"
+      ],
+      "correta": 1,
+      "explicacao": "A expressão não se refere a bomba real, mas ao impacto da notícia."
+    },
+    {
+      "enunciado": "Em 'A criança fechou a porta', a palavra 'porta' está em sentido:",
+      "alternativas": [
+        "figurado",
+        "conotativo",
+        "literal",
+        "irônico"
+      ],
+      "correta": 2,
+      "explicacao": "A palavra designa o objeto físico, em seu sentido direto."
+    },
+    {
+      "enunciado": "A linguagem figurada costuma ser usada para:",
+      "alternativas": [
+        "tornar o texto mais expressivo",
+        "eliminar ambiguidades técnicas",
+        "substituir toda pontuação",
+        "evitar contexto"
+      ],
+      "correta": 0,
+      "explicacao": "O figurado amplia a expressividade do texto."
+    },
+    {
+      "enunciado": "Assinale a frase com sentido figurado.",
+      "alternativas": [
+        "O livro está sobre a mesa.",
+        "A cidade acordou nervosa.",
+        "A janela está aberta.",
+        "O aluno pegou a caneta."
+      ],
+      "correta": 1,
+      "explicacao": "A cidade não acorda literalmente; há personificação, logo sentido figurado."
+    },
+    {
+      "enunciado": "O principal erro em questões desse tema é:",
+      "alternativas": [
+        "observar o contexto",
+        "comparar alternativas",
+        "interpretar tudo ao pé da letra",
+        "ler o texto inteiro"
+      ],
+      "correta": 2,
+      "explicacao": "Muitos candidatos erram por não perceber o uso figurado da linguagem."
+    },
+    {
+      "enunciado": "Sentido conotativo é o mesmo que:",
+      "alternativas": [
+        "literal",
+        "figurado",
+        "objetivo",
+        "denotativo"
+      ],
+      "correta": 1,
+      "explicacao": "Conotativo é sinônimo de figurado."
+    },
+    {
+      "enunciado": "Sentido denotativo é o mesmo que:",
+      "alternativas": [
+        "metafórico",
+        "subjetivo",
+        "literal",
+        "irônico"
+      ],
+      "correta": 2,
+      "explicacao": "Denotativo corresponde ao sentido literal."
+    },
+    {
+      "enunciado": "Em provas da VUNESP, o reconhecimento do sentido figurado depende principalmente de:",
+      "alternativas": [
+        "opinião do candidato",
+        "contexto textual",
+        "memorização de regras matemáticas",
+        "tamanho da frase"
+      ],
+      "correta": 1,
+      "explicacao": "É o contexto que define se a expressão deve ser entendida literal ou figuradamente."
+    },
+    {
+      "enunciado": "Assinale a frase em sentido literal.",
+      "alternativas": [
+        "Ela explodiu de raiva.",
+        "O chão da cozinha está molhado.",
+        "Seu olhar congelou a sala.",
+        "Ele navegou em pensamentos."
+      ],
+      "correta": 1,
+      "explicacao": "A frase descreve situação objetiva e direta."
+    },
+    {
+      "enunciado": "Quando o sentido básico da palavra não se ajusta ao contexto, deve-se:",
+      "alternativas": [
+        "abandonar a leitura",
+        "marcar qualquer alternativa",
+        "investigar possível sentido figurado",
+        "ignorar a frase"
+      ],
+      "correta": 2,
+      "explicacao": "Se o sentido literal não funciona, é necessário interpretar a expressão em sentido figurado."
+    }
+  ]
+}

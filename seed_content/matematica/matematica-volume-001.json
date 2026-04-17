@@ -1,0 +1,182 @@
+{
+  "id": "matematica-volume-001",
+  "name": "Volume",
+  "topico": "Volume",
+  "resumo": "Volume mede o espaço ocupado por um sólido. A VUNESP cobra principalmente cubo e paralelepípedo retângulo, com aplicação em caixas, reservatórios e blocos. O essencial é diferenciar volume de área.",
+  "teoria": "Volume é a medida do espaço interno ocupado por um sólido. As unidades são cúbicas, como cm³, m³ e dm³. Para sólidos simples, a fórmula é direta.\n\nNo paralelepípedo retângulo, volume = comprimento x largura x altura. No cubo, volume = lado³. Essas fórmulas aparecem muito em problemas com caixas, tanques, salas, blocos e recipientes.\n\nÉ importante não confundir volume com área. Área mede superfície; volume mede espaço ocupado. Outro ponto útil é a equivalência entre unidades de volume e capacidade: 1 dm³ = 1 litro.\n\nA VUNESP costuma cobrar cálculo direto e interpretação do sólido apresentado. Se o enunciado falar em capacidade interna, normalmente está pedindo volume.\n\nEm resumo, volume é espaço tridimensional. Antes de calcular, identifique as três dimensões do sólido.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Volume é a medida do espaço ocupado por um sólido."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Paralelepípedo: V = comprimento x largura x altura. Cubo: V = lado³. Volume usa unidades cúbicas."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra volume em caixas, recipientes, salas e equivalências simples com litros."
+    }
+  ],
+  "pontos_chave": [
+    "Volume mede espaço interno.",
+    "Paralelepípedo: C x L x A.",
+    "Cubo: lado³.",
+    "Volume usa unidades cúbicas.",
+    "1 dm³ = 1 litro."
+  ],
+  "dicas_prova": [
+    "Confirme se a questão quer volume ou área.",
+    "Verifique se todas as medidas estão na mesma unidade.",
+    "Em cubo, lembre-se do expoente 3.",
+    "Pegadinhas clássicas da VUNESP: confundir cm² com cm³."
+  ],
+  "exemplos": [
+    "Caixa 2 x 3 x 4 tem volume 24.",
+    "Cubo de lado 5 tem volume 125.",
+    "1 dm³ corresponde a 1 litro."
+  ],
+  "erros_comuns": [
+    "Usar fórmula de área no lugar da de volume.",
+    "Esquecer uma das três dimensões.",
+    "Errar unidade cúbica."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é volume?",
+      "resposta": "É a medida do espaço ocupado por um sólido."
+    },
+    {
+      "pergunta": "Como calcular o volume do cubo?",
+      "resposta": "Lado ao cubo."
+    },
+    {
+      "pergunta": "Como calcular o volume do paralelepípedo?",
+      "resposta": "Comprimento x largura x altura."
+    },
+    {
+      "pergunta": "Qual unidade aparece em volume?",
+      "resposta": "Unidade cúbica, como cm³."
+    },
+    {
+      "pergunta": "1 dm³ equivale a quê?",
+      "resposta": "1 litro."
+    },
+    {
+      "pergunta": "Qual maior cuidado?",
+      "resposta": "Não confundir volume com área."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "O volume de um cubo de lado 3 cm é:",
+      "alternativas": [
+        "9 cm³",
+        "18 cm³",
+        "27 cm³",
+        "36 cm³"
+      ],
+      "correta": 2,
+      "explicacao": "3³ = 27 cm³."
+    },
+    {
+      "enunciado": "O volume de uma caixa de 2 cm x 4 cm x 5 cm é:",
+      "alternativas": [
+        "11 cm³",
+        "20 cm³",
+        "40 cm³",
+        "80 cm³"
+      ],
+      "correta": 2,
+      "explicacao": "2 x 4 x 5 = 40 cm³."
+    },
+    {
+      "enunciado": "Qual unidade é adequada para volume?",
+      "alternativas": [
+        "cm",
+        "cm²",
+        "cm³",
+        "m"
+      ],
+      "correta": 2,
+      "explicacao": "Volume é medido em unidades cúbicas."
+    },
+    {
+      "enunciado": "Se um cubo tem volume 64 cm³, seu lado mede:",
+      "alternativas": [
+        "2 cm",
+        "3 cm",
+        "4 cm",
+        "8 cm"
+      ],
+      "correta": 2,
+      "explicacao": "4³ = 64."
+    },
+    {
+      "enunciado": "1 dm³ equivale a:",
+      "alternativas": [
+        "1 mL",
+        "10 L",
+        "1 L",
+        "100 L"
+      ],
+      "correta": 2,
+      "explicacao": "Equivalência clássica entre volume e capacidade."
+    },
+    {
+      "enunciado": "O volume de um paralelepípedo com 3 m, 2 m e 4 m é:",
+      "alternativas": [
+        "9 m³",
+        "12 m³",
+        "24 m³",
+        "36 m³"
+      ],
+      "correta": 2,
+      "explicacao": "3 x 2 x 4 = 24 m³."
+    },
+    {
+      "enunciado": "Se uma caixa tem comprimento 10 cm, largura 2 cm e altura 3 cm, seu volume é:",
+      "alternativas": [
+        "15 cm³",
+        "30 cm³",
+        "60 cm³",
+        "120 cm³"
+      ],
+      "correta": 2,
+      "explicacao": "10 x 2 x 3 = 60 cm³."
+    },
+    {
+      "enunciado": "Volume mede:",
+      "alternativas": [
+        "comprimento de linha",
+        "superfície",
+        "espaço ocupado",
+        "ângulo"
+      ],
+      "correta": 2,
+      "explicacao": "Essa é a definição de volume."
+    },
+    {
+      "enunciado": "A maior pegadinha em volume é:",
+      "alternativas": [
+        "somar lados",
+        "confundir com área",
+        "usar decimal",
+        "contar vértices"
+      ],
+      "correta": 1,
+      "explicacao": "Muitos candidatos usam fórmula de área por engano."
+    },
+    {
+      "enunciado": "Uma sala de 5 m por 4 m por 3 m tem volume de:",
+      "alternativas": [
+        "20 m³",
+        "40 m³",
+        "60 m³",
+        "80 m³"
+      ],
+      "correta": 2,
+      "explicacao": "5 x 4 x 3 = 60 m³."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-meio-ambiente-001",
+  "name": "Meio ambiente",
+  "topico": "Meio ambiente",
+  "resumo": "Em atualidades, meio ambiente envolve mudanças climáticas, preservação de biomas, crises hídricas, desmatamento, energia, poluição e desenvolvimento sustentável. A VUNESP cobra leitura ampla dos desafios ambientais contemporâneos e seus impactos sociais e econômicos.",
+  "teoria": "O meio ambiente em atualidades está no centro dos debates globais e nacionais. Mudanças climáticas, desmatamento, transição energética, eventos extremos, poluição, perda de biodiversidade e gestão da água são alguns dos temas mais recorrentes.\n\nO aumento da temperatura média do planeta, associado às emissões de gases de efeito estufa, intensifica secas, enchentes, ondas de calor e outros eventos extremos. No Brasil, biomas como Amazônia, Cerrado e Pantanal aparecem frequentemente em debates sobre conservação, queimadas e uso da terra.\n\nA questão ambiental também se liga à economia e à política. Produção agrícola, energia, mineração, indústria, urbanização e transporte impactam o ambiente. Ao mesmo tempo, políticas de preservação, energias renováveis e saneamento se tornam estratégicas.\n\nA VUNESP costuma cobrar compreensão geral do problema ambiental, suas causas humanas, seus impactos e a necessidade de equilíbrio entre desenvolvimento e preservação.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Meio ambiente em atualidades trata dos desafios ambientais contemporâneos e de sua relação com economia, política e sociedade."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É importante compreender mudanças climáticas, desmatamento, poluição, energia, água e sustentabilidade como temas interligados."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra leitura geral dos impactos ambientais, dos biomas brasileiros e das políticas ligadas à sustentabilidade."
+    }
+  ],
+  "pontos_chave": [
+    "Mudanças climáticas são tema central.",
+    "Desmatamento e queimadas aparecem com frequência.",
+    "Água, energia e preservação estão interligadas.",
+    "Biomas brasileiros têm relevância estratégica.",
+    "Ambiente e economia se influenciam mutuamente."
+  ],
+  "dicas_prova": [
+    "Relacione problema ambiental a causa e impacto.",
+    "Associe biomas brasileiros a pressões ambientais.",
+    "Lembre que meio ambiente também é tema econômico e social.",
+    "Pegadinhas clássicas da VUNESP: tratar crise ambiental como questão exclusivamente natural."
+  ],
+  "exemplos": [
+    "Secas e enchentes podem ser agravadas por mudanças climáticas e ocupação inadequada do espaço.",
+    "Queimadas afetam biodiversidade, clima e saúde.",
+    "Energia renovável aparece como parte do debate ambiental."
+  ],
+  "erros_comuns": [
+    "Separar meio ambiente de economia e política.",
+    "Reduzir o tema a conservação abstrata.",
+    "Ignorar a dimensão humana das crises ambientais."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "Qual tema ambiental é muito recorrente em atualidades?",
+      "resposta": "Mudanças climáticas."
+    },
+    {
+      "pergunta": "Desmatamento é tema atual?",
+      "resposta": "Sim, muito relevante no Brasil."
+    },
+    {
+      "pergunta": "A questão ambiental se relaciona à economia?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Biomas brasileiros podem aparecer em prova?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "A VUNESP cobra meio ambiente como?",
+      "resposta": "De forma ampla, relacionando causas e impactos."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Não separar ambiente, sociedade e economia."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Mudanças climáticas se relacionam a:",
+      "alternativas": [
+        "eventos extremos e aquecimento global",
+        "somente literatura",
+        "ausência de impactos",
+        "apenas história medieval"
+      ],
+      "correta": 0,
+      "explicacao": "Esse tema envolve aquecimento global, secas, enchentes e outros eventos extremos."
+    },
+    {
+      "enunciado": "No Brasil, um tema ambiental recorrente é:",
+      "alternativas": [
+        "desmatamento",
+        "fim dos biomas",
+        "ausência de queimadas",
+        "eliminação da água"
+      ],
+      "correta": 0,
+      "explicacao": "O desmatamento aparece de forma constante nos debates ambientais."
+    },
+    {
+      "enunciado": "A questão ambiental envolve também:",
+      "alternativas": [
+        "economia e política",
+        "somente natureza isolada",
+        "apenas biologia celular",
+        "somente astronomia"
+      ],
+      "correta": 0,
+      "explicacao": "A produção, a energia e as políticas públicas influenciam o ambiente."
+    },
+    {
+      "enunciado": "Energia renovável aparece em atualidades ambientais porque:",
+      "alternativas": [
+        "não tem relação com o tema",
+        "faz parte do debate sobre sustentabilidade",
+        "substitui toda economia",
+        "elimina o clima"
+      ],
+      "correta": 1,
+      "explicacao": "A transição energética é parte importante dos debates ambientais."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar esse tema por meio de:",
+      "alternativas": [
+        "visão ampla dos impactos e desafios",
+        "somente nomes científicos",
+        "somente cálculos",
+        "somente literatura"
+      ],
+      "correta": 0,
+      "explicacao": "A cobrança tende a ser contextual e interpretativa."
+    },
+    {
+      "enunciado": "Um erro comum nesse tema é:",
+      "alternativas": [
+        "ligar ambiente e sociedade",
+        "tratar crise ambiental como puramente natural",
+        "analisar causas humanas",
+        "observar efeitos sociais"
+      ],
+      "correta": 1,
+      "explicacao": "As crises ambientais contemporâneas têm forte relação com a ação humana."
+    },
+    {
+      "enunciado": "A gestão da água é importante porque:",
+      "alternativas": [
+        "água não afeta economia nem sociedade",
+        "água é recurso estratégico",
+        "água não tem relação com ambiente",
+        "secas não existem"
+      ],
+      "correta": 1,
+      "explicacao": "A água é essencial para a vida, produção e estabilidade social."
+    },
+    {
+      "enunciado": "Biomas como Amazônia e Cerrado são relevantes porque:",
+      "alternativas": [
+        "não sofrem pressões humanas",
+        "têm importância ecológica e política",
+        "não aparecem em atualidades",
+        "não influenciam o país"
+      ],
+      "correta": 1,
+      "explicacao": "Esses biomas são centrais no debate ambiental brasileiro."
+    },
+    {
+      "enunciado": "A crise ambiental contemporânea exige:",
+      "alternativas": [
+        "equilíbrio entre desenvolvimento e preservação",
+        "exploração sem limites",
+        "abandono de toda política pública",
+        "negação dos impactos"
+      ],
+      "correta": 0,
+      "explicacao": "Essa é a lógica do desenvolvimento sustentável."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "relacionar ambiente, causa humana e impacto social",
+        "decorar palavras isoladas",
+        "ignorar economia",
+        "fugir do contexto"
+      ],
+      "correta": 0,
+      "explicacao": "A compreensão integrada do problema é essencial."
+    }
+  ]
+}

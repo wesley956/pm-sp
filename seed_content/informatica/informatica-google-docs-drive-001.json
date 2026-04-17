@@ -1,0 +1,182 @@
+{
+  "id": "informatica-google-docs-drive-001",
+  "name": "Google Docs / Drive",
+  "topico": "Google Docs / Drive",
+  "resumo": "Google Docs é um editor de documentos online, e Google Drive é um serviço de armazenamento em nuvem. A VUNESP pode cobrar conceitos de nuvem, compartilhamento, edição colaborativa, armazenamento e diferenças entre arquivo local e arquivo online.",
+  "teoria": "Google Drive é uma plataforma de armazenamento em nuvem. Google Docs é o editor de textos online integrado a esse ecossistema.\n\nUma das principais características dessas ferramentas é a colaboração em tempo real. Os arquivos podem ser compartilhados com permissões diferentes, como visualizar, comentar e editar.\n\nA VUNESP pode cobrar nuvem, compartilhamento, permissões e diferença entre armazenamento local e online.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Google Docs / Drive é tema importante do edital e deve ser compreendido de forma prática e objetiva."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É preciso conhecer conceitos básicos, funções principais e aplicação prática do conteúdo."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP costuma cobrar definições, uso prático, interpretação de situações e identificação de comandos ou regras."
+    }
+  ],
+  "pontos_chave": [
+    "Google Docs / Drive aparece com frequência em prova.",
+    "O uso prático do tema é muito valorizado.",
+    "A banca gosta de conceitos objetivos e aplicação.",
+    "Diferenças entre funções ou institutos geram pegadinhas.",
+    "Treinar leitura atenta ajuda a evitar erros bobos."
+  ],
+  "dicas_prova": [
+    "Associe conceito e função prática.",
+    "Revise palavras-chave e diferenças centrais do tema.",
+    "Treine identificar a alternativa mais objetiva e literal.",
+    "Pegadinhas clássicas da VUNESP: confundir conceitos parecidos ou funções próximas."
+  ],
+  "exemplos": [
+    "Exemplo de aplicação prática de Google Docs / Drive em contexto de prova.",
+    "A banca costuma transformar o conceito em situação objetiva.",
+    "A leitura atenta do enunciado faz diferença."
+  ],
+  "erros_comuns": [
+    "Decorar sem entender o uso prático.",
+    "Confundir conceitos parecidos.",
+    "Marcar alternativa por associação apressada."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é Google Docs / Drive?",
+      "resposta": "É um conteúdo relevante do edital que deve ser entendido de forma prática e conceitual."
+    },
+    {
+      "pergunta": "Como a VUNESP costuma cobrar esse tema?",
+      "resposta": "Por definições, aplicação prática e interpretação objetiva."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Não confundir conceitos ou funções parecidas."
+    },
+    {
+      "pergunta": "A leitura do enunciado importa?",
+      "resposta": "Sim, muito."
+    },
+    {
+      "pergunta": "O tema pode render ponto fácil?",
+      "resposta": "Sim, com estudo direcionado."
+    },
+    {
+      "pergunta": "O que mais ajuda a acertar?",
+      "resposta": "Entender conceito e função prática ao mesmo tempo."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Google Docs / Drive é tema que a VUNESP costuma cobrar por meio de:",
+      "alternativas": [
+        "conceito e aplicação prática",
+        "somente cálculos avançados",
+        "somente literatura",
+        "assuntos sem relação com o edital"
+      ],
+      "correta": 0,
+      "explicacao": "A banca costuma preferir cobrança objetiva e aplicada."
+    },
+    {
+      "enunciado": "Uma boa estratégia para esse tema é:",
+      "alternativas": [
+        "decorar sem contexto",
+        "entender conceito e função prática",
+        "ignorar diferenças entre institutos",
+        "chutar rapidamente"
+      ],
+      "correta": 1,
+      "explicacao": "Entender conceito e uso prático é a melhor estratégia."
+    },
+    {
+      "enunciado": "Uma pegadinha comum da VUNESP é:",
+      "alternativas": [
+        "confundir conceitos parecidos",
+        "usar apenas textos poéticos",
+        "cobrar física quântica",
+        "ignorar o edital"
+      ],
+      "correta": 0,
+      "explicacao": "A banca costuma explorar diferenças sutis entre conceitos próximos."
+    },
+    {
+      "enunciado": "O estudo do tema deve priorizar:",
+      "alternativas": [
+        "aplicação prática e leitura objetiva",
+        "somente memorização cega",
+        "apenas opinião pessoal",
+        "nenhuma revisão"
+      ],
+      "correta": 0,
+      "explicacao": "Esse tipo de conteúdo rende mais quando estudado com foco prático."
+    },
+    {
+      "enunciado": "Um erro comum é:",
+      "alternativas": [
+        "comparar conceitos",
+        "prestar atenção ao enunciado",
+        "decorar sem compreender",
+        "revisar palavras-chave"
+      ],
+      "correta": 2,
+      "explicacao": "A compreensão é essencial para evitar erros fáceis."
+    },
+    {
+      "enunciado": "A VUNESP valoriza, nesse tema:",
+      "alternativas": [
+        "objetividade e interpretação",
+        "respostas ideológicas",
+        "respostas vagas",
+        "falta de precisão"
+      ],
+      "correta": 0,
+      "explicacao": "A banca costuma preferir formulações claras e objetivas."
+    },
+    {
+      "enunciado": "Ao estudar, o candidato deve:",
+      "alternativas": [
+        "ignorar exemplos",
+        "relacionar teoria e prática",
+        "descartar conceitos básicos",
+        "evitar revisão"
+      ],
+      "correta": 1,
+      "explicacao": "Essa relação ajuda a consolidar o conteúdo."
+    },
+    {
+      "enunciado": "A principal habilidade exigida é:",
+      "alternativas": [
+        "entendimento conceitual com aplicação",
+        "cálculo integral",
+        "edição de vídeo",
+        "programação avançada"
+      ],
+      "correta": 0,
+      "explicacao": "É isso que mais aparece em questões desse perfil."
+    },
+    {
+      "enunciado": "Um tema estratégico costuma ser aquele que:",
+      "alternativas": [
+        "aparece bastante e tem cobrança objetiva",
+        "não cai nunca",
+        "depende só de sorte",
+        "não permite estudo"
+      ],
+      "correta": 0,
+      "explicacao": "Temas recorrentes e objetivos são estratégicos para pontuar."
+    },
+    {
+      "enunciado": "A leitura atenta do enunciado é importante porque:",
+      "alternativas": [
+        "a banca usa diferenças sutis",
+        "não faz diferença",
+        "substitui o estudo",
+        "elimina todo conteúdo"
+      ],
+      "correta": 0,
+      "explicacao": "Muitas alternativas erradas parecem corretas à primeira vista."
+    }
+  ]
+}

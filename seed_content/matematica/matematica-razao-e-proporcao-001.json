@@ -1,0 +1,182 @@
+{
+  "id": "matematica-razao-e-proporcao-001",
+  "name": "Razão e proporção",
+  "topico": "Razão e proporção",
+  "resumo": "Razão é a comparação entre duas grandezas por meio de uma divisão. Proporção é a igualdade entre duas razões. A VUNESP cobra interpretação de razões, simplificação, escala, divisão proporcional e problemas práticos com comparação de grandezas.",
+  "teoria": "Razão é o quociente entre duas grandezas comparáveis. Se em uma sala há 10 homens e 15 mulheres, a razão entre homens e mulheres é 10/15, que pode ser simplificada para 2/3. A razão pode ser escrita como fração, usando dois pontos ou na forma decimal.\n\nProporção é a igualdade entre duas razões. Exemplo: 2/3 = 4/6. Quando duas razões são proporcionais, seus produtos cruzados são iguais. Essa propriedade é muito útil: em a/b = c/d, temos a x d = b x c.\n\nRazões aparecem em escalas, velocidade média, densidade, consumo, preço por unidade e comparação entre partes. Exemplo: um mapa em escala 1:100.000 mostra que 1 unidade no mapa corresponde a 100.000 unidades reais.\n\nNa divisão proporcional, um valor é repartido em partes que obedecem a uma razão dada. Se R$ 600 forem divididos na razão 2:3, a soma das partes da razão é 5. Logo, as partes são 2/5 de 600 e 3/5 de 600, isto é, R$ 240 e R$ 360.\n\nGrandezas diretamente proporcionais crescem ou diminuem juntas na mesma razão. Grandezas inversamente proporcionais variam em sentidos opostos. Esse ponto se liga à regra de três, mas a base conceitual está aqui.\n\nA VUNESP explora razão em problemas simples e em textos com dados numéricos. O erro mais comum é inverter a ordem da razão ou não interpretar corretamente o que está sendo comparado.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Razão é comparação por divisão. Proporção é igualdade entre duas razões."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Toda proporção permite produto dos meios pelos extremos. A ordem das grandezas na razão deve ser mantida. A simplificação ajuda a interpretar melhor os dados."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra comparação entre quantidades, escalas, consumo, divisão proporcional e interpretação correta da ordem da razão."
+    }
+  ],
+  "pontos_chave": [
+    "Razão compara duas grandezas por divisão.",
+    "Proporção iguala duas razões.",
+    "A ordem dos termos na razão importa.",
+    "Produto cruzado resolve muitas questões.",
+    "Divisão proporcional é muito cobrada."
+  ],
+  "dicas_prova": [
+    "Escreva com clareza o que está sendo comparado.",
+    "Simplifique a razão antes de continuar.",
+    "Use produto cruzado com atenção aos termos correspondentes.",
+    "Pegadinhas clássicas da VUNESP: inverter a razão e errar a interpretação da escala."
+  ],
+  "exemplos": [
+    "Razão 8 para 12 = 8/12 = 2/3.",
+    "Se 2/5 = x/20, então 5x = 40 e x = 8.",
+    "Dividir 300 na razão 1:2 gera 100 e 200."
+  ],
+  "erros_comuns": [
+    "Trocar a ordem da comparação.",
+    "Não simplificar a razão antes de resolver.",
+    "Aplicar produto cruzado em dados não proporcionais."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é razão?",
+      "resposta": "É a comparação entre duas grandezas por meio de uma divisão."
+    },
+    {
+      "pergunta": "O que é proporção?",
+      "resposta": "É a igualdade entre duas razões."
+    },
+    {
+      "pergunta": "Qual propriedade resolve proporções?",
+      "resposta": "O produto cruzado."
+    },
+    {
+      "pergunta": "A ordem da razão importa?",
+      "resposta": "Sim, muda o significado."
+    },
+    {
+      "pergunta": "O que é divisão proporcional?",
+      "resposta": "É repartir um valor segundo uma razão dada."
+    },
+    {
+      "pergunta": "Onde razão aparece muito?",
+      "resposta": "Em escala, consumo, velocidade e comparação de quantidades."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A razão entre 12 e 18, na forma simplificada, é:",
+      "alternativas": [
+        "2/3",
+        "3/2",
+        "6/9",
+        "4/9"
+      ],
+      "correta": 0,
+      "explicacao": "12/18 simplifica para 2/3."
+    },
+    {
+      "enunciado": "Se 3/5 = x/20, então x vale:",
+      "alternativas": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correta": 2,
+      "explicacao": "3 x 20 = 5x, então 60 = 5x e x = 12."
+    },
+    {
+      "enunciado": "Dividindo R$ 500 na razão 2:3, a menor parte será:",
+      "alternativas": [
+        "R$ 150",
+        "R$ 200",
+        "R$ 250",
+        "R$ 300"
+      ],
+      "correta": 1,
+      "explicacao": "Total de partes = 5. A menor parte é 2/5 de 500 = 200."
+    },
+    {
+      "enunciado": "Em uma turma com 8 meninos e 12 meninas, a razão meninos:meninas é:",
+      "alternativas": [
+        "2:3",
+        "3:2",
+        "8:20",
+        "12:8"
+      ],
+      "correta": 0,
+      "explicacao": "8:12 simplifica para 2:3."
+    },
+    {
+      "enunciado": "Uma escala 1:50 indica que:",
+      "alternativas": [
+        "1 unidade real vale 50 no desenho",
+        "1 no desenho corresponde a 50 na realidade",
+        "50 no desenho corresponde a 1 na realidade",
+        "não há relação proporcional"
+      ],
+      "correta": 1,
+      "explicacao": "Escala 1:50 significa 1 unidade no desenho para 50 na realidade."
+    },
+    {
+      "enunciado": "Se duas razões são iguais, então existe:",
+      "alternativas": [
+        "fração imprópria",
+        "proporção",
+        "potência",
+        "equação quadrática"
+      ],
+      "correta": 1,
+      "explicacao": "Igualdade entre razões define proporção."
+    },
+    {
+      "enunciado": "A razão entre 30 segundos e 2 minutos é:",
+      "alternativas": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "1/5"
+      ],
+      "correta": 2,
+      "explicacao": "2 minutos = 120 segundos. A razão 30/120 = 1/4."
+    },
+    {
+      "enunciado": "Se a:b = 4:7 e a = 20, então b =",
+      "alternativas": [
+        "28",
+        "35",
+        "40",
+        "49"
+      ],
+      "correta": 1,
+      "explicacao": "4k = 20, então k = 5. Logo, b = 7k = 35."
+    },
+    {
+      "enunciado": "A principal atenção em razão é:",
+      "alternativas": [
+        "somar os termos",
+        "trocar numerador e denominador",
+        "manter a ordem da comparação",
+        "evitar simplificar"
+      ],
+      "correta": 2,
+      "explicacao": "A ordem muda o sentido da razão."
+    },
+    {
+      "enunciado": "Se 6/9 = 10/x, então x =",
+      "alternativas": [
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "correta": 1,
+      "explicacao": "6x = 90, então x = 15."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-economia-001",
+  "name": "Economia",
+  "topico": "Economia",
+  "resumo": "Em atualidades, economia envolve inflação, juros, emprego, renda, orçamento público, crescimento econômico, consumo e desigualdade. A VUNESP cobra leitura geral dos impactos econômicos na vida da população, sem exigir aprofundamento técnico excessivo.",
+  "teoria": "A economia em atualidades aparece como tema ligado ao cotidiano e ao funcionamento do país. Questões sobre inflação, desemprego, renda, juros, consumo, contas públicas e crescimento econômico costumam ser cobradas de modo contextualizado.\n\nInflação é o aumento generalizado dos preços. Juros influenciam crédito, consumo e investimentos. Emprego e renda afetam diretamente a qualidade de vida e o poder de compra da população. Crescimento econômico não significa automaticamente redução da desigualdade, pois os benefícios podem ser distribuídos de forma desigual.\n\nA economia nacional também se relaciona à política pública, ao orçamento e às decisões do governo sobre tributos, gastos, investimentos e programas sociais. Em prova, o foco geralmente está em compreender o efeito de fenômenos econômicos na sociedade.\n\nA VUNESP costuma cobrar interpretação econômica básica, associando conceitos a situações concretas. O candidato deve saber o significado geral dos principais termos e suas consequências sociais.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Economia é o campo que trata da produção, distribuição, circulação e consumo de bens e serviços."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Em atualidades, importa compreender noções como inflação, juros, emprego, renda, crescimento e desigualdade."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra impacto social de fenômenos econômicos, leitura de contexto e noção geral de indicadores e políticas."
+    }
+  ],
+  "pontos_chave": [
+    "Inflação afeta o poder de compra.",
+    "Juros influenciam crédito e consumo.",
+    "Emprego e renda são centrais para a vida social.",
+    "Crescimento econômico não elimina desigualdades automaticamente.",
+    "Economia e política pública se relacionam."
+  ],
+  "dicas_prova": [
+    "Associe cada conceito econômico a um impacto concreto na população.",
+    "Evite tecnicismo excessivo; busque sentido geral.",
+    "Relacione economia a custo de vida, renda e consumo.",
+    "Pegadinhas clássicas da VUNESP: confundir crescimento econômico com melhoria social automática."
+  ],
+  "exemplos": [
+    "Inflação alta reduz o poder de compra.",
+    "Juros mais altos tendem a encarecer o crédito.",
+    "Desemprego afeta consumo e condições de vida."
+  ],
+  "erros_comuns": [
+    "Usar termos econômicos sem entender seus efeitos sociais.",
+    "Achar que crescimento econômico resolve sozinho a desigualdade.",
+    "Ignorar a relação entre economia e políticas públicas."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é inflação?",
+      "resposta": "É o aumento generalizado dos preços."
+    },
+    {
+      "pergunta": "O que os juros afetam?",
+      "resposta": "Crédito, consumo e investimento."
+    },
+    {
+      "pergunta": "Crescimento econômico significa igualdade?",
+      "resposta": "Não necessariamente."
+    },
+    {
+      "pergunta": "Emprego e renda são temas econômicos?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Como a VUNESP cobra economia?",
+      "resposta": "Pelo impacto dos fenômenos econômicos no cotidiano."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Entender conceito e consequência social."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Inflação significa:",
+      "alternativas": [
+        "redução total de preços",
+        "aumento generalizado dos preços",
+        "fim do consumo",
+        "desaparecimento da moeda"
+      ],
+      "correta": 1,
+      "explicacao": "Essa é a definição básica de inflação."
+    },
+    {
+      "enunciado": "Quando a inflação sobe, tende a ocorrer:",
+      "alternativas": [
+        "aumento do poder de compra",
+        "redução do poder de compra",
+        "fim da circulação de dinheiro",
+        "igualdade automática"
+      ],
+      "correta": 1,
+      "explicacao": "Com preços mais altos, o dinheiro compra menos."
+    },
+    {
+      "enunciado": "Juros mais altos tendem a:",
+      "alternativas": [
+        "baratear crédito",
+        "encarecer crédito",
+        "eliminar a economia",
+        "aumentar salário automaticamente"
+      ],
+      "correta": 1,
+      "explicacao": "Taxas mais altas tornam empréstimos e financiamentos mais caros."
+    },
+    {
+      "enunciado": "Emprego e renda são importantes porque:",
+      "alternativas": [
+        "não influenciam a vida social",
+        "afetam consumo e condições de vida",
+        "não têm relação com economia",
+        "dependem só do clima"
+      ],
+      "correta": 1,
+      "explicacao": "Esses fatores influenciam diretamente o cotidiano da população."
+    },
+    {
+      "enunciado": "Crescimento econômico significa necessariamente:",
+      "alternativas": [
+        "redução imediata da desigualdade",
+        "melhoria igual para todos",
+        "expansão da atividade econômica",
+        "fim da pobreza"
+      ],
+      "correta": 2,
+      "explicacao": "Crescimento é aumento da atividade econômica, mas não garante distribuição igualitária dos ganhos."
+    },
+    {
+      "enunciado": "A VUNESP cobra economia com foco em:",
+      "alternativas": [
+        "efeitos sociais e noções básicas",
+        "somente fórmulas complexas",
+        "somente nomes de bancos",
+        "somente geologia"
+      ],
+      "correta": 0,
+      "explicacao": "A abordagem costuma ser contextual e interpretativa."
+    },
+    {
+      "enunciado": "Um erro comum nesse tema é:",
+      "alternativas": [
+        "ligar economia ao cotidiano",
+        "confundir crescimento com justiça social automática",
+        "entender inflação",
+        "relacionar emprego e renda"
+      ],
+      "correta": 1,
+      "explicacao": "Crescimento econômico não garante distribuição equitativa."
+    },
+    {
+      "enunciado": "O orçamento público se relaciona a:",
+      "alternativas": [
+        "receitas e gastos do Estado",
+        "somente literatura",
+        "somente vegetação",
+        "somente esporte"
+      ],
+      "correta": 0,
+      "explicacao": "O orçamento envolve arrecadação e despesas do poder público."
+    },
+    {
+      "enunciado": "A economia em atualidades costuma aparecer ligada a:",
+      "alternativas": [
+        "custo de vida e políticas públicas",
+        "somente navegação antiga",
+        "somente guerras coloniais",
+        "somente gramática"
+      ],
+      "correta": 0,
+      "explicacao": "Esses temas aproximam economia da vida cotidiana."
+    },
+    {
+      "enunciado": "A principal habilidade nesse tema é:",
+      "alternativas": [
+        "entender conceito e impacto social",
+        "decorar siglas sem sentido",
+        "resolver somente geometria",
+        "ignorar o contexto"
+      ],
+      "correta": 0,
+      "explicacao": "A banca prefere leitura contextualizada da economia."
+    }
+  ]
+}

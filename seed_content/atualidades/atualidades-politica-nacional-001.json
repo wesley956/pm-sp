@@ -1,0 +1,182 @@
+{
+  "id": "atualidades-politica-nacional-001",
+  "name": "Política nacional",
+  "topico": "Política nacional",
+  "resumo": "Política nacional envolve o funcionamento das instituições brasileiras, a relação entre os Poderes, eleições, partidos, participação social, políticas públicas e debates sobre democracia. Em atualidades, a VUNESP costuma cobrar compreensão geral do cenário político, papel das instituições e efeitos sociais das decisões públicas.",
+  "teoria": "Política nacional diz respeito ao modo como o Estado brasileiro se organiza e como as decisões públicas são tomadas. Isso envolve Executivo, Legislativo e Judiciário, além de partidos, eleições, órgãos de controle, federação e participação popular.\n\nNo Brasil, a política nacional também se relaciona ao debate sobre democracia, transparência, governabilidade, políticas públicas, representação e conflitos institucionais. A atuação de União, estados e municípios pode aparecer em questões sobre responsabilidades administrativas e impacto das decisões na vida da população.\n\nEm atualidades, o essencial não é decorar detalhes momentâneos, mas entender o papel das instituições e os principais temas em debate, como orçamento público, reformas, direitos, segurança, educação, saúde, combate à corrupção, polarização política e participação social.\n\nA VUNESP geralmente trabalha com abordagem informativa e interpretativa, cobrando leitura de contexto político sem exigir posicionamento ideológico. O foco costuma estar no funcionamento do sistema político e nas consequências de decisões públicas.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Política nacional é o conjunto de práticas, instituições e decisões que organizam o poder público no Brasil."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É essencial compreender o papel dos três Poderes, da federação, das eleições, dos partidos e das políticas públicas."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra noções institucionais, temas em debate público, funcionamento do Estado e impactos das decisões políticas."
+    }
+  ],
+  "pontos_chave": [
+    "O Brasil é organizado em três Poderes.",
+    "Política nacional envolve instituições e políticas públicas.",
+    "Democracia e representação são temas centrais.",
+    "Conflitos institucionais e debates públicos podem aparecer em prova.",
+    "A banca costuma exigir interpretação do cenário político sem ideologização."
+  ],
+  "dicas_prova": [
+    "Estude o papel de cada Poder e o funcionamento básico das instituições.",
+    "Relacione decisões políticas a seus efeitos sociais.",
+    "Foque em compreensão institucional, não em opinião pessoal.",
+    "Pegadinhas clássicas da VUNESP: confundir função dos Poderes ou tratar debate político só como disputa partidária."
+  ],
+  "exemplos": [
+    "O Executivo implementa políticas públicas e administra o governo.",
+    "O Legislativo cria leis e fiscaliza.",
+    "O Judiciário interpreta e aplica a Constituição e as leis."
+  ],
+  "erros_comuns": [
+    "Misturar funções dos Poderes.",
+    "Responder com opinião pessoal em vez de análise institucional.",
+    "Ignorar efeitos sociais de decisões políticas."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é política nacional?",
+      "resposta": "É a organização do poder e das decisões públicas no Brasil."
+    },
+    {
+      "pergunta": "Quais são os três Poderes?",
+      "resposta": "Executivo, Legislativo e Judiciário."
+    },
+    {
+      "pergunta": "A política nacional envolve políticas públicas?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "A VUNESP cobra opinião ideológica?",
+      "resposta": "Não, costuma cobrar compreensão institucional e contextual."
+    },
+    {
+      "pergunta": "Democracia é tema de política nacional?",
+      "resposta": "Sim."
+    },
+    {
+      "pergunta": "Qual cuidado principal?",
+      "resposta": "Diferenciar funções institucionais e analisar impactos sociais."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "A política nacional envolve principalmente:",
+      "alternativas": [
+        "somente eleições",
+        "organização do poder público e decisões do Estado",
+        "apenas relações exteriores",
+        "somente questões militares"
+      ],
+      "correta": 1,
+      "explicacao": "Política nacional trata do funcionamento do Estado e da tomada de decisões públicas."
+    },
+    {
+      "enunciado": "No Brasil, os três Poderes são:",
+      "alternativas": [
+        "Executivo, Militar e Popular",
+        "Legislativo, Partidário e Judiciário",
+        "Executivo, Legislativo e Judiciário",
+        "Presidencial, Federal e Estadual"
+      ],
+      "correta": 2,
+      "explicacao": "Essa é a divisão clássica do poder na Constituição brasileira."
+    },
+    {
+      "enunciado": "Uma política pública pode ser entendida como:",
+      "alternativas": [
+        "decisão privada sem impacto coletivo",
+        "ação do Estado para atender necessidades sociais",
+        "somente propaganda eleitoral",
+        "atividade exclusiva do Judiciário"
+      ],
+      "correta": 1,
+      "explicacao": "Políticas públicas são ações estatais voltadas a demandas da sociedade."
+    },
+    {
+      "enunciado": "A VUNESP costuma cobrar política nacional com foco em:",
+      "alternativas": [
+        "opinião ideológica do candidato",
+        "instituições e funcionamento do Estado",
+        "somente nomes de políticos",
+        "somente história antiga"
+      ],
+      "correta": 1,
+      "explicacao": "A banca trabalha com compreensão institucional e contextual."
+    },
+    {
+      "enunciado": "Conflitos entre Poderes fazem parte do tema porque:",
+      "alternativas": [
+        "o sistema político envolve relações institucionais",
+        "não existem no Brasil",
+        "substituem a Constituição",
+        "eliminam a democracia automaticamente"
+      ],
+      "correta": 0,
+      "explicacao": "Os Poderes se relacionam e podem entrar em tensão dentro da ordem institucional."
+    },
+    {
+      "enunciado": "A democracia está ligada à política nacional porque envolve:",
+      "alternativas": [
+        "participação e representação",
+        "ausência de instituições",
+        "fim das eleições",
+        "somente decisões privadas"
+      ],
+      "correta": 0,
+      "explicacao": "Democracia se relaciona a representação, participação e instituições."
+    },
+    {
+      "enunciado": "Um erro comum nesse tema é:",
+      "alternativas": [
+        "analisar o papel das instituições",
+        "misturar funções dos Poderes",
+        "relacionar política a políticas públicas",
+        "observar impactos sociais"
+      ],
+      "correta": 1,
+      "explicacao": "Esse é um erro recorrente em questões institucionais."
+    },
+    {
+      "enunciado": "O estudo da política nacional ajuda a compreender:",
+      "alternativas": [
+        "como o Estado decide e atua",
+        "somente o clima",
+        "somente a vegetação",
+        "somente a gramática"
+      ],
+      "correta": 0,
+      "explicacao": "O foco é o funcionamento do poder público e seus efeitos."
+    },
+    {
+      "enunciado": "Atualidades de política nacional costumam abordar:",
+      "alternativas": [
+        "debates públicos e decisões institucionais",
+        "somente guerras medievais",
+        "apenas biologia",
+        "somente mineração colonial"
+      ],
+      "correta": 0,
+      "explicacao": "Essa é a linha principal do tema em concursos."
+    },
+    {
+      "enunciado": "A principal habilidade exigida nesse tema é:",
+      "alternativas": [
+        "leitura institucional e contextual",
+        "resposta opinativa",
+        "cálculo geométrico",
+        "análise de raízes quadradas"
+      ],
+      "correta": 0,
+      "explicacao": "A banca valoriza compreensão do cenário político em bases institucionais."
+    }
+  ]
+}

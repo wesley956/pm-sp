@@ -1,0 +1,182 @@
+{
+  "id": "informatica-windows-10-001",
+  "name": "Windows 10",
+  "topico": "Windows 10",
+  "resumo": "Windows 10 é o sistema operacional da Microsoft muito cobrado em concursos por reunir funções básicas do uso diário do computador. A VUNESP costuma cobrar área de trabalho, gerenciamento de arquivos e pastas, atalhos, Menu Iniciar, barra de tarefas, Explorador de Arquivos, configurações e noções de segurança e organização do sistema.",
+  "teoria": "Windows 10 é um sistema operacional, ou seja, o programa principal que gerencia o funcionamento do computador, dos arquivos, dos programas e da interação com o usuário. Em concursos, o foco não costuma ser técnico demais: a banca quer saber se o candidato domina o uso prático do sistema.\n\nA área de trabalho é a tela principal, onde aparecem ícones, atalhos e a barra de tarefas. O Menu Iniciar dá acesso a programas, configurações, desligamento e busca. A barra de tarefas mostra aplicativos abertos, programas fixados e a área de notificação.\n\nO Explorador de Arquivos é o local usado para criar, copiar, mover, renomear e excluir arquivos e pastas. É muito importante diferenciar arquivo de pasta. Pasta organiza arquivos; arquivo contém informação. Também é essencial conhecer extensões comuns, como .docx, .xlsx, .pptx, .pdf, .jpg e .txt.\n\nA lixeira armazena temporariamente arquivos excluídos, permitindo restauração. Porém, se o arquivo for excluído permanentemente ou removido de certos dispositivos, a lógica muda. A VUNESP gosta de cobrar essa noção.\n\nAtalhos de teclado são tema recorrente: Ctrl+C copia, Ctrl+V cola, Ctrl+X recorta, Ctrl+Z desfaz, Ctrl+A seleciona tudo, Alt+Tab alterna janelas, Windows+E abre o Explorador de Arquivos, Windows+D mostra a área de trabalho.\n\nO Windows 10 também inclui configurações de sistema, rede, dispositivos, personalização, privacidade e atualização. O Windows Update cuida de atualizações do sistema. Em segurança, aparecem noções de senha, bloqueio de tela, antivírus e firewall.\n\nA VUNESP pode cobrar ações práticas: o que acontece ao arrastar arquivos, como organizar janelas, diferença entre atalho e arquivo original, o papel da barra de tarefas e funções do Explorador. Em resumo, o segredo é dominar o uso real do Windows, não apenas decorar nomes.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Windows 10 é um sistema operacional que administra recursos do computador, programas, arquivos e interação com o usuário."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "É importante conhecer área de trabalho, Menu Iniciar, barra de tarefas, Explorador de Arquivos, lixeira, atalhos e configurações básicas. Arquivo e pasta têm funções diferentes. Atalho não é o arquivo original."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP cobra muito uso prático do sistema: organização de arquivos, atalhos, janelas, área de trabalho, lixeira, barra de tarefas e funções do Explorador."
+    }
+  ],
+  "pontos_chave": [
+    "Windows 10 é o sistema operacional do computador.",
+    "O Explorador de Arquivos gerencia arquivos e pastas.",
+    "Atalho não é o arquivo original.",
+    "A lixeira permite recuperar arquivos excluídos temporariamente.",
+    "Atalhos de teclado são muito cobrados."
+  ],
+  "dicas_prova": [
+    "Diferencie sempre arquivo, pasta e atalho.",
+    "Memorize os atalhos mais cobrados.",
+    "Associe Menu Iniciar, barra de tarefas e Explorador às funções reais.",
+    "Pegadinhas clássicas da VUNESP: confundir atalho com arquivo original e errar operações de copiar, mover e excluir."
+  ],
+  "exemplos": [
+    "Ctrl+C copia e Ctrl+V cola.",
+    "Windows+E abre o Explorador de Arquivos.",
+    "Excluir para a lixeira não é o mesmo que excluir permanentemente."
+  ],
+  "erros_comuns": [
+    "Achar que apagar um atalho apaga o arquivo original.",
+    "Confundir copiar com mover.",
+    "Esquecer a função da lixeira e do Explorador."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que é o Windows 10?",
+      "resposta": "É um sistema operacional."
+    },
+    {
+      "pergunta": "Para que serve o Explorador de Arquivos?",
+      "resposta": "Para gerenciar arquivos e pastas."
+    },
+    {
+      "pergunta": "Atalho é o arquivo original?",
+      "resposta": "Não. É apenas um acesso rápido."
+    },
+    {
+      "pergunta": "Qual atalho abre o Explorador?",
+      "resposta": "Windows+E."
+    },
+    {
+      "pergunta": "Qual atalho alterna janelas abertas?",
+      "resposta": "Alt+Tab."
+    },
+    {
+      "pergunta": "A lixeira exclui definitivamente de imediato?",
+      "resposta": "Em regra, não; ela guarda temporariamente."
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "No Windows 10, o programa usado para gerenciar arquivos e pastas é o:",
+      "alternativas": [
+        "Painel de Controle",
+        "Explorador de Arquivos",
+        "Prompt de Comando",
+        "Bloco de Notas"
+      ],
+      "correta": 1,
+      "explicacao": "O Explorador de Arquivos é a ferramenta principal de gerenciamento de arquivos e pastas."
+    },
+    {
+      "enunciado": "Ao excluir um atalho da área de trabalho, o arquivo original:",
+      "alternativas": [
+        "também é apagado",
+        "é compactado",
+        "permanece no local original",
+        "vai para a nuvem"
+      ],
+      "correta": 2,
+      "explicacao": "Atalho é apenas um link para o arquivo. Apagar o atalho não remove o arquivo original."
+    },
+    {
+      "enunciado": "O atalho Ctrl+X realiza a ação de:",
+      "alternativas": [
+        "copiar",
+        "colar",
+        "recortar",
+        "desfazer"
+      ],
+      "correta": 2,
+      "explicacao": "Ctrl+X recorta o item selecionado."
+    },
+    {
+      "enunciado": "A combinação Windows+D serve para:",
+      "alternativas": [
+        "fechar o computador",
+        "mostrar a área de trabalho",
+        "abrir documentos",
+        "reiniciar o sistema"
+      ],
+      "correta": 1,
+      "explicacao": "Esse atalho minimiza ou oculta janelas para exibir a área de trabalho."
+    },
+    {
+      "enunciado": "A lixeira do Windows 10 tem como função principal:",
+      "alternativas": [
+        "executar antivírus",
+        "armazenar temporariamente arquivos excluídos",
+        "criar backups automáticos",
+        "compactar arquivos"
+      ],
+      "correta": 1,
+      "explicacao": "A lixeira guarda temporariamente arquivos excluídos, permitindo restauração em muitos casos."
+    },
+    {
+      "enunciado": "A barra de tarefas no Windows 10:",
+      "alternativas": [
+        "serve apenas para desligar o computador",
+        "mostra programas e janelas em uso",
+        "é usada só para formatar textos",
+        "substitui o Explorador"
+      ],
+      "correta": 1,
+      "explicacao": "Ela exibe aplicativos abertos, fixados e recursos do sistema."
+    },
+    {
+      "enunciado": "Ctrl+Z é usado para:",
+      "alternativas": [
+        "refazer",
+        "desfazer",
+        "salvar",
+        "imprimir"
+      ],
+      "correta": 1,
+      "explicacao": "Ctrl+Z desfaz a última ação, quando suportado."
+    },
+    {
+      "enunciado": "O Menu Iniciar permite acesso a:",
+      "alternativas": [
+        "somente arquivos de áudio",
+        "apenas internet",
+        "programas, busca e configurações",
+        "somente impressoras"
+      ],
+      "correta": 2,
+      "explicacao": "O Menu Iniciar reúne acesso a aplicativos, configurações, pesquisa e energia."
+    },
+    {
+      "enunciado": "Alt+Tab no Windows 10 serve para:",
+      "alternativas": [
+        "alternar entre janelas abertas",
+        "renomear arquivos",
+        "abrir a lixeira",
+        "copiar tela"
+      ],
+      "correta": 0,
+      "explicacao": "Alt+Tab alterna entre programas e janelas abertas."
+    },
+    {
+      "enunciado": "Uma pegadinha comum em Windows 10 é:",
+      "alternativas": [
+        "confundir atalho com arquivo original",
+        "achar que pasta guarda arquivos",
+        "saber usar o Explorador",
+        "identificar a barra de tarefas"
+      ],
+      "correta": 0,
+      "explicacao": "Esse é um erro clássico em prova de informática."
+    }
+  ]
+}

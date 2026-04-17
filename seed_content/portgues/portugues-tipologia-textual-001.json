@@ -1,0 +1,182 @@
+{
+  "id": "portugues-tipologia-textual-001",
+  "name": "Tipologia textual (narração, descrição, dissertação)",
+  "topico": "Tipologia textual (narração, descrição, dissertação)",
+  "resumo": "Tipologia textual é a classificação dos textos conforme sua estrutura predominante. As três mais cobradas são narração, descrição e dissertação. Narração apresenta ações e acontecimentos; descrição caracteriza seres, objetos ou ambientes; dissertação expõe ideias, argumentos ou reflexões. A VUNESP costuma cobrar a identificação da tipologia predominante e as marcas linguísticas de cada uma.",
+  "teoria": "Tipologia textual diz respeito à forma como o texto é construído. Cada tipo textual tem finalidade, estrutura e marcas linguísticas próprias. Na prática, um texto pode misturar mais de um tipo, mas sempre há uma predominância. Por isso, em prova, a pergunta normalmente não é se o texto tem apenas um tipo, e sim qual tipologia predomina.\n\nA narração apresenta fatos, ações, acontecimentos e mudanças no tempo. Normalmente há enredo, personagens, espaço, tempo e sequência de eventos. Verbos de ação, progressão temporal e ideia de movimento são marcas frequentes. Exemplo: \"João saiu cedo, pegou o ônibus e chegou atrasado ao trabalho.\" O foco está no que acontece.\n\nA descrição apresenta características de pessoas, objetos, lugares, sensações ou situações. Em vez de contar uma sequência de ações, descreve estados, qualidades, formas, aparências e aspectos. Verbos de estado e adjetivos aparecem com frequência. Exemplo: \"A sala era ampla, silenciosa e iluminada por uma luz fraca.\" O foco está em como algo é.\n\nA dissertação expõe ideias, opiniões, argumentos, análises e reflexões. Pode ser expositiva, quando apenas explica um tema, ou argumentativa, quando defende um ponto de vista. É muito comum em artigos, editoriais e textos opinativos. O foco está em discutir um assunto, não em narrar fatos nem descrever cenários.\n\nA VUNESP costuma cobrar as diferenças básicas: narração responde ao que aconteceu; descrição responde a como algo é; dissertação responde ao que se pensa, se analisa ou se argumenta sobre um tema. Também explora textos híbridos, em que aparece uma parte descritiva dentro de uma narrativa ou um exemplo narrativo dentro de uma dissertação. Nesses casos, o candidato deve localizar o predomínio.\n\nEm resumo, narração = ação; descrição = caracterização; dissertação = exposição ou argumentação. Saber identificar a finalidade principal do texto é o caminho mais seguro.",
+  "teoria_blocos": [
+    {
+      "titulo": "Conceito",
+      "texto": "Tipologia textual é a forma estrutural predominante do texto. Entre as mais cobradas estão narração, descrição e dissertação. Cada uma tem objetivo comunicativo próprio e marcas linguísticas específicas."
+    },
+    {
+      "titulo": "Regras",
+      "texto": "Narração apresenta acontecimentos em sequência; descrição caracteriza seres, objetos e ambientes; dissertação expõe ideias, explicações ou argumentos. Um mesmo texto pode misturar tipos textuais, mas um deles costuma predominar."
+    },
+    {
+      "titulo": "Como cai na prova (VUNESP)",
+      "texto": "A VUNESP pede a tipologia predominante, identifica marcas linguísticas e compara trechos. Também gosta de questões em que o texto tem mistura de tipos, mas exige do candidato a percepção do núcleo estrutural."
+    }
+  ],
+  "pontos_chave": [
+    "Narração tem ação, tempo e sequência de fatos.",
+    "Descrição destaca características, qualidades e estados.",
+    "Dissertação expõe ou argumenta ideias sobre um tema.",
+    "Um texto pode misturar tipos, mas um costuma predominar.",
+    "A finalidade do texto ajuda a identificar sua tipologia."
+  ],
+  "dicas_prova": [
+    "Procure primeiro o foco do texto: ação, caracterização ou discussão de ideias.",
+    "Observe os verbos: ação sugere narração; estado e adjetivação sugerem descrição.",
+    "Quando houver tese, explicação e argumento, desconfie de dissertação.",
+    "Pegadinhas clássicas da VUNESP: texto misto com trecho descritivo dentro de narrativa ou exemplo narrativo dentro de dissertação."
+  ],
+  "exemplos": [
+    "Narração: O policial correu, alcançou o suspeito e recuperou o objeto.",
+    "Descrição: O uniforme era escuro, impecável e bem alinhado.",
+    "Dissertação: A disciplina é fundamental para alcançar bons resultados em concursos."
+  ],
+  "erros_comuns": [
+    "Confundir descrição com narração apenas porque há verbos no texto.",
+    "Achar que todo texto com opinião é narrativo porque cita um fato.",
+    "Ignorar a predominância e marcar um tipo secundário."
+  ],
+  "flashcards": [
+    {
+      "pergunta": "O que caracteriza a narração?",
+      "resposta": "A apresentação de fatos ou ações em sequência temporal."
+    },
+    {
+      "pergunta": "O que caracteriza a descrição?",
+      "resposta": "A apresentação de características, qualidades e estados."
+    },
+    {
+      "pergunta": "O que caracteriza a dissertação?",
+      "resposta": "A exposição ou argumentação de ideias sobre um tema."
+    },
+    {
+      "pergunta": "Um texto pode ter mais de uma tipologia?",
+      "resposta": "Sim, mas geralmente uma delas predomina."
+    },
+    {
+      "pergunta": "Como a VUNESP costuma cobrar tipologia?",
+      "resposta": "Pedindo a tipologia predominante ou as marcas que a identificam."
+    },
+    {
+      "pergunta": "Qual pergunta ajuda a identificar a tipologia?",
+      "resposta": "O texto narra, descreve ou discute um tema?"
+    }
+  ],
+  "questoes": [
+    {
+      "enunciado": "Um texto que apresenta personagens, fatos e sequência temporal é predominantemente:",
+      "alternativas": [
+        "descritivo",
+        "dissertativo",
+        "narrativo",
+        "injuntivo"
+      ],
+      "correta": 2,
+      "explicacao": "Essas são marcas típicas da narração."
+    },
+    {
+      "enunciado": "Quando o texto destaca cores, formas, tamanhos e qualidades de um objeto, predomina a:",
+      "alternativas": [
+        "narração",
+        "descrição",
+        "dissertação",
+        "argumentação jurídica"
+      ],
+      "correta": 1,
+      "explicacao": "Esses elementos são marcas da descrição."
+    },
+    {
+      "enunciado": "A dissertação tem como foco principal:",
+      "alternativas": [
+        "relatar acontecimentos",
+        "caracterizar cenários",
+        "expor ou defender ideias",
+        "dar ordens"
+      ],
+      "correta": 2,
+      "explicacao": "A dissertação trabalha com reflexão, explicação ou argumentação."
+    },
+    {
+      "enunciado": "Na VUNESP, a expressão 'tipologia predominante' indica que:",
+      "alternativas": [
+        "o texto só pode ter um tipo",
+        "o texto pode misturar tipos, mas um se destaca",
+        "todo texto é dissertativo",
+        "narração e descrição nunca aparecem juntas"
+      ],
+      "correta": 1,
+      "explicacao": "Os textos podem ser mistos, mas a prova quer o tipo principal."
+    },
+    {
+      "enunciado": "Assinale a tipologia do trecho: 'A rua era estreita, silenciosa e mal iluminada.'",
+      "alternativas": [
+        "narração",
+        "descrição",
+        "dissertação",
+        "injunção"
+      ],
+      "correta": 1,
+      "explicacao": "O trecho caracteriza o ambiente, por isso é descritivo."
+    },
+    {
+      "enunciado": "Assinale a tipologia do trecho: 'A educação pública precisa de planejamento e investimento contínuo.'",
+      "alternativas": [
+        "descrição",
+        "narração",
+        "dissertação",
+        "narração dialogada"
+      ],
+      "correta": 2,
+      "explicacao": "O trecho apresenta uma ideia/opinião sobre um tema."
+    },
+    {
+      "enunciado": "Assinale a tipologia do trecho: 'Ele saiu cedo, perdeu o ônibus e chegou atrasado.'",
+      "alternativas": [
+        "narração",
+        "descrição",
+        "dissertação",
+        "definição"
+      ],
+      "correta": 0,
+      "explicacao": "Há sequência de ações, marca típica da narração."
+    },
+    {
+      "enunciado": "Qual elemento ajuda mais a identificar uma descrição?",
+      "alternativas": [
+        "sequência de eventos",
+        "presença de tese",
+        "predomínio de características",
+        "conclusão argumentativa"
+      ],
+      "correta": 2,
+      "explicacao": "A descrição se organiza pela caracterização."
+    },
+    {
+      "enunciado": "A principal finalidade da narração é:",
+      "alternativas": [
+        "explicar um conceito",
+        "relatar acontecimentos",
+        "defender uma tese",
+        "comparar definições"
+      ],
+      "correta": 1,
+      "explicacao": "Narração tem foco em fatos e ações."
+    },
+    {
+      "enunciado": "Em um texto com descrição inicial do ambiente e depois uma sequência de ações, a tipologia predominante depende:",
+      "alternativas": [
+        "do primeiro verbo apenas",
+        "do tamanho do texto",
+        "da função principal do conjunto",
+        "da quantidade de adjetivos"
+      ],
+      "correta": 2,
+      "explicacao": "O que define a predominância é a função principal do texto como um todo."
+    }
+  ]
+}
