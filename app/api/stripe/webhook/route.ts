@@ -84,7 +84,7 @@ export async function POST(request: Request) {
     };
 
     const currentPeriodEnd =
-      subscription.items.data[0]?.current_period_end ?? null;
+      (subscription as any).items?.data?.[0]?.current_period_end ?? null;
 
     await admin
       .from('subscriptions')
