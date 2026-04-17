@@ -69,10 +69,17 @@ export async function POST(request: Request) {
       .from('subscriptions')
       .update({
         status: statusMap[subscription.status] ?? 'past_due',
-        current_period_end: subscription.current_period_end
-          ? new Date(subscription.current_period_end * 1000).toISOString()
-          : null
-      })
+        const firstItem = subscription.items.data[0];
+    const currentPeriodEnd = firstItem?.current_period_end ?? null;
+    
+    await supabase
+      .from("subscriptions")
+      .update({
+        status: statusMap[subscription.status] ?? "past_due",
+        current_period_end: currentPeriodEnd
+          ? new Date(currentPeriodEnd * 1000).toISOString()
+          : null,
+      });
       .eq('provider_subscription_id', subscriptionId);
   }
 
