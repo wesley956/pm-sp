@@ -37,7 +37,7 @@ export default async function AdminPage() {
                     </tr>
                   </thead>
                   <tbody>
-                    {overview.latestContents.map((item) => (
+                    {(overview.latestContents ?? []).map((item) => (
                       <tr key={item.id}>
                         <td>{item.name}</td>
                         <td>{item.discipline}</td>
