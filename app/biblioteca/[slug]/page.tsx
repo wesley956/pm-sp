@@ -25,7 +25,7 @@ export default async function ContentPage({ params }: { params: { slug: string }
             {item.theory_blocks.length ? (
               <>
                 <h3>Blocos rápidos</h3>
-                {item.theory_blocks.map((block) => (
+                {item.theory_blocks.map((block: { titulo: string; texto: string }) => (
                   <div key={block.titulo} className="panel">
                     <strong>{block.titulo}</strong>
                     <p className="muted">{block.texto}</p>
