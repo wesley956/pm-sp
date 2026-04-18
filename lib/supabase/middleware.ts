@@ -5,7 +5,7 @@ import { hasSupabaseEnv } from '@/lib/env';
 type CookieToSet = {
   name: string;
   value: string;
-  options?: Record<string, unknown>;
+  options?: Parameters<NextResponse['cookies']['set']>[2];
 };
 
 export async function updateSession(request: NextRequest) {
@@ -31,11 +31,7 @@ export async function updateSession(request: NextRequest) {
           supabaseResponse = NextResponse.next({ request });
 
           cookiesToSet.forEach(({ name, value, options }) => {
-            supabaseResponse.cookies.set(
-              name,
-              value,
-              options as Parameters<typeof supabaseResponse.cookies.set>[2]
-            );
+            supabaseResponse.cookies.set(name, value, options);
           });
         }
       }
