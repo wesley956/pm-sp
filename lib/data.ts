@@ -241,20 +241,36 @@ export async function getReviewQueue() {
 
   return (data ?? [])
     .map((row) => row.contents)
-    .filter(Boolean)
-    .map((content: Record<string, unknown>) => ({
-      slug: String(content.slug),
+    .filter(
+      (content): content is Record<string, unknown> =>
+        !!content && typeof content === 'object' && !Array.isArray(content)
+    )
+    .map((content) => ({
+      slug: String(content.slug ?? ''),
       source_id: String(content.source_id ?? ''),
-      name: String(content.name),
-      topic: String(content.topic),
-      discipline: String(content.discipline),
+      name: String(content.name ?? ''),
+      topic: String(content.topic ?? ''),
+      discipline: String(content.discipline ?? ''),
       summary: String(content.summary ?? ''),
       theory: String(content.theory ?? ''),
-      theory_blocks: (content.theory_blocks as Array<{ titulo: string; texto: string }>) ?? [],
-      key_points: (content.key_points as string[]) ?? [],
-      proof_tips: (content.proof_tips as string[]) ?? [],
-      examples: (content.examples as string[]) ?? [],
-      common_errors: (content.common_errors as string[]) ?? [],
+      theory_blocks: Array.isArray(content.theory_blocks)
+        ? content.theory_blocks.map((block) => ({
+            titulo: String((block as Record<string, unknown>)?.titulo ?? ''),
+            texto: String((block as Record<string, unknown>)?.texto ?? ''),
+          }))
+        : [],
+      key_points: Array.isArray(content.key_points)
+        ? content.key_points.map(String)
+        : [],
+      proof_tips: Array.isArray(content.proof_tips)
+        ? content.proof_tips.map(String)
+        : [],
+      examples: Array.isArray(content.examples)
+        ? content.examples.map(String)
+        : [],
+      common_errors: Array.isArray(content.common_errors)
+        ? content.common_errors.map(String)
+        : [],
       minimum_plan: (content.minimum_plan as PlanSlug) ?? 'basic',
       flashcards: [],
       questions: []
