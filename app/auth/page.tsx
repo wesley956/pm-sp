@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { AuthForm } from '@/components/auth-form';
 import { plans } from '@/lib/plans';
 import type { PlanSlug } from '@/lib/types';
@@ -17,14 +18,40 @@ export default function AuthPage({
           <span className="eyebrow">Acesso</span>
           <h1>Entrar ou criar sua conta</h1>
           <p className="muted">
-            Você pode vender com dois planos, sem complicar sua operação. O aluno cria a conta,
-            escolhe o plano e finaliza no checkout.
+            Escolha seu plano abaixo, crie sua conta e finalize a assinatura no checkout.
           </p>
+
+          <div
+            style={{
+              display: 'flex',
+              gap: '12px',
+              marginTop: '20px',
+              marginBottom: '20px',
+              flexWrap: 'wrap'
+            }}
+          >
+            <Link
+              href="/auth?plan=basic"
+              className={`button ${selected === 'basic' ? 'primary' : 'secondary'}`}
+            >
+              Plano Básico
+            </Link>
+
+            <Link
+              href="/auth?plan=complete"
+              className={`button ${selected === 'complete' ? 'primary' : 'secondary'}`}
+            >
+              Plano Completo
+            </Link>
+          </div>
 
           <div className="warning-card">
             <strong>Plano selecionado: {selectedPlan.name}</strong>
             <p className="muted">
-              Depois do cadastro, o checkout do Stripe usa o preço correspondente e o webhook atualiza a assinatura automaticamente.
+              {selectedPlan.description}
+            </p>
+            <p className="muted" style={{ marginTop: '8px' }}>
+              Valor: <strong>{selectedPlan.priceLabel}</strong>
             </p>
           </div>
         </div>
