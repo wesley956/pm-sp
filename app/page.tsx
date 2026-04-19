@@ -1,53 +1,43 @@
 import Link from 'next/link';
 import { PlanCard } from '@/components/plan-card';
-import { StatCard } from '@/components/stat-card';
 import { plans } from '@/lib/plans';
-import { demoStats } from '@/lib/demo';
 
 export default function HomePage() {
   return (
-    <>
-      <section className="hero">
-        <div className="container hero-shell">
-          <div className="hero-card">
-            <span className="eyebrow">SaaS de estudo prático</span>
-            <h1>Estudo direto, sem vídeo, sem grupo, sem enrolação.</h1>
-            <p className="kicker">
-              O QAP Elite foi desenhado para quem trabalha, tem pouco tempo e quer estudar do jeito mais eficiente:
-              conteúdo objetivo, revisão automática, treino e simulados.
-            </p>
+    <section className="section-lg">
+      <div className="container hero">
+        <div className="hero-copy">
+          <span className="eyebrow">PM-SP 2026</span>
+          <h1>Estude sem enrolação</h1>
+          <p className="muted">
+            Conteúdo objetivo, revisão inteligente, treino prático e simulados para quem quer estudar
+            com eficiência, mesmo tendo pouco tempo.
+          </p>
 
-            <div className="hero-actions">
-              <Link href="/auth?plan=basic" className="button primary">Começar agora</Link>
-              <Link href="/checkout?plan=complete" className="button secondary">Assinar completo</Link>
-            </div>
+          <div className="hero-actions">
+            <Link href="/auth" className="button primary">
+              Começar agora
+            </Link>
 
-            <ul className="hero-list">
-              <li>Biblioteca organizada por disciplina</li>
-              <li>Revisão inteligente sem o aluno montar cronograma</li>
-              <li>Questões e simulados para o plano completo</li>
-              <li>Pronto para Vercel + Supabase + Stripe</li>
-            </ul>
-          </div>
-
-          <div className="grid">
-            <StatCard label="Conteúdos" value={demoStats.contents} helper="Já importados do seu ZIP" />
-            <StatCard label="Flashcards" value={demoStats.flashcards} helper="Estudo rápido e revisão" />
-            <StatCard label="Questões" value={demoStats.questions} helper="Treino e simulados" />
-            <StatCard label="Disciplinas" value={demoStats.disciplines.length} helper={demoStats.disciplines.join(' • ')} />
+            <Link href="/auth?plan=complete" className="button secondary">
+              Assinar completo
+            </Link>
           </div>
         </div>
-      </section>
 
-      <section className="section-lg">
-        <div className="container">
-          <div className="grid grid-2">
+        <div className="panel">
+          <h2>Escolha seu plano</h2>
+          <p className="muted">
+            Dois planos simples, sem complicação e sem enrolação.
+          </p>
+
+          <div className="plans-grid">
             {plans.map((plan) => (
               <PlanCard key={plan.slug} {...plan} />
             ))}
           </div>
         </div>
-      </section>
-    </>
+      </div>
+    </section>
   );
 }
