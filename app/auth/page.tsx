@@ -47,11 +47,9 @@ export default function AuthPage({
 
           <div className="warning-card">
             <strong>Plano selecionado: {selectedPlan.name}</strong>
-            <p className="muted">
-              {selectedPlan.description}
-            </p>
+            <p className="muted">{selectedPlan.description}</p>
             <p className="muted" style={{ marginTop: '8px' }}>
-              Valor: <strong>{selectedPlan.priceLabel}</strong>
+              Valor: <strong>{selectedPlan.monthlyPrice}</strong>
             </p>
           </div>
         </div>
