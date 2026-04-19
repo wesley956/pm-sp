@@ -10,14 +10,14 @@ export function AuthForm({ selectedPlan }: { selectedPlan: PlanSlug }) {
   const [fullName, setFullName] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
-  const [status, setStatus] = useState<string>('');
+  const [status, setStatus] = useState('');
 
   const label = useMemo(
     () => (selectedPlan === 'complete' ? 'Plano Completo' : 'Plano Básico'),
     [selectedPlan]
   );
 
-  async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
+  async function handleSubmit(event: React.FormEvent) {
     event.preventDefault();
 
     if (!hasSupabaseEnv()) {
@@ -31,59 +31,104 @@ export function AuthForm({ selectedPlan }: { selectedPlan: PlanSlug }) {
       const { error } = await supabase.auth.signUp({
         email,
         password,
-        options: { data: { full_name: fullName, selected_plan: selectedPlan } }
+        options: {
+          data: {
+            full_name: fullName,
+            selected_plan: selectedPlan
+          }
+        }
       });
-      setStatus(error ? error.message : 'Conta criada. Agora finalize no checkout.');
+
+      if (error) {
+        setStatus(error.message);
+        return;
+      }
+
+      setStatus('Conta criada com sucesso. Redirecionando para o checkout...');
+      window.location.href = `/checkout?plan=${selectedPlan}`;
       return;
     }
 
-    const { error } = await supabase.auth.signInWithPassword({ email, password });
-    setStatus(error ? error.message : 'Login realizado. Você já pode seguir para o dashboard.');
-    if (!error) window.location.href = '/dashboard';
+    const { error } = await supabase.auth.signInWithPassword({
+      email,
+      password
+    });
+
+    if (error) {
+      setStatus(error.message);
+      return;
+    }
+
+    setStatus('Login realizado. Redirecionando para o checkout...');
+    window.location.href = `/checkout?plan=${selectedPlan}`;
   }
 
   return (
-    <div className="auth-card">
-      <div className="segmented">
-        <button type="button" className={mode === 'signin' ? 'active' : ''} onClick={() => setMode('signin')}>Entrar</button>
-        <button type="button" className={mode === 'signup' ? 'active' : ''} onClick={() => setMode('signup')}>Criar conta</button>
+    <div className="panel">
+      <div className="button-row" style={{ marginBottom: 16 }}>
+        <button
+          type="button"
+          className={`button ${mode === 'signin' ? 'primary' : 'secondary'}`}
+          onClick={() => setMode('signin')}
+        >
+          Entrar
+        </button>
+        <button
+          type="button"
+          className={`button ${mode === 'signup' ? 'primary' : 'secondary'}`}
+          onClick={() => setMode('signup')}
+        >
+          Criar conta
+        </button>
       </div>
 
-      <form className="form-card" onSubmit={handleSubmit}>
-        <h2>{mode === 'signin' ? 'Acessar sua conta' : 'Criar sua conta'}</h2>
+      <h2>{mode === 'signin' ? 'Acessar sua conta' : 'Criar sua conta'}</h2>
 
+      <form onSubmit={handleSubmit} style={{ display: 'grid', gap: 12 }}>
         {mode === 'signup' ? (
-          <label>
-            Nome
-            <input value={fullName} onChange={(e) => setFullName(e.target.value)} placeholder="Seu nome" />
-          </label>
+          <div>
+            <label>Nome</label>
+            <input
+              className="input"
+              value={fullName}
+              onChange={(e) => setFullName(e.target.value)}
+              placeholder="Seu nome"
+            />
+          </div>
         ) : null}
 
-        <label>
-          E-mail
-          <input value={email} onChange={(e) => setEmail(e.target.value)} type="email" placeholder="seuemail@exemplo.com" />
-        </label>
+        <div>
+          <label>E-mail</label>
+          <input
+            className="input"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            type="email"
+            placeholder="seuemail@exemplo.com"
+          />
+        </div>
 
-        <label>
-          Senha
-          <input value={password} onChange={(e) => setPassword(e.target.value)} type="password" placeholder="••••••••" />
-        </label>
+        <div>
+          <label>Senha</label>
+          <input
+            className="input"
+            value={password}
+            onChange={(e) => setPassword(e.target.value)}
+            type="password"
+            placeholder="••••••••"
+          />
+        </div>
 
-        <label>
-          Plano escolhido
-          <input value={label} readOnly />
-        </label>
+        <div className="warning-card">
+          <strong>Plano escolhido:</strong> {label}
+        </div>
 
         <button type="submit" className="button primary full-width">
-          {mode === 'signin' ? 'Entrar' : 'Criar conta'}
+          {mode === 'signin' ? 'Entrar e seguir para pagamento' : 'Criar conta e seguir para pagamento'}
         </button>
+
+        {status ? <p className="muted">{status}</p> : null}
       </form>
-
-      {mode === 'signup' ? (
-        <a href={`/checkout?plan=${selectedPlan}`} className="button secondary full-width">Seguir para checkout</a>
-      ) : null}
-
-      {status ? <p className="notice">{status}</p> : null}
     </div>
   );
 }
