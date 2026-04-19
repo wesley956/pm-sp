@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getLibraryContents } from '@/lib/data';
+import type { ContentItem } from '@/lib/types';
 
 const disciplineOrder = [
   'Português',
@@ -18,12 +19,15 @@ export default async function BibliotecaPage({
 }) {
   const items = await getLibraryContents(searchParams?.q);
 
-  const grouped = items.reduce<Record<string, typeof items>>((acc, item) => {
-    const key = item.discipline || 'Outros';
-    if (!acc[key]) acc[key] = [];
-    acc[key].push(item);
-    return acc;
-  }, {});
+  const grouped: Record<string, ContentItem[]> = items.reduce(
+    (acc: Record<string, ContentItem[]>, item: ContentItem) => {
+      const key = item.discipline || 'Outros';
+      if (!acc[key]) acc[key] = [];
+      acc[key].push(item);
+      return acc;
+    },
+    {}
+  );
 
   const sortedDisciplines = Object.keys(grouped).sort((a, b) => {
     const aIndex = disciplineOrder.indexOf(a);
@@ -75,7 +79,8 @@ export default async function BibliotecaPage({
                 </div>
 
                 <div className="badge">
-                  {grouped[discipline].length} conteúdo{grouped[discipline].length !== 1 ? 's' : ''}
+                  {grouped[discipline].length} conteúdo
+                  {grouped[discipline].length !== 1 ? 's' : ''}
                 </div>
               </div>
 
@@ -97,7 +102,9 @@ export default async function BibliotecaPage({
                     >
                       <span className="badge">{item.discipline}</span>
                       <span className="badge">
-                        {item.minimum_plan === 'complete' ? 'Plano Completo' : 'Plano Básico'}
+                        {item.minimum_plan === 'complete'
+                          ? 'Plano Completo'
+                          : 'Plano Básico'}
                       </span>
                     </div>
 
@@ -113,9 +120,7 @@ export default async function BibliotecaPage({
           {sortedDisciplines.length === 0 ? (
             <div className="panel">
               <h2>Nenhum conteúdo encontrado</h2>
-              <p className="muted">
-                Tente buscar com outro termo.
-              </p>
+              <p className="muted">Tente buscar com outro termo.</p>
             </div>
           ) : null}
         </div>
